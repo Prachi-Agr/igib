@@ -14,9 +14,9 @@
 
 <script>
 // set the dimensions and margins of the graph
-var margin = {top: 0, right: 30, bottom: 50, left: 60},
-  width = 650 - margin.left - margin.right,
-  height = 400 - margin.top - margin.bottom;
+var margin = {top: 0, right: 30, bottom: 100, left: 60},
+  width = 1500 - margin.left - margin.right,
+  height = 800 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
@@ -30,19 +30,18 @@ var svg = d3.select("#my_dataviz")
 // Read data
 d3.json("https://raw.githubusercontent.com/ballaneypranav/igib/master/6acg/interactions.json?token=AAYCAEUQMXXVJRWCZFGIOPK62ARBK", function( data) {
 
-  console.log(data)
   
   // List of node names
   var allNodes = data.nodes.map(function(d){return d.name})
 
   // List of groups
-  var allGroups = data.nodes.map(function(d){return d.grp})
+  var allGroups = data.nodes.map(function(d){return d.chain})
   allGroups = [...new Set(allGroups)]
 
   // A color scale for groups:
   var color = d3.scaleOrdinal()
     .domain(allGroups)
-    .range(d3.schemeSet3);
+    .range(d3.schemeCategory10);
 
   // A linear scale for node size
   var size = d3.scaleLinear()
@@ -89,8 +88,8 @@ d3.json("https://raw.githubusercontent.com/ballaneypranav/igib/master/6acg/inter
     .append("circle")
       .attr("cx", function(d){ return(x(d.name))})
       .attr("cy", height-30)
-      .attr("r", function(d){ return(size(d.n))})
-      .style("fill", function(d){ return color(d.grp)})
+      .attr("r", 5)
+      .style("fill", function(d){ return color(d.chain)})
       .attr("stroke", "white")
 
   // And give them a label
