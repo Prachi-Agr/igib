@@ -1,0 +1,1746 @@
+[
+  [
+    {
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "element": "N",
+      "label": "C ASN 473 N"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 24,
+      "element": "C",
+      "label": "D GLN 24 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "element": "N",
+      "label": "C ASN 473 N"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 24,
+      "element": "O",
+      "label": "D GLN 24 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "element": "C",
+      "label": "C ASN 473 C"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 24,
+      "element": "C",
+      "label": "D GLN 24 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "element": "C",
+      "label": "C ASN 473 C"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 24,
+      "element": "C",
+      "label": "D GLN 24 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "element": "N",
+      "label": "C ASN 473 N"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 24,
+      "element": "C",
+      "label": "D GLN 24 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "element": "O",
+      "label": "C ASN 473 O"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 24,
+      "element": "C",
+      "label": "D GLN 24 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "element": "C",
+      "label": "C ASN 473 C"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 24,
+      "element": "C",
+      "label": "D GLN 24 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "element": "N",
+      "label": "C ASN 473 N"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 24,
+      "element": "C",
+      "label": "D GLN 24 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "element": "O",
+      "label": "C ASN 473 O"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 24,
+      "element": "C",
+      "label": "D GLN 24 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "element": "C",
+      "label": "C ASN 473 C"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 24,
+      "element": "C",
+      "label": "D GLN 24 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "element": "C",
+      "label": "C ASN 473 C"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 24,
+      "element": "C",
+      "label": "D GLN 24 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "element": "O",
+      "label": "C ASN 473 O"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 24,
+      "element": "O",
+      "label": "D GLN 24 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "element": "C",
+      "label": "C ASN 473 C"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 24,
+      "element": "O",
+      "label": "D GLN 24 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "element": "C",
+      "label": "C ASN 473 C"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 24,
+      "element": "O",
+      "label": "D GLN 24 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "element": "O",
+      "label": "C ASN 473 O"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 24,
+      "element": "N",
+      "label": "D GLN 24 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "element": "C",
+      "label": "C TYR 475 C"
+    },
+    {
+      "chain": "D",
+      "resname": "THR",
+      "resnum": 27,
+      "element": "C",
+      "label": "D THR 27 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "element": "C",
+      "label": "C TYR 475 C"
+    },
+    {
+      "chain": "D",
+      "resname": "THR",
+      "resnum": 27,
+      "element": "C",
+      "label": "D THR 27 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "LEU",
+      "resnum": 443,
+      "element": "C",
+      "label": "C LEU 443 C"
+    },
+    {
+      "chain": "D",
+      "resname": "THR",
+      "resnum": 27,
+      "element": "C",
+      "label": "D THR 27 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "element": "O",
+      "label": "C TYR 475 O"
+    },
+    {
+      "chain": "D",
+      "resname": "PHE",
+      "resnum": 28,
+      "element": "C",
+      "label": "D PHE 28 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "element": "C",
+      "label": "C TYR 475 C"
+    },
+    {
+      "chain": "D",
+      "resname": "PHE",
+      "resnum": 28,
+      "element": "C",
+      "label": "D PHE 28 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "element": "O",
+      "label": "C TYR 475 O"
+    },
+    {
+      "chain": "D",
+      "resname": "PHE",
+      "resnum": 28,
+      "element": "C",
+      "label": "D PHE 28 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "element": "O",
+      "label": "C TYR 475 O"
+    },
+    {
+      "chain": "D",
+      "resname": "PHE",
+      "resnum": 28,
+      "element": "C",
+      "label": "D PHE 28 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "element": "O",
+      "label": "C TYR 475 O"
+    },
+    {
+      "chain": "D",
+      "resname": "PHE",
+      "resnum": 28,
+      "element": "C",
+      "label": "D PHE 28 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "element": "C",
+      "label": "C TYR 442 C"
+    },
+    {
+      "chain": "D",
+      "resname": "ASP",
+      "resnum": 30,
+      "element": "C",
+      "label": "D ASP 30 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "element": "C",
+      "label": "C TYR 442 C"
+    },
+    {
+      "chain": "D",
+      "resname": "ASP",
+      "resnum": 30,
+      "element": "C",
+      "label": "D ASP 30 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "element": "C",
+      "label": "C TYR 442 C"
+    },
+    {
+      "chain": "D",
+      "resname": "LYS",
+      "resnum": 31,
+      "element": "N",
+      "label": "D LYS 31 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "element": "O",
+      "label": "C TYR 442 O"
+    },
+    {
+      "chain": "D",
+      "resname": "LYS",
+      "resnum": 31,
+      "element": "N",
+      "label": "D LYS 31 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "element": "O",
+      "label": "C TYR 442 O"
+    },
+    {
+      "chain": "D",
+      "resname": "LYS",
+      "resnum": 31,
+      "element": "C",
+      "label": "D LYS 31 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "element": "O",
+      "label": "C TYR 442 O"
+    },
+    {
+      "chain": "D",
+      "resname": "LYS",
+      "resnum": 31,
+      "element": "C",
+      "label": "D LYS 31 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "element": "O",
+      "label": "C TYR 442 O"
+    },
+    {
+      "chain": "D",
+      "resname": "LYS",
+      "resnum": 31,
+      "element": "C",
+      "label": "D LYS 31 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "element": "C",
+      "label": "C TYR 475 C"
+    },
+    {
+      "chain": "D",
+      "resname": "LYS",
+      "resnum": 31,
+      "element": "N",
+      "label": "D LYS 31 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "element": "C",
+      "label": "C TYR 475 C"
+    },
+    {
+      "chain": "D",
+      "resname": "LYS",
+      "resnum": 31,
+      "element": "N",
+      "label": "D LYS 31 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 440,
+      "element": "O",
+      "label": "C TYR 440 O"
+    },
+    {
+      "chain": "D",
+      "resname": "HIS",
+      "resnum": 34,
+      "element": "C",
+      "label": "D HIS 34 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 440,
+      "element": "O",
+      "label": "C TYR 440 O"
+    },
+    {
+      "chain": "D",
+      "resname": "HIS",
+      "resnum": 34,
+      "element": "C",
+      "label": "D HIS 34 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 440,
+      "element": "O",
+      "label": "C TYR 440 O"
+    },
+    {
+      "chain": "D",
+      "resname": "HIS",
+      "resnum": 34,
+      "element": "N",
+      "label": "D HIS 34 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 440,
+      "element": "O",
+      "label": "C TYR 440 O"
+    },
+    {
+      "chain": "D",
+      "resname": "HIS",
+      "resnum": 34,
+      "element": "C",
+      "label": "D HIS 34 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 440,
+      "element": "O",
+      "label": "C TYR 440 O"
+    },
+    {
+      "chain": "D",
+      "resname": "HIS",
+      "resnum": 34,
+      "element": "C",
+      "label": "D HIS 34 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 440,
+      "element": "O",
+      "label": "C TYR 440 O"
+    },
+    {
+      "chain": "D",
+      "resname": "HIS",
+      "resnum": 34,
+      "element": "N",
+      "label": "D HIS 34 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 436,
+      "element": "O",
+      "label": "C TYR 436 O"
+    },
+    {
+      "chain": "D",
+      "resname": "ASP",
+      "resnum": 38,
+      "element": "C",
+      "label": "D ASP 38 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 436,
+      "element": "C",
+      "label": "C TYR 436 C"
+    },
+    {
+      "chain": "D",
+      "resname": "ASP",
+      "resnum": 38,
+      "element": "C",
+      "label": "D ASP 38 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 436,
+      "element": "O",
+      "label": "C TYR 436 O"
+    },
+    {
+      "chain": "D",
+      "resname": "ASP",
+      "resnum": 38,
+      "element": "O",
+      "label": "D ASP 38 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 482,
+      "element": "C",
+      "label": "C GLY 482 C"
+    },
+    {
+      "chain": "D",
+      "resname": "ASP",
+      "resnum": 38,
+      "element": "O",
+      "label": "D ASP 38 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 436,
+      "element": "C",
+      "label": "C TYR 436 C"
+    },
+    {
+      "chain": "D",
+      "resname": "ASP",
+      "resnum": 38,
+      "element": "O",
+      "label": "D ASP 38 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 436,
+      "element": "C",
+      "label": "C TYR 436 C"
+    },
+    {
+      "chain": "D",
+      "resname": "ASP",
+      "resnum": 38,
+      "element": "O",
+      "label": "D ASP 38 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 436,
+      "element": "O",
+      "label": "C TYR 436 O"
+    },
+    {
+      "chain": "D",
+      "resname": "ASP",
+      "resnum": 38,
+      "element": "O",
+      "label": "D ASP 38 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 436,
+      "element": "C",
+      "label": "C TYR 436 C"
+    },
+    {
+      "chain": "D",
+      "resname": "ASP",
+      "resnum": 38,
+      "element": "O",
+      "label": "D ASP 38 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 436,
+      "element": "C",
+      "label": "C TYR 436 C"
+    },
+    {
+      "chain": "D",
+      "resname": "ASP",
+      "resnum": 38,
+      "element": "O",
+      "label": "D ASP 38 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "element": "C",
+      "label": "C TYR 484 C"
+    },
+    {
+      "chain": "D",
+      "resname": "TYR",
+      "resnum": 41,
+      "element": "C",
+      "label": "D TYR 41 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "element": "C",
+      "label": "C TYR 484 C"
+    },
+    {
+      "chain": "D",
+      "resname": "TYR",
+      "resnum": 41,
+      "element": "C",
+      "label": "D TYR 41 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "element": "C",
+      "label": "C TYR 484 C"
+    },
+    {
+      "chain": "D",
+      "resname": "TYR",
+      "resnum": 41,
+      "element": "C",
+      "label": "D TYR 41 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "element": "O",
+      "label": "C THR 486 O"
+    },
+    {
+      "chain": "D",
+      "resname": "TYR",
+      "resnum": 41,
+      "element": "O",
+      "label": "D TYR 41 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 487,
+      "element": "N",
+      "label": "C THR 487 N"
+    },
+    {
+      "chain": "D",
+      "resname": "TYR",
+      "resnum": 41,
+      "element": "O",
+      "label": "D TYR 41 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "element": "O",
+      "label": "C THR 486 O"
+    },
+    {
+      "chain": "D",
+      "resname": "TYR",
+      "resnum": 41,
+      "element": "O",
+      "label": "D TYR 41 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "element": "C",
+      "label": "C THR 486 C"
+    },
+    {
+      "chain": "D",
+      "resname": "TYR",
+      "resnum": 41,
+      "element": "O",
+      "label": "D TYR 41 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "element": "O",
+      "label": "C TYR 484 O"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 42,
+      "element": "C",
+      "label": "D GLN 42 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "element": "O",
+      "label": "C TYR 484 O"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 42,
+      "element": "C",
+      "label": "D GLN 42 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 436,
+      "element": "O",
+      "label": "C TYR 436 O"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 42,
+      "element": "C",
+      "label": "D GLN 42 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "element": "O",
+      "label": "C TYR 484 O"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 42,
+      "element": "N",
+      "label": "D GLN 42 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 436,
+      "element": "O",
+      "label": "C TYR 436 O"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 42,
+      "element": "N",
+      "label": "D GLN 42 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 436,
+      "element": "C",
+      "label": "C TYR 436 C"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 42,
+      "element": "N",
+      "label": "D GLN 42 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 436,
+      "element": "C",
+      "label": "C TYR 436 C"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 42,
+      "element": "N",
+      "label": "D GLN 42 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "element": "C",
+      "label": "C TYR 484 C"
+    },
+    {
+      "chain": "D",
+      "resname": "LEU",
+      "resnum": 45,
+      "element": "C",
+      "label": "D LEU 45 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "element": "C",
+      "label": "C TYR 484 C"
+    },
+    {
+      "chain": "D",
+      "resname": "LEU",
+      "resnum": 45,
+      "element": "C",
+      "label": "D LEU 45 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "LEU",
+      "resnum": 472,
+      "element": "C",
+      "label": "C LEU 472 C"
+    },
+    {
+      "chain": "D",
+      "resname": "LEU",
+      "resnum": 79,
+      "element": "C",
+      "label": "D LEU 79 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "LEU",
+      "resnum": 472,
+      "element": "C",
+      "label": "C LEU 472 C"
+    },
+    {
+      "chain": "D",
+      "resname": "MET",
+      "resnum": 82,
+      "element": "S",
+      "label": "D MET 82 S"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "LEU",
+      "resnum": 472,
+      "element": "C",
+      "label": "C LEU 472 C"
+    },
+    {
+      "chain": "D",
+      "resname": "MET",
+      "resnum": 82,
+      "element": "C",
+      "label": "D MET 82 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "element": "O",
+      "label": "C ASN 473 O"
+    },
+    {
+      "chain": "D",
+      "resname": "TYR",
+      "resnum": 83,
+      "element": "C",
+      "label": "D TYR 83 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "element": "N",
+      "label": "C ASN 473 N"
+    },
+    {
+      "chain": "D",
+      "resname": "TYR",
+      "resnum": 83,
+      "element": "C",
+      "label": "D TYR 83 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "element": "O",
+      "label": "C ASN 473 O"
+    },
+    {
+      "chain": "D",
+      "resname": "TYR",
+      "resnum": 83,
+      "element": "O",
+      "label": "D TYR 83 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "element": "C",
+      "label": "C ASN 473 C"
+    },
+    {
+      "chain": "D",
+      "resname": "TYR",
+      "resnum": 83,
+      "element": "O",
+      "label": "D TYR 83 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "element": "N",
+      "label": "C ASN 473 N"
+    },
+    {
+      "chain": "D",
+      "resname": "TYR",
+      "resnum": 83,
+      "element": "O",
+      "label": "D TYR 83 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "element": "O",
+      "label": "C TYR 475 O"
+    },
+    {
+      "chain": "D",
+      "resname": "TYR",
+      "resnum": 83,
+      "element": "O",
+      "label": "D TYR 83 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "element": "C",
+      "label": "C GLY 488 C"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 325,
+      "element": "C",
+      "label": "D GLN 325 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "element": "C",
+      "label": "C GLY 488 C"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 325,
+      "element": "C",
+      "label": "D GLN 325 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ILE",
+      "resnum": 489,
+      "element": "N",
+      "label": "C ILE 489 N"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 325,
+      "element": "C",
+      "label": "D GLN 325 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ILE",
+      "resnum": 489,
+      "element": "C",
+      "label": "C ILE 489 C"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 325,
+      "element": "C",
+      "label": "D GLN 325 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ILE",
+      "resnum": 489,
+      "element": "C",
+      "label": "C ILE 489 C"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 325,
+      "element": "C",
+      "label": "D GLN 325 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "element": "O",
+      "label": "C GLY 488 O"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 325,
+      "element": "C",
+      "label": "D GLN 325 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ARG",
+      "resnum": 426,
+      "element": "N",
+      "label": "C ARG 426 N"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 325,
+      "element": "C",
+      "label": "D GLN 325 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "element": "C",
+      "label": "C GLY 488 C"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 325,
+      "element": "O",
+      "label": "D GLN 325 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "element": "C",
+      "label": "C GLY 488 C"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 325,
+      "element": "O",
+      "label": "D GLN 325 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ILE",
+      "resnum": 489,
+      "element": "N",
+      "label": "C ILE 489 N"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 325,
+      "element": "O",
+      "label": "D GLN 325 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ILE",
+      "resnum": 489,
+      "element": "C",
+      "label": "C ILE 489 C"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 325,
+      "element": "O",
+      "label": "D GLN 325 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "element": "O",
+      "label": "C GLY 488 O"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 325,
+      "element": "O",
+      "label": "D GLN 325 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ARG",
+      "resnum": 426,
+      "element": "N",
+      "label": "C ARG 426 N"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 325,
+      "element": "O",
+      "label": "D GLN 325 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "GLN",
+      "resnum": 492,
+      "element": "N",
+      "label": "C GLN 492 N"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 325,
+      "element": "O",
+      "label": "D GLN 325 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ARG",
+      "resnum": 426,
+      "element": "C",
+      "label": "C ARG 426 C"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 325,
+      "element": "O",
+      "label": "D GLN 325 O"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ARG",
+      "resnum": 426,
+      "element": "N",
+      "label": "C ARG 426 N"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 325,
+      "element": "N",
+      "label": "D GLN 325 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ARG",
+      "resnum": 426,
+      "element": "C",
+      "label": "C ARG 426 C"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 325,
+      "element": "N",
+      "label": "D GLN 325 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "ARG",
+      "resnum": 426,
+      "element": "N",
+      "label": "C ARG 426 N"
+    },
+    {
+      "chain": "D",
+      "resname": "GLN",
+      "resnum": 325,
+      "element": "N",
+      "label": "D GLN 325 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "element": "C",
+      "label": "C GLY 488 C"
+    },
+    {
+      "chain": "D",
+      "resname": "GLY",
+      "resnum": 326,
+      "element": "N",
+      "label": "D GLY 326 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "element": "C",
+      "label": "C THR 486 C"
+    },
+    {
+      "chain": "D",
+      "resname": "ASN",
+      "resnum": 330,
+      "element": "N",
+      "label": "D ASN 330 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "element": "O",
+      "label": "C THR 486 O"
+    },
+    {
+      "chain": "D",
+      "resname": "ASN",
+      "resnum": 330,
+      "element": "N",
+      "label": "D ASN 330 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "element": "C",
+      "label": "C THR 486 C"
+    },
+    {
+      "chain": "D",
+      "resname": "ASN",
+      "resnum": 330,
+      "element": "N",
+      "label": "D ASN 330 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "element": "C",
+      "label": "C THR 486 C"
+    },
+    {
+      "chain": "D",
+      "resname": "ASN",
+      "resnum": 330,
+      "element": "N",
+      "label": "D ASN 330 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "element": "C",
+      "label": "C THR 486 C"
+    },
+    {
+      "chain": "D",
+      "resname": "ASN",
+      "resnum": 330,
+      "element": "N",
+      "label": "D ASN 330 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "element": "C",
+      "label": "C TYR 491 C"
+    },
+    {
+      "chain": "D",
+      "resname": "LYS",
+      "resnum": 353,
+      "element": "C",
+      "label": "D LYS 353 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "element": "C",
+      "label": "C TYR 491 C"
+    },
+    {
+      "chain": "D",
+      "resname": "LYS",
+      "resnum": 353,
+      "element": "C",
+      "label": "D LYS 353 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "element": "C",
+      "label": "C TYR 491 C"
+    },
+    {
+      "chain": "D",
+      "resname": "LYS",
+      "resnum": 353,
+      "element": "C",
+      "label": "D LYS 353 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "element": "C",
+      "label": "C TYR 491 C"
+    },
+    {
+      "chain": "D",
+      "resname": "LYS",
+      "resnum": 353,
+      "element": "C",
+      "label": "D LYS 353 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "element": "C",
+      "label": "C TYR 491 C"
+    },
+    {
+      "chain": "D",
+      "resname": "LYS",
+      "resnum": 353,
+      "element": "C",
+      "label": "D LYS 353 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "element": "C",
+      "label": "C TYR 491 C"
+    },
+    {
+      "chain": "D",
+      "resname": "LYS",
+      "resnum": 353,
+      "element": "C",
+      "label": "D LYS 353 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "element": "C",
+      "label": "C TYR 491 C"
+    },
+    {
+      "chain": "D",
+      "resname": "LYS",
+      "resnum": 353,
+      "element": "C",
+      "label": "D LYS 353 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 482,
+      "element": "O",
+      "label": "C GLY 482 O"
+    },
+    {
+      "chain": "D",
+      "resname": "LYS",
+      "resnum": 353,
+      "element": "C",
+      "label": "D LYS 353 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 482,
+      "element": "O",
+      "label": "C GLY 482 O"
+    },
+    {
+      "chain": "D",
+      "resname": "LYS",
+      "resnum": 353,
+      "element": "C",
+      "label": "D LYS 353 C"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 482,
+      "element": "O",
+      "label": "C GLY 482 O"
+    },
+    {
+      "chain": "D",
+      "resname": "LYS",
+      "resnum": 353,
+      "element": "N",
+      "label": "D LYS 353 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 482,
+      "element": "C",
+      "label": "C GLY 482 C"
+    },
+    {
+      "chain": "D",
+      "resname": "LYS",
+      "resnum": 353,
+      "element": "N",
+      "label": "D LYS 353 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 482,
+      "element": "C",
+      "label": "C GLY 482 C"
+    },
+    {
+      "chain": "D",
+      "resname": "LYS",
+      "resnum": 353,
+      "element": "N",
+      "label": "D LYS 353 N"
+    }
+  ],
+  [
+    {
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "element": "O",
+      "label": "C THR 486 O"
+    },
+    {
+      "chain": "D",
+      "resname": "ASP",
+      "resnum": 355,
+      "element": "O",
+      "label": "D ASP 355 O"
+    }
+  ]
+]
