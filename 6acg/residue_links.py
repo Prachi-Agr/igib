@@ -11,10 +11,12 @@ for node in data["nodes"]:
         spike_residues.add(node["resnum"])
     elif node['chain'] == 'D':
         ace2_residues.add(node['resnum'])
+print(len(spike_residues), len(ace2_residues))
 
 spike_residues = ['C' + str(residue) for residue in sorted(list(spike_residues))]
 ace2_residues  = ['D' + str(residue) for residue in sorted(list(ace2_residues))]
 residues = spike_residues + ace2_residues
+print(len(spike_residues), len(ace2_residues), len(residues))
 
 links = {}
 
@@ -37,10 +39,10 @@ for link in data["links"]:
     links[residue1][residue2] += 1
     links[residue2][residue1] += 1
 
-print('[')
-for residue1 in links.keys():
-    print('[', end="")
-    for residue2 in links[residue1].keys():
-        print(links[residue1][residue2], end=", ")
-    print("],")
-print(']')
+# print('[')
+# for residue1 in links.keys():
+#     print('[', end="")
+#     for residue2 in links[residue1].keys():
+#         print(links[residue1][residue2], end=", ")
+#     print("],")
+# print(']')
