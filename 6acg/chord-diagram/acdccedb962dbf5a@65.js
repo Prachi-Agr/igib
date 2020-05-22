@@ -92,7 +92,7 @@ d3.ribbon()
   main.variable(observer("color")).define("color", ["d3"], function(d3){return(
 d3.scaleOrdinal()
     .domain(d3.range(4))
-    .range(["#000000", "#FFDD89", "#957244", "#F26223"])
+    .range(d3.schemeCategory10)
 )});
   main.variable(observer("outerRadius")).define("outerRadius", ["width","height"], function(width,height){return(
 Math.min(width, height) * 0.5 - 30
