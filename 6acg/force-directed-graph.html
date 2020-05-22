@@ -45,7 +45,7 @@
 
     var simulation = d3.forceSimulation()
         .force("link", d3.forceLink().id(function (d) { return d.id; }))
-        .force("charge", d3.forceManyBody())
+        .force("charge", d3.forceManyBody().strength(-500).distanceMax(50))
         .force("center", d3.forceCenter(width / 2, height / 2));
 
     d3.json("https://raw.githubusercontent.com/ballaneypranav/igib/master/6acg/interactions.json", function (error, graph) {
@@ -89,11 +89,7 @@
         simulation.force("link")
             .links(graph.links);
 
-        simulation.force("charge")
-            .strength(-10)
-            .distanceMax(300);
 
-        simulation.force("center");
 
 
         function ticked() {
@@ -120,6 +116,7 @@
 
     function dragstarted(d) {
         if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+        simulation.force("center", null)
         d.fx = validate(d.x, 0, width);
         d.fy = validate(d.y, 0, height);
     }
