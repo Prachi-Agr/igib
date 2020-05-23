@@ -30,7 +30,7 @@
         <h1 class="mt-2"> Force Directed Graph for Interactions in 6ACG</h1>
         <a href="http://ballaneypranav.github.io/igib">Home</a>
     </header>
-    <svg width="1500" height="800"></svg>
+    <svg width="1800" height="800"></svg>
 
 </body>
 <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -105,18 +105,10 @@
 
             node
                 .attr("transform", function (d) {
-                    x = Math.max(radius, Math.min(width - radius, d.x));
-                    y = Math.max(radius, Math.min(height - radius, d.y));
-                    return "translate(" + x + "," + y + ")";
+                    return "translate(" + d.x + "," + d.y + ")";
                 });
         }
     });
-
-    function validate(x, a, b) {
-        if (x < a) x = a;
-        if (x > b) x = b;
-        return x;
-    }
 
     function dragstarted(d) {
         if (!d3.event.active) simulation.alphaTarget(0.3).restart();
