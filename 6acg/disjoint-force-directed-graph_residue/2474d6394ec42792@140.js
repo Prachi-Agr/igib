@@ -46,7 +46,9 @@ When using [D3’s force layout](https://github.com/d3/d3-force) with a disjoint
         return d.name;
       })
       .attr('x', 6)
-      .attr('y', 3);
+      .attr('y', 3)
+      .attr("font-family", "sans-serif")
+      .attr("font-size", "20px");
 
     node.append("title")
       .text(d => d.id);
