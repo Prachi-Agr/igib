@@ -1,7 +1,7 @@
 // https://observablehq.com/@d3/disjoint-force-directed-graph@140
 export default function define(runtime, observer) {
   const main = runtime.module();
-  const fileAttachments = new Map([["graph.json",new URL("atom_interactions.json",import.meta.url)]]);
+  const fileAttachments = new Map([["atom_interactions.json",new URL("atom_interactions.json",import.meta.url)]]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer()).define(["md"], function(md){return(
 md`# Disjoint Force-Directed Graph
@@ -61,7 +61,7 @@ When using [D3’s force layout](https://github.com/d3/d3-force) with a disjoint
 }
 );
   main.variable(observer("data")).define("data", ["FileAttachment"], function(FileAttachment){return(
-FileAttachment("interactions.json").json()
+FileAttachment("atom_interactions.json").json()
 )});
   main.variable(observer("height")).define("height", function(){return(
 680
