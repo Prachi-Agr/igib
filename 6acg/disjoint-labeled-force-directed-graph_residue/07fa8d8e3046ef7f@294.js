@@ -19,7 +19,7 @@ md`# Disjoint Labeled Force-Directed Graph with Text
   const nodes = data.nodes.map(d => Object.create(d));
   const simulation = d3.forceSimulation(nodes)
       .force("link", d3.forceLink(links).id(d => d.id)
-          .strength(1))
+          .strength(5))
       .force("charge", d3.forceManyBody()
           .strength(-200))
       .force("x", d3.forceX()
