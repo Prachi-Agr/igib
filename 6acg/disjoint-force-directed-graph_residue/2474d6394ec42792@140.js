@@ -41,7 +41,7 @@ When using [D3’s force layout](https://github.com/d3/d3-force) with a disjoint
       .attr("fill", color)
       .call(drag(simulation));
 
-    const lables = node.append("text")
+    node.append("text")
       .text(function (d) {
         return d.name;
       })
