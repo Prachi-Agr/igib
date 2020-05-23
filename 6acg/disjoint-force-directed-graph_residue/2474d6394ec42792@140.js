@@ -41,7 +41,7 @@ When using [D3’s force layout](https://github.com/d3/d3-force) with a disjoint
       .call(drag(simulation));
 
   node.append("title")
-      .text(d => d.id);
+      .text(d => d.name);
 
   simulation.on("tick", () => {
     link
@@ -69,7 +69,7 @@ FileAttachment("residue_interactions.json").json()
   main.variable(observer("color")).define("color", ["d3"], function(d3)
 {
   const scale = d3.scaleOrdinal(d3.schemeCategory10);
-  return d => scale(d.group);
+  return d => scale(d.chain);
 }
 );
   main.variable(observer("drag")).define("drag", ["d3"], function(d3){return(
