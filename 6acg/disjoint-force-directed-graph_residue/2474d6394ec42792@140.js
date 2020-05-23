@@ -61,7 +61,7 @@ When using [D3’s force layout](https://github.com/d3/d3-force) with a disjoint
 }
 );
   main.variable(observer("data")).define("data", ["FileAttachment"], function(FileAttachment){return(
-FileAttachment("residue_interactions.json").json()
+FileAttachment("residue_interactions.jso").json()
 )});
   main.variable(observer("height")).define("height", function(){return(
 680
