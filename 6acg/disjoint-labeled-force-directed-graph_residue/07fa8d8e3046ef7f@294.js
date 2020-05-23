@@ -54,7 +54,7 @@ export default function define(runtime, observer) {
     const text = node.append("text")
       .text(d => d.id)
       .attr("font-family", "sans-serif")
-      .attr("stroke", "#999");
+      .attr("fill", "#999");
 
     simulation.on("tick", () => {
       link
