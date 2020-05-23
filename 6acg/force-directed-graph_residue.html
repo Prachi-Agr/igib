@@ -46,17 +46,13 @@
     var simulation = d3.forceSimulation()
         .force("link", d3.forceLink()
             .id(function (d) { return d.id; })
-            .strength(2)
-            .distance(50)
         )
         .force("charge", d3.forceManyBody())
         .force("x", d3.forceX()
             .x(width / 2)
-            .strength(0.05)
         )
         .force("y", d3.forceY()
             .y(height / 2)
-            .strength(0.05)
         );
 
     d3.json("https://raw.githubusercontent.com/ballaneypranav/igib/master/6acg/residue_interactions.json", function (error, graph) {
@@ -124,9 +120,8 @@
 
     function dragstarted(d) {
         if (!d3.event.active) simulation.alphaTarget(0.3).restart();
-        simulation.force("center", null)
-        d.fx = validate(d.x, 0, width);
-        d.fy = validate(d.y, 0, height);
+        d.fx = d.x;
+        d.fy = d.y;
     }
 
     function dragged(d) {
