@@ -16,15 +16,17 @@
         <a href="http://ballaneypranav.github.io/igib">Home</a>
     </header>
 
-    <script type="module">
+    <div class="container">
+        <script type="module">
 
-        import define from "./index.js";
-        import { Runtime, Library, Inspector } from "./runtime.js";
+            import define from "./index.js";
+            import { Runtime, Library, Inspector } from "./runtime.js";
 
-        const runtime = new Runtime();
-        const main = runtime.module(define, Inspector.into(document.body));
+            const runtime = new Runtime();
+            const main = runtime.module(define, Inspector.into(document.body));
 
-    </script>
+        </script>
+    </div>
 </body>
 
 </html>

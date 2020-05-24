@@ -15,16 +15,17 @@
         <h1 class="mt-2">Arc Diagram for Interactions in 6ACG by Atom</h1>
         <a href="http://ballaneypranav.github.io/igib">Home</a>
     </header>
+    <div class="container">
+        <script type="module">
 
-    <script type="module">
+            import define from "./index.js";
+            import { Runtime, Library, Inspector } from "./runtime.js";
 
-        import define from "./index.js";
-        import { Runtime, Library, Inspector } from "./runtime.js";
+            const runtime = new Runtime();
+            const main = runtime.module(define, Inspector.into(document.body));
 
-        const runtime = new Runtime();
-        const main = runtime.module(define, Inspector.into(document.body));
-
-    </script>
+        </script>
+    </div>
 </body>
 
 </html>

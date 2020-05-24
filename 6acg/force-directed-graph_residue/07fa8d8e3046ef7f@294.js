@@ -50,7 +50,7 @@ export default function define(runtime, observer) {
       .call(drag(simulation));
 
     const text = node.append("text")
-      .text(d => d.id)
+      .text(d => d.name)
       .attr("font-family", "sans-serif")
       .attr("fill", "#999");
 
