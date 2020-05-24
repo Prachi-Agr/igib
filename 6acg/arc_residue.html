@@ -93,7 +93,7 @@
         })
         .style("fill", "none")
         .attr("stroke", "grey")
-        .style("stroke-width", function(d) { return d.bonds})
+        .style("stroke-width", 1)
 
       // Add the circle for the nodes
       var nodes = svg
@@ -101,10 +101,10 @@
         .data(data.nodes.sort(function (a, b) { return +b.n - +a.n }))
         .enter()
         .append("circle")
-        .attr("cx", function (d) { return (x(d.name)) })
+        .attr("cx", d => x(d.name))
         .attr("cy", height - 30)
-        .attr("r", function (d) { return (d.links)})
-        .style("fill", function (d) { return color(d.chain) })
+        .attr("r", d => d.links)
+        .style("fill", d => color(d.chain))
         .attr("stroke", "white")
 
       // And give them a label
