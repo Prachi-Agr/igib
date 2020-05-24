@@ -34,7 +34,7 @@ export default function define(runtime, observer) {
       .selectAll("line")
       .data(links)
       .join("line")
-      .attr("stroke-width", d => 3*Math.sqrt(d.bonds));
+      .attr("stroke-width", d => Math.sqrt(3*d.bonds));
 
     const node = svg.append("g")
       .selectAll(".node")
