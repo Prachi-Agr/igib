@@ -1,0 +1,14 @@
+{
+  "name": "@ezequielscott/arc-diagram-horizontal-version",
+  "main": "0d7a08439e583fee@362.js",
+  "version": "362.0.0",
+  "homepage": "https://observablehq.com/@ezequielscott/arc-diagram-horizontal-version",
+  "author": {
+    "name": "Ezequiel Scott",
+    "url": "https://observablehq.com/@ezequielscott"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
