@@ -1,7 +1,7 @@
 // https://observablehq.com/@ezequielscott/arc-diagram-horizontal-version@362
 export default function define(runtime, observer) {
   const main = runtime.module();
-  const fileAttachments = new Map([["residue_interactions.json", new URL("residue_interactions.json", import.meta.url)]]);
+  const fileAttachments = new Map([["atom_interactions.json", new URL("atom_interactions.json", import.meta.url)]]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer()).define(["md"], function (md) {
     return (
@@ -221,7 +221,7 @@ This diagram places nodes in a horizontal or vertical line, with circular arcs f
   });
   main.variable(observer("data")).define("data", ["FileAttachment"], function (FileAttachment) {
     return (
-      FileAttachment("residue_interactions.json").json()
+      FileAttachment("atom_interactions.json").json()
     )
   });
   main.variable(observer()).define(["md"], function (md) {
