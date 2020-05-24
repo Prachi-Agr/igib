@@ -5,9 +5,7 @@ export default function define(runtime, observer) {
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer()).define(["md"], function (md) {
     return (
-      md`# Arc Diagram (Horizontal version)
-
-This diagram places nodes in a horizontal or vertical line, with circular arcs for links. Unlike other network visualizations such as a [force layout](/@d3/force-directed-graph), the appearance (and usefulness) of an arc diagram is highly dependent on the order of nodes. Hover over a node below to inspect its connections.`
+      md``
     )
   });
   main.variable(observer("viewof order")).define("viewof order", ["d3", "html"], function (d3, html) {
