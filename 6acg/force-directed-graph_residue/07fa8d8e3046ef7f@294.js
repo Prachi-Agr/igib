@@ -34,7 +34,7 @@ export default function define(runtime, observer) {
       .selectAll("line")
       .data(links)
       .join("line")
-      .attr("stroke-width", d => d.bonds);
+      .attr("stroke-width", d => Math.sqrt(d.bonds));
 
     const node = svg.append("g")
       .selectAll(".node")
@@ -45,7 +45,7 @@ export default function define(runtime, observer) {
 
 
     const circle = node.append("circle")
-      .attr("r", d => 2*Math.sqrt(d.links))
+      .attr("r", d => 5*Math.sqrt(d.links))
       .attr("fill", color)
       .call(drag(simulation));
 
