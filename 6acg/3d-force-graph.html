@@ -15,7 +15,7 @@
   <script>
     const Graph = ForceGraph3D()
       (document.getElementById('3d-graph'))
-        .jsonUrl('residue_interactions.json')
+        .jsonUrl('3d_residue_interactions.json')
         .nodeLabel('name')
         .nodeAutoColorBy('chain')
         .linkThreeObjectExtend(true)
@@ -23,7 +23,7 @@
           // extend link with text sprite
           const sprite = new SpriteText(``);
           sprite.color = 'lightgrey';
-          sprite.textHeight = 1.5;
+          sprite.textHeight = 1.5; 
           return sprite;
         })
         .linkPositionUpdate((sprite, { start, end }) => {

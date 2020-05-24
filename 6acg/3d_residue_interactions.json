@@ -1,0 +1,809 @@
+{
+  "nodes": [
+    {
+      "id": 2579,
+      "chain": "C",
+      "resnum": 475,
+      "aa": "TYR",
+      "name": "C475_TYR",
+      "fx": 214.36608333333334,
+      "fy": 191.69008333333332,
+      "fz": 119.9405,
+      "bonds": 45
+    },
+    {
+      "id": 2577,
+      "chain": "C",
+      "resnum": 473,
+      "aa": "ASN",
+      "name": "C473_ASN",
+      "fx": 212.7585,
+      "fy": 186.900125,
+      "fz": 118.6415,
+      "bonds": 36
+    },
+    {
+      "id": 2588,
+      "chain": "C",
+      "resnum": 484,
+      "aa": "TYR",
+      "name": "C484_TYR",
+      "fx": 213.12316666666666,
+      "fy": 216.09933333333333,
+      "fz": 117.81041666666667,
+      "bonds": 29
+    },
+    {
+      "id": 2590,
+      "chain": "C",
+      "resnum": 486,
+      "aa": "THR",
+      "name": "C486_THR",
+      "fx": 209.76657142857144,
+      "fy": 220.14214285714286,
+      "fz": 116.55742857142857,
+      "bonds": 28
+    },
+    {
+      "id": 2546,
+      "chain": "C",
+      "resnum": 442,
+      "aa": "TYR",
+      "name": "C442_TYR",
+      "fx": 210.26683333333332,
+      "fy": 197.57341666666667,
+      "fz": 124.70783333333333,
+      "bonds": 27
+    },
+    {
+      "id": 2595,
+      "chain": "C",
+      "resnum": 491,
+      "aa": "TYR",
+      "name": "C491_TYR",
+      "fx": 205.9305,
+      "fy": 212.5505,
+      "fz": 121.40225,
+      "bonds": 27
+    },
+    {
+      "id": 2540,
+      "chain": "C",
+      "resnum": 436,
+      "aa": "TYR",
+      "name": "C436_TYR",
+      "fx": 217.67325,
+      "fy": 210.94675,
+      "fz": 120.299,
+      "bonds": 23
+    },
+    {
+      "id": 2592,
+      "chain": "C",
+      "resnum": 488,
+      "aa": "GLY",
+      "name": "C488_GLY",
+      "fx": 204.45000000000002,
+      "fy": 219.72025,
+      "fz": 120.49825,
+      "bonds": 23
+    },
+    {
+      "id": 2593,
+      "chain": "C",
+      "resnum": 489,
+      "aa": "ILE",
+      "name": "C489_ILE",
+      "fx": 201.44925,
+      "fy": 219.413875,
+      "fz": 122.98925,
+      "bonds": 19
+    },
+    {
+      "id": 2586,
+      "chain": "C",
+      "resnum": 482,
+      "aa": "GLY",
+      "name": "C482_GLY",
+      "fx": 212.0905,
+      "fy": 211.50074999999998,
+      "fz": 120.52575,
+      "bonds": 14
+    },
+    {
+      "id": 2530,
+      "chain": "C",
+      "resnum": 426,
+      "aa": "ARG",
+      "name": "C426_ARG",
+      "fx": 208.51972727272727,
+      "fy": 222.6828181818182,
+      "fz": 125.34918181818182,
+      "bonds": 10
+    },
+    {
+      "id": 2544,
+      "chain": "C",
+      "resnum": 440,
+      "aa": "TYR",
+      "name": "C440_TYR",
+      "fx": 211.46241666666668,
+      "fy": 202.98266666666666,
+      "fz": 126.5145,
+      "bonds": 9
+    },
+    {
+      "id": 2591,
+      "chain": "C",
+      "resnum": 487,
+      "aa": "THR",
+      "name": "C487_THR",
+      "fx": 207.71471428571428,
+      "fy": 218.02942857142858,
+      "fz": 119.53485714285713,
+      "bonds": 9
+    },
+    {
+      "id": 2576,
+      "chain": "C",
+      "resnum": 472,
+      "aa": "LEU",
+      "name": "C472_LEU",
+      "fx": 216.09587499999998,
+      "fy": 185.735,
+      "fz": 115.67512500000001,
+      "bonds": 6
+    },
+    {
+      "id": 2566,
+      "chain": "C",
+      "resnum": 462,
+      "aa": "PRO",
+      "name": "C462_PRO",
+      "fx": 210.734,
+      "fy": 186.21571428571428,
+      "fz": 125.61857142857143,
+      "bonds": 3
+    },
+    {
+      "id": 2547,
+      "chain": "C",
+      "resnum": 443,
+      "aa": "LEU",
+      "name": "C443_LEU",
+      "fx": 211.36825,
+      "fy": 194.383125,
+      "fz": 126.875375,
+      "bonds": 3
+    },
+    {
+      "id": 2596,
+      "chain": "C",
+      "resnum": 492,
+      "aa": "GLN",
+      "name": "C492_GLN",
+      "fx": 205.84666666666666,
+      "fy": 218.16266666666667,
+      "fz": 125.68599999999999,
+      "bonds": 2
+    },
+    {
+      "id": 2567,
+      "chain": "C",
+      "resnum": 463,
+      "aa": "ASP",
+      "name": "C463_ASP",
+      "fx": 212.546625,
+      "fy": 182.523625,
+      "fz": 126.133375,
+      "bonds": 1
+    },
+    {
+      "id": 2564,
+      "chain": "C",
+      "resnum": 460,
+      "aa": "PHE",
+      "name": "C460_PHE",
+      "fx": 213.98654545454545,
+      "fy": 190.52963636363637,
+      "fz": 126.799,
+      "bonds": 1
+    },
+    {
+      "id": 2537,
+      "chain": "C",
+      "resnum": 433,
+      "aa": "THR",
+      "name": "C433_THR",
+      "fx": 218.26157142857144,
+      "fy": 217.85242857142856,
+      "fz": 115.40171428571429,
+      "bonds": 1
+    },
+    {
+      "id": 2536,
+      "chain": "C",
+      "resnum": 432,
+      "aa": "SER",
+      "name": "C432_SER",
+      "fx": 215.19316666666668,
+      "fy": 220.38983333333334,
+      "fz": 116.51916666666666,
+      "bonds": 1
+    },
+    {
+      "id": 2589,
+      "chain": "C",
+      "resnum": 485,
+      "aa": "THR",
+      "name": "C485_THR",
+      "fx": 211.53985714285713,
+      "fy": 221.3827142857143,
+      "fz": 120.39471428571429,
+      "bonds": 1
+    },
+    {
+      "id": 2594,
+      "chain": "C",
+      "resnum": 490,
+      "aa": "GLY",
+      "name": "C490_GLY",
+      "fx": 202.8265,
+      "fy": 215.27925,
+      "fz": 122.35849999999999,
+      "bonds": 1
+    },
+    {
+      "id": 2587,
+      "chain": "C",
+      "resnum": 483,
+      "aa": "PHE",
+      "name": "C483_PHE",
+      "fx": 211.8720909090909,
+      "fy": 213.72781818181818,
+      "fz": 123.80281818181818,
+      "bonds": 1
+    },
+    {
+      "id": 3193,
+      "chain": "D",
+      "resnum": 25,
+      "aa": "ALA",
+      "name": "D25_ALA",
+      "fx": 205.429,
+      "fy": 189.2424,
+      "fz": 117.1906,
+      "bonds": 1
+    },
+    {
+      "id": 3247,
+      "chain": "D",
+      "resnum": 79,
+      "aa": "LEU",
+      "name": "D79_LEU",
+      "fx": 213.237375,
+      "fy": 190.465625,
+      "fz": 110.46575,
+      "bonds": 1
+    },
+    {
+      "id": 3492,
+      "chain": "D",
+      "resnum": 324,
+      "aa": "THR",
+      "name": "D324_THR",
+      "fx": 198.8652857142857,
+      "fy": 220.32785714285714,
+      "fz": 117.08885714285714,
+      "bonds": 1
+    },
+    {
+      "id": 3561,
+      "chain": "D",
+      "resnum": 393,
+      "aa": "ARG",
+      "name": "D393_ARG",
+      "fx": 199.67818181818183,
+      "fy": 205.999,
+      "fz": 113.86227272727272,
+      "bonds": 1
+    },
+    {
+      "id": 3205,
+      "chain": "D",
+      "resnum": 37,
+      "aa": "GLU",
+      "name": "D37_GLU",
+      "fx": 207.6491111111111,
+      "fy": 207.3178888888889,
+      "fz": 114.411,
+      "bonds": 2
+    },
+    {
+      "id": 3525,
+      "chain": "D",
+      "resnum": 357,
+      "aa": "ARG",
+      "name": "D357_ARG",
+      "fx": 203.72918181818181,
+      "fy": 219.96245454545453,
+      "fz": 109.35863636363636,
+      "bonds": 2
+    },
+    {
+      "id": 3187,
+      "chain": "D",
+      "resnum": 19,
+      "aa": "SER",
+      "name": "D19_SER",
+      "fx": 207.08683333333335,
+      "fy": 180.518,
+      "fz": 122.93033333333334,
+      "bonds": 3
+    },
+    {
+      "id": 3523,
+      "chain": "D",
+      "resnum": 355,
+      "aa": "ASP",
+      "name": "D355_ASP",
+      "fx": 204.365375,
+      "fy": 217.19025,
+      "fz": 113.209625,
+      "bonds": 4
+    },
+    {
+      "id": 3213,
+      "chain": "D",
+      "resnum": 45,
+      "aa": "LEU",
+      "name": "D45_LEU",
+      "fx": 211.582875,
+      "fy": 216.769,
+      "fz": 109.47562500000001,
+      "bonds": 5
+    },
+    {
+      "id": 3202,
+      "chain": "D",
+      "resnum": 34,
+      "aa": "HIS",
+      "name": "D34_HIS",
+      "fx": 208.3908,
+      "fy": 202.1228,
+      "fz": 119.8785,
+      "bonds": 6
+    },
+    {
+      "id": 3494,
+      "chain": "D",
+      "resnum": 326,
+      "aa": "GLY",
+      "name": "D326_GLY",
+      "fx": 203.03125,
+      "fy": 221.9495,
+      "fz": 115.25,
+      "bonds": 6
+    },
+    {
+      "id": 3250,
+      "chain": "D",
+      "resnum": 82,
+      "aa": "MET",
+      "name": "D82_MET",
+      "fx": 211.15925,
+      "fy": 184.292125,
+      "fz": 109.7635,
+      "bonds": 7
+    },
+    {
+      "id": 3251,
+      "chain": "D",
+      "resnum": 83,
+      "aa": "TYR",
+      "name": "D83_TYR",
+      "fx": 207.71791666666667,
+      "fy": 186.08083333333335,
+      "fz": 111.87383333333334,
+      "bonds": 9
+    },
+    {
+      "id": 3198,
+      "chain": "D",
+      "resnum": 30,
+      "aa": "ASP",
+      "name": "D30_ASP",
+      "fx": 206.59525,
+      "fy": 196.530625,
+      "fz": 120.289375,
+      "bonds": 11
+    },
+    {
+      "id": 3498,
+      "chain": "D",
+      "resnum": 330,
+      "aa": "ASN",
+      "name": "D330_ASN",
+      "fx": 206.567375,
+      "fy": 223.957125,
+      "fz": 113.131375,
+      "bonds": 13
+    },
+    {
+      "id": 3196,
+      "chain": "D",
+      "resnum": 28,
+      "aa": "PHE",
+      "name": "D28_PHE",
+      "fx": 209.21027272727272,
+      "fy": 192.40636363636364,
+      "fz": 115.06027272727273,
+      "bonds": 14
+    },
+    {
+      "id": 3210,
+      "chain": "D",
+      "resnum": 42,
+      "aa": "GLN",
+      "name": "D42_GLN",
+      "fx": 214.769,
+      "fy": 211.73344444444444,
+      "fz": 111.42466666666667,
+      "bonds": 17
+    },
+    {
+      "id": 3195,
+      "chain": "D",
+      "resnum": 27,
+      "aa": "THR",
+      "name": "D27_THR",
+      "fx": 208.2777142857143,
+      "fy": 191.8002857142857,
+      "fz": 120.93385714285715,
+      "bonds": 18
+    },
+    {
+      "id": 3199,
+      "chain": "D",
+      "resnum": 31,
+      "aa": "LYS",
+      "name": "D31_LYS",
+      "fx": 212.0928888888889,
+      "fy": 196.52599999999998,
+      "fz": 117.36455555555555,
+      "bonds": 21
+    },
+    {
+      "id": 3206,
+      "chain": "D",
+      "resnum": 38,
+      "aa": "ASP",
+      "name": "D38_ASP",
+      "fx": 212.63275,
+      "fy": 208.76387499999998,
+      "fz": 115.300125,
+      "bonds": 22
+    },
+    {
+      "id": 3209,
+      "chain": "D",
+      "resnum": 41,
+      "aa": "TYR",
+      "name": "D41_TYR",
+      "fx": 209.58341666666666,
+      "fy": 213.34633333333332,
+      "fz": 113.05283333333334,
+      "bonds": 24
+    },
+    {
+      "id": 3192,
+      "chain": "D",
+      "resnum": 24,
+      "aa": "GLN",
+      "name": "D24_GLN",
+      "fx": 208.27211111111112,
+      "fy": 185.99588888888889,
+      "fz": 119.05288888888889,
+      "bonds": 25
+    },
+    {
+      "id": 3493,
+      "chain": "D",
+      "resnum": 325,
+      "aa": "GLN",
+      "name": "D325_GLN",
+      "fx": 202.65444444444444,
+      "fy": 223.3418888888889,
+      "fz": 119.67311111111111,
+      "bonds": 51
+    },
+    {
+      "id": 3521,
+      "chain": "D",
+      "resnum": 353,
+      "aa": "LYS",
+      "name": "D353_LYS",
+      "fx": 207.00900000000001,
+      "fy": 212.5797777777778,
+      "fz": 116.83744444444444,
+      "bonds": 52
+    }
+  ],
+  "links": [
+    {
+      "source": 2595,
+      "target": 3521,
+      "strength": 31
+    },
+    {
+      "source": 2577,
+      "target": 3192,
+      "strength": 27
+    },
+    {
+      "source": 2593,
+      "target": 3493,
+      "strength": 21
+    },
+    {
+      "source": 2579,
+      "target": 3196,
+      "strength": 20
+    },
+    {
+      "source": 2592,
+      "target": 3493,
+      "strength": 20
+    },
+    {
+      "source": 2546,
+      "target": 3198,
+      "strength": 16
+    },
+    {
+      "source": 2540,
+      "target": 3206,
+      "strength": 16
+    },
+    {
+      "source": 2579,
+      "target": 3199,
+      "strength": 15
+    },
+    {
+      "source": 2546,
+      "target": 3199,
+      "strength": 14
+    },
+    {
+      "source": 2530,
+      "target": 3493,
+      "strength": 14
+    },
+    {
+      "source": 2590,
+      "target": 3498,
+      "strength": 14
+    },
+    {
+      "source": 2579,
+      "target": 3195,
+      "strength": 13
+    },
+    {
+      "source": 2588,
+      "target": 3209,
+      "strength": 13
+    },
+    {
+      "source": 2544,
+      "target": 3202,
+      "strength": 11
+    },
+    {
+      "source": 2577,
+      "target": 3251,
+      "strength": 11
+    },
+    {
+      "source": 2586,
+      "target": 3521,
+      "strength": 11
+    },
+    {
+      "source": 2588,
+      "target": 3210,
+      "strength": 10
+    },
+    {
+      "source": 2540,
+      "target": 3210,
+      "strength": 10
+    },
+    {
+      "source": 2590,
+      "target": 3209,
+      "strength": 8
+    },
+    {
+      "source": 2576,
+      "target": 3250,
+      "strength": 8
+    },
+    {
+      "source": 2590,
+      "target": 3523,
+      "strength": 7
+    },
+    {
+      "source": 2586,
+      "target": 3206,
+      "strength": 6
+    },
+    {
+      "source": 2591,
+      "target": 3209,
+      "strength": 6
+    },
+    {
+      "source": 2591,
+      "target": 3521,
+      "strength": 6
+    },
+    {
+      "source": 2588,
+      "target": 3521,
+      "strength": 6
+    },
+    {
+      "source": 2547,
+      "target": 3195,
+      "strength": 5
+    },
+    {
+      "source": 2592,
+      "target": 3494,
+      "strength": 5
+    },
+    {
+      "source": 2588,
+      "target": 3206,
+      "strength": 4
+    },
+    {
+      "source": 2567,
+      "target": 3187,
+      "strength": 3
+    },
+    {
+      "source": 2579,
+      "target": 3192,
+      "strength": 3
+    },
+    {
+      "source": 2588,
+      "target": 3213,
+      "strength": 3
+    },
+    {
+      "source": 2596,
+      "target": 3493,
+      "strength": 3
+    },
+    {
+      "source": 2566,
+      "target": 3192,
+      "strength": 2
+    },
+    {
+      "source": 2546,
+      "target": 3195,
+      "strength": 2
+    },
+    {
+      "source": 2566,
+      "target": 3195,
+      "strength": 2
+    },
+    {
+      "source": 2595,
+      "target": 3205,
+      "strength": 2
+    },
+    {
+      "source": 2590,
+      "target": 3213,
+      "strength": 2
+    },
+    {
+      "source": 2594,
+      "target": 3521,
+      "strength": 2
+    },
+    {
+      "source": 2540,
+      "target": 3521,
+      "strength": 2
+    },
+    {
+      "source": 2590,
+      "target": 3525,
+      "strength": 2
+    },
+    {
+      "source": 2595,
+      "target": 3561,
+      "strength": 2
+    },
+    {
+      "source": 2577,
+      "target": 3193,
+      "strength": 1
+    },
+    {
+      "source": 2564,
+      "target": 3195,
+      "strength": 1
+    },
+    {
+      "source": 2577,
+      "target": 3196,
+      "strength": 1
+    },
+    {
+      "source": 2537,
+      "target": 3210,
+      "strength": 1
+    },
+    {
+      "source": 2536,
+      "target": 3213,
+      "strength": 1
+    },
+    {
+      "source": 2576,
+      "target": 3247,
+      "strength": 1
+    },
+    {
+      "source": 2579,
+      "target": 3251,
+      "strength": 1
+    },
+    {
+      "source": 2593,
+      "target": 3492,
+      "strength": 1
+    },
+    {
+      "source": 2591,
+      "target": 3493,
+      "strength": 1
+    },
+    {
+      "source": 2593,
+      "target": 3494,
+      "strength": 1
+    },
+    {
+      "source": 2590,
+      "target": 3494,
+      "strength": 1
+    },
+    {
+      "source": 2589,
+      "target": 3498,
+      "strength": 1
+    },
+    {
+      "source": 2592,
+      "target": 3521,
+      "strength": 1
+    },
+    {
+      "source": 2587,
+      "target": 3521,
+      "strength": 1
+    }
+  ]
+}

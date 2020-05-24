@@ -1,0 +1,4514 @@
+{
+  "nodes": [
+    {
+      "id": 20182,
+      "atom": "ND2",
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "resindex": 2577,
+      "name": "C ASN 473 ND2",
+      "bonds": 14,
+      "fx": 210.9,
+      "fy": 187.527,
+      "fz": 117.372
+    },
+    {
+      "id": 20180,
+      "atom": "CG",
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "resindex": 2577,
+      "name": "C ASN 473 CG",
+      "bonds": 11,
+      "fx": 211.576,
+      "fy": 186.412,
+      "fz": 117.621
+    },
+    {
+      "id": 20200,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 OH",
+      "bonds": 10,
+      "fx": 211.871,
+      "fy": 190.275,
+      "fz": 116.803
+    },
+    {
+      "id": 19875,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 436,
+      "resindex": 2540,
+      "name": "C TYR 436 OH",
+      "bonds": 10,
+      "fx": 215.556,
+      "fy": 211.535,
+      "fz": 116.689
+    },
+    {
+      "id": 20295,
+      "atom": "O",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "resindex": 2590,
+      "name": "C THR 486 O",
+      "bonds": 10,
+      "fx": 207.47,
+      "fy": 219.607,
+      "fz": 116.582
+    },
+    {
+      "id": 20307,
+      "atom": "CA",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "resindex": 2592,
+      "name": "C GLY 488 CA",
+      "bonds": 10,
+      "fx": 204.222,
+      "fy": 219.974,
+      "fz": 119.639
+    },
+    {
+      "id": 20199,
+      "atom": "CZ",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 CZ",
+      "bonds": 9,
+      "fx": 212.573,
+      "fy": 190.899,
+      "fz": 117.801
+    },
+    {
+      "id": 20198,
+      "atom": "CE2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 CE2",
+      "bonds": 9,
+      "fx": 212.155,
+      "fy": 190.786,
+      "fz": 119.108
+    },
+    {
+      "id": 19937,
+      "atom": "CE2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "resindex": 2546,
+      "name": "C TYR 442 CE2",
+      "bonds": 9,
+      "fx": 210.209,
+      "fy": 196.584,
+      "fz": 122.729
+    },
+    {
+      "id": 19939,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "resindex": 2546,
+      "name": "C TYR 442 OH",
+      "bonds": 9,
+      "fx": 212.156,
+      "fy": 196.857,
+      "fz": 121.372
+    },
+    {
+      "id": 20181,
+      "atom": "OD1",
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "resindex": 2577,
+      "name": "C ASN 473 OD1",
+      "bonds": 8,
+      "fx": 211.591,
+      "fy": 185.457,
+      "fz": 116.843
+    },
+    {
+      "id": 20331,
+      "atom": "CE2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "resindex": 2595,
+      "name": "C TYR 491 CE2",
+      "bonds": 8,
+      "fx": 206.459,
+      "fy": 210.534,
+      "fz": 119.707
+    },
+    {
+      "id": 20283,
+      "atom": "CZ",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "resindex": 2588,
+      "name": "C TYR 484 CZ",
+      "bonds": 8,
+      "fx": 214.692,
+      "fy": 214.589,
+      "fz": 115.823
+    },
+    {
+      "id": 20308,
+      "atom": "C",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "resindex": 2592,
+      "name": "C GLY 488 C",
+      "bonds": 8,
+      "fx": 203.8,
+      "fy": 219.883,
+      "fz": 121.086
+    },
+    {
+      "id": 20196,
+      "atom": "CD2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 CD2",
+      "bonds": 7,
+      "fx": 212.876,
+      "fy": 191.397,
+      "fz": 120.106
+    },
+    {
+      "id": 20197,
+      "atom": "CE1",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 CE1",
+      "bonds": 7,
+      "fx": 213.693,
+      "fy": 191.635,
+      "fz": 117.486
+    },
+    {
+      "id": 20284,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "resindex": 2588,
+      "name": "C TYR 484 OH",
+      "bonds": 7,
+      "fx": 215.509,
+      "fy": 213.76,
+      "fz": 115.099
+    },
+    {
+      "id": 20305,
+      "atom": "CG2",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 487,
+      "resindex": 2591,
+      "name": "C THR 487 CG2",
+      "bonds": 7,
+      "fx": 208.632,
+      "fy": 215.924,
+      "fz": 119.151
+    },
+    {
+      "id": 20297,
+      "atom": "OG1",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "resindex": 2590,
+      "name": "C THR 486 OG1",
+      "bonds": 7,
+      "fx": 210.864,
+      "fy": 219.021,
+      "fz": 115.715
+    },
+    {
+      "id": 20315,
+      "atom": "CG1",
+      "chain": "C",
+      "resname": "ILE",
+      "resnum": 489,
+      "resindex": 2593,
+      "name": "C ILE 489 CG1",
+      "bonds": 7,
+      "fx": 200.274,
+      "fy": 220.973,
+      "fz": 122.587
+    },
+    {
+      "id": 20310,
+      "atom": "N",
+      "chain": "C",
+      "resname": "ILE",
+      "resnum": 489,
+      "resindex": 2593,
+      "name": "C ILE 489 N",
+      "bonds": 7,
+      "fx": 202.519,
+      "fy": 219.633,
+      "fz": 121.321
+    },
+    {
+      "id": 20329,
+      "atom": "CD2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "resindex": 2595,
+      "name": "C TYR 491 CD2",
+      "bonds": 7,
+      "fx": 206.907,
+      "fy": 211.768,
+      "fz": 120.155
+    },
+    {
+      "id": 20179,
+      "atom": "CB",
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "resindex": 2577,
+      "name": "C ASN 473 CB",
+      "bonds": 6,
+      "fx": 212.378,
+      "fy": 186.386,
+      "fz": 118.909
+    },
+    {
+      "id": 19935,
+      "atom": "CD2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "resindex": 2546,
+      "name": "C TYR 442 CD2",
+      "bonds": 6,
+      "fx": 209.44,
+      "fy": 197.008,
+      "fz": 123.803
+    },
+    {
+      "id": 19938,
+      "atom": "CZ",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "resindex": 2546,
+      "name": "C TYR 442 CZ",
+      "bonds": 6,
+      "fx": 211.373,
+      "fy": 197.26,
+      "fz": 122.423
+    },
+    {
+      "id": 19916,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 440,
+      "resindex": 2544,
+      "name": "C TYR 440 OH",
+      "bonds": 6,
+      "fx": 209.178,
+      "fy": 202.186,
+      "fz": 123.562
+    },
+    {
+      "id": 20259,
+      "atom": "CA",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 482,
+      "resindex": 2586,
+      "name": "C GLY 482 CA",
+      "bonds": 6,
+      "fx": 212.515,
+      "fy": 210.884,
+      "fz": 120.219
+    },
+    {
+      "id": 20282,
+      "atom": "CE2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "resindex": 2588,
+      "name": "C TYR 484 CE2",
+      "bonds": 6,
+      "fx": 213.75,
+      "fy": 215.365,
+      "fz": 115.195
+    },
+    {
+      "id": 20280,
+      "atom": "CD2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "resindex": 2588,
+      "name": "C TYR 484 CD2",
+      "bonds": 6,
+      "fx": 212.942,
+      "fy": 216.195,
+      "fz": 115.949
+    },
+    {
+      "id": 20296,
+      "atom": "CB",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "resindex": 2590,
+      "name": "C THR 486 CB",
+      "bonds": 6,
+      "fx": 210.204,
+      "fy": 220.294,
+      "fz": 115.715
+    },
+    {
+      "id": 20327,
+      "atom": "CG",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "resindex": 2595,
+      "name": "C TYR 491 CG",
+      "bonds": 6,
+      "fx": 206.178,
+      "fy": 212.501,
+      "fz": 121.074
+    },
+    {
+      "id": 20195,
+      "atom": "CD1",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 CD1",
+      "bonds": 5,
+      "fx": 214.399,
+      "fy": 192.264,
+      "fz": 118.501
+    },
+    {
+      "id": 19873,
+      "atom": "CE2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 436,
+      "resindex": 2540,
+      "name": "C TYR 436 CE2",
+      "bonds": 5,
+      "fx": 217.59,
+      "fy": 210.713,
+      "fz": 117.63
+    },
+    {
+      "id": 19874,
+      "atom": "CZ",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 436,
+      "resindex": 2540,
+      "name": "C TYR 436 CZ",
+      "bonds": 5,
+      "fx": 216.329,
+      "fy": 211.252,
+      "fz": 117.79
+    },
+    {
+      "id": 19872,
+      "atom": "CE1",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 436,
+      "resindex": 2540,
+      "name": "C TYR 436 CE1",
+      "bonds": 5,
+      "fx": 215.833,
+      "fy": 211.516,
+      "fz": 119.045
+    },
+    {
+      "id": 20261,
+      "atom": "O",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 482,
+      "resindex": 2586,
+      "name": "C GLY 482 O",
+      "bonds": 5,
+      "fx": 211.068,
+      "fy": 212.757,
+      "fz": 119.922
+    },
+    {
+      "id": 20309,
+      "atom": "O",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "resindex": 2592,
+      "name": "C GLY 488 O",
+      "bonds": 5,
+      "fx": 204.615,
+      "fy": 220.089,
+      "fz": 121.988
+    },
+    {
+      "id": 20194,
+      "atom": "CG",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 CG",
+      "bonds": 4,
+      "fx": 214.001,
+      "fy": 192.146,
+      "fz": 119.827
+    },
+    {
+      "id": 19915,
+      "atom": "CZ",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 440,
+      "resindex": 2544,
+      "name": "C TYR 440 CZ",
+      "bonds": 4,
+      "fx": 209.782,
+      "fy": 202.608,
+      "fz": 124.717
+    },
+    {
+      "id": 20333,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "resindex": 2595,
+      "name": "C TYR 491 OH",
+      "bonds": 4,
+      "fx": 204.824,
+      "fy": 208.797,
+      "fz": 119.755
+    },
+    {
+      "id": 20260,
+      "atom": "C",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 482,
+      "resindex": 2586,
+      "name": "C GLY 482 C",
+      "bonds": 4,
+      "fx": 212.006,
+      "fy": 212.267,
+      "fz": 120.558
+    },
+    {
+      "id": 20293,
+      "atom": "CA",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "resindex": 2590,
+      "name": "C THR 486 CA",
+      "bonds": 4,
+      "fx": 209.59,
+      "fy": 220.568,
+      "fz": 117.093
+    },
+    {
+      "id": 20317,
+      "atom": "CD1",
+      "chain": "C",
+      "resname": "ILE",
+      "resnum": 489,
+      "resindex": 2593,
+      "name": "C ILE 489 CD1",
+      "bonds": 4,
+      "fx": 201.001,
+      "fy": 221.882,
+      "fz": 123.569
+    },
+    {
+      "id": 19801,
+      "atom": "NH1",
+      "chain": "C",
+      "resname": "ARG",
+      "resnum": 426,
+      "resindex": 2530,
+      "name": "C ARG 426 NH1",
+      "bonds": 4,
+      "fx": 204.849,
+      "fy": 223.826,
+      "fz": 124.44
+    },
+    {
+      "id": 20105,
+      "atom": "CG",
+      "chain": "C",
+      "resname": "PRO",
+      "resnum": 462,
+      "resindex": 2566,
+      "name": "C PRO 462 CG",
+      "bonds": 3,
+      "fx": 210.302,
+      "fy": 186.476,
+      "fz": 123.937
+    },
+    {
+      "id": 19947,
+      "atom": "CD2",
+      "chain": "C",
+      "resname": "LEU",
+      "resnum": 443,
+      "resindex": 2547,
+      "name": "C LEU 443 CD2",
+      "bonds": 3,
+      "fx": 210.173,
+      "fy": 193.588,
+      "fz": 124.944
+    },
+    {
+      "id": 20281,
+      "atom": "CE1",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "resindex": 2588,
+      "name": "C TYR 484 CE1",
+      "bonds": 3,
+      "fx": 214.821,
+      "fy": 214.626,
+      "fz": 117.187
+    },
+    {
+      "id": 20278,
+      "atom": "CG",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "resindex": 2588,
+      "name": "C TYR 484 CG",
+      "bonds": 3,
+      "fx": 213.047,
+      "fy": 216.241,
+      "fz": 117.331
+    },
+    {
+      "id": 20294,
+      "atom": "C",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "resindex": 2590,
+      "name": "C THR 486 C",
+      "bonds": 3,
+      "fx": 208.45,
+      "fy": 219.585,
+      "fz": 117.335
+    },
+    {
+      "id": 20174,
+      "atom": "CD2",
+      "chain": "C",
+      "resname": "LEU",
+      "resnum": 472,
+      "resindex": 2576,
+      "name": "C LEU 472 CD2",
+      "bonds": 3,
+      "fx": 216.005,
+      "fy": 186.554,
+      "fz": 113.384
+    },
+    {
+      "id": 20314,
+      "atom": "CB",
+      "chain": "C",
+      "resname": "ILE",
+      "resnum": 489,
+      "resindex": 2593,
+      "name": "C ILE 489 CB",
+      "bonds": 3,
+      "fx": 200.556,
+      "fy": 219.486,
+      "fz": 122.794
+    },
+    {
+      "id": 19800,
+      "atom": "CZ",
+      "chain": "C",
+      "resname": "ARG",
+      "resnum": 426,
+      "resindex": 2530,
+      "name": "C ARG 426 CZ",
+      "bonds": 3,
+      "fx": 205.75,
+      "fy": 224.547,
+      "fz": 125.081
+    },
+    {
+      "id": 19802,
+      "atom": "NH2",
+      "chain": "C",
+      "resname": "ARG",
+      "resnum": 426,
+      "resindex": 2530,
+      "name": "C ARG 426 NH2",
+      "bonds": 3,
+      "fx": 205.437,
+      "fy": 225.768,
+      "fz": 125.488
+    },
+    {
+      "id": 20306,
+      "atom": "N",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "resindex": 2592,
+      "name": "C GLY 488 N",
+      "bonds": 3,
+      "fx": 205.163,
+      "fy": 218.935,
+      "fz": 119.28
+    },
+    {
+      "id": 20298,
+      "atom": "CG2",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "resindex": 2590,
+      "name": "C THR 486 CG2",
+      "bonds": 3,
+      "fx": 211.18,
+      "fy": 221.392,
+      "fz": 115.32
+    },
+    {
+      "id": 20332,
+      "atom": "CZ",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "resindex": 2595,
+      "name": "C TYR 491 CZ",
+      "bonds": 3,
+      "fx": 205.282,
+      "fy": 210.018,
+      "fz": 120.193
+    },
+    {
+      "id": 20328,
+      "atom": "CD1",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "resindex": 2595,
+      "name": "C TYR 491 CD1",
+      "bonds": 3,
+      "fx": 205.017,
+      "fy": 211.933,
+      "fz": 121.583
+    },
+    {
+      "id": 20258,
+      "atom": "N",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 482,
+      "resindex": 2586,
+      "name": "C GLY 482 N",
+      "bonds": 2,
+      "fx": 212.773,
+      "fy": 210.095,
+      "fz": 121.404
+    },
+    {
+      "id": 19871,
+      "atom": "CD2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 436,
+      "resindex": 2540,
+      "name": "C TYR 436 CD2",
+      "bonds": 2,
+      "fx": 218.353,
+      "fy": 210.436,
+      "fz": 118.743
+    },
+    {
+      "id": 20277,
+      "atom": "CB",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "resindex": 2588,
+      "name": "C TYR 484 CB",
+      "bonds": 2,
+      "fx": 212.162,
+      "fy": 217.177,
+      "fz": 118.138
+    },
+    {
+      "id": 20303,
+      "atom": "CB",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 487,
+      "resindex": 2591,
+      "name": "C THR 487 CB",
+      "bonds": 2,
+      "fx": 207.708,
+      "fy": 216.937,
+      "fz": 119.805
+    },
+    {
+      "id": 20300,
+      "atom": "CA",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 487,
+      "resindex": 2591,
+      "name": "C THR 487 CA",
+      "bonds": 2,
+      "fx": 207.362,
+      "fy": 218.054,
+      "fz": 118.823
+    },
+    {
+      "id": 20171,
+      "atom": "CB",
+      "chain": "C",
+      "resname": "LEU",
+      "resnum": 472,
+      "resindex": 2576,
+      "name": "C LEU 472 CB",
+      "bonds": 2,
+      "fx": 215.759,
+      "fy": 185.199,
+      "fz": 115.481
+    },
+    {
+      "id": 20173,
+      "atom": "CD1",
+      "chain": "C",
+      "resname": "LEU",
+      "resnum": 472,
+      "resindex": 2576,
+      "name": "C LEU 472 CD1",
+      "bonds": 2,
+      "fx": 216.364,
+      "fy": 184.079,
+      "fz": 113.328
+    },
+    {
+      "id": 20172,
+      "atom": "CG",
+      "chain": "C",
+      "resname": "LEU",
+      "resnum": 472,
+      "resindex": 2576,
+      "name": "C LEU 472 CG",
+      "bonds": 2,
+      "fx": 216.5,
+      "fy": 185.335,
+      "fz": 114.155
+    },
+    {
+      "id": 20311,
+      "atom": "CA",
+      "chain": "C",
+      "resname": "ILE",
+      "resnum": 489,
+      "resindex": 2593,
+      "name": "C ILE 489 CA",
+      "bonds": 2,
+      "fx": 202.068,
+      "fy": 219.202,
+      "fz": 122.637
+    },
+    {
+      "id": 20342,
+      "atom": "NE2",
+      "chain": "C",
+      "resname": "GLN",
+      "resnum": 492,
+      "resindex": 2596,
+      "name": "C GLN 492 NE2",
+      "bonds": 2,
+      "fx": 204.059,
+      "fy": 220.977,
+      "fz": 124.725
+    },
+    {
+      "id": 19798,
+      "atom": "CD",
+      "chain": "C",
+      "resname": "ARG",
+      "resnum": 426,
+      "resindex": 2530,
+      "name": "C ARG 426 CD",
+      "bonds": 2,
+      "fx": 207.422,
+      "fy": 222.722,
+      "fz": 124.941
+    },
+    {
+      "id": 19799,
+      "atom": "NE",
+      "chain": "C",
+      "resname": "ARG",
+      "resnum": 426,
+      "resindex": 2530,
+      "name": "C ARG 426 NE",
+      "bonds": 2,
+      "fx": 206.957,
+      "fy": 224.051,
+      "fz": 125.337
+    },
+    {
+      "id": 20326,
+      "atom": "CB",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "resindex": 2595,
+      "name": "C TYR 491 CB",
+      "bonds": 2,
+      "fx": 206.703,
+      "fy": 213.824,
+      "fz": 121.587
+    },
+    {
+      "id": 20114,
+      "atom": "OD2",
+      "chain": "C",
+      "resname": "ASP",
+      "resnum": 463,
+      "resindex": 2567,
+      "name": "C ASP 463 OD2",
+      "bonds": 1,
+      "fx": 212.429,
+      "fy": 181.489,
+      "fz": 123.806
+    },
+    {
+      "id": 20112,
+      "atom": "CG",
+      "chain": "C",
+      "resname": "ASP",
+      "resnum": 463,
+      "resindex": 2567,
+      "name": "C ASP 463 CG",
+      "bonds": 1,
+      "fx": 212.541,
+      "fy": 182.217,
+      "fz": 124.819
+    },
+    {
+      "id": 20111,
+      "atom": "CB",
+      "chain": "C",
+      "resname": "ASP",
+      "resnum": 463,
+      "resindex": 2567,
+      "name": "C ASP 463 CB",
+      "bonds": 1,
+      "fx": 211.569,
+      "fy": 181.992,
+      "fz": 125.982
+    },
+    {
+      "id": 20176,
+      "atom": "CA",
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "resindex": 2577,
+      "name": "C ASN 473 CA",
+      "bonds": 1,
+      "fx": 213.437,
+      "fy": 187.487,
+      "fz": 118.951
+    },
+    {
+      "id": 20104,
+      "atom": "CB",
+      "chain": "C",
+      "resname": "PRO",
+      "resnum": 462,
+      "resindex": 2566,
+      "name": "C PRO 462 CB",
+      "bonds": 1,
+      "fx": 209.683,
+      "fy": 186.726,
+      "fz": 125.264
+    },
+    {
+      "id": 20092,
+      "atom": "CE2",
+      "chain": "C",
+      "resname": "PHE",
+      "resnum": 460,
+      "resindex": 2564,
+      "name": "C PHE 460 CE2",
+      "bonds": 1,
+      "fx": 211.407,
+      "fy": 190.286,
+      "fz": 126.295
+    },
+    {
+      "id": 19946,
+      "atom": "CD1",
+      "chain": "C",
+      "resname": "LEU",
+      "resnum": 443,
+      "resindex": 2547,
+      "name": "C LEU 443 CD1",
+      "bonds": 1,
+      "fx": 212.558,
+      "fy": 193.975,
+      "fz": 124.239
+    },
+    {
+      "id": 19945,
+      "atom": "CG",
+      "chain": "C",
+      "resname": "LEU",
+      "resnum": 443,
+      "resindex": 2547,
+      "name": "C LEU 443 CG",
+      "bonds": 1,
+      "fx": 211.451,
+      "fy": 194.363,
+      "fz": 125.207
+    },
+    {
+      "id": 19933,
+      "atom": "CG",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "resindex": 2546,
+      "name": "C TYR 442 CG",
+      "bonds": 1,
+      "fx": 209.83,
+      "fy": 198.097,
+      "fz": 124.579
+    },
+    {
+      "id": 19936,
+      "atom": "CE1",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "resindex": 2546,
+      "name": "C TYR 442 CE1",
+      "bonds": 1,
+      "fx": 211.767,
+      "fy": 198.35,
+      "fz": 123.165
+    },
+    {
+      "id": 20193,
+      "atom": "CB",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 CB",
+      "bonds": 1,
+      "fx": 214.765,
+      "fy": 192.82,
+      "fz": 120.936
+    },
+    {
+      "id": 19913,
+      "atom": "CE1",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 440,
+      "resindex": 2544,
+      "name": "C TYR 440 CE1",
+      "bonds": 1,
+      "fx": 210.709,
+      "fy": 203.614,
+      "fz": 124.645
+    },
+    {
+      "id": 19870,
+      "atom": "CD1",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 436,
+      "resindex": 2540,
+      "name": "C TYR 436 CD1",
+      "bonds": 1,
+      "fx": 216.601,
+      "fy": 211.235,
+      "fz": 120.148
+    },
+    {
+      "id": 20299,
+      "atom": "N",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 487,
+      "resindex": 2591,
+      "name": "C THR 487 N",
+      "bonds": 1,
+      "fx": 208.559,
+      "fy": 218.709,
+      "fz": 118.332
+    },
+    {
+      "id": 19848,
+      "atom": "O",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 433,
+      "resindex": 2537,
+      "name": "C THR 433 O",
+      "bonds": 1,
+      "fx": 218.139,
+      "fy": 215.778,
+      "fz": 115.569
+    },
+    {
+      "id": 19842,
+      "atom": "O",
+      "chain": "C",
+      "resname": "SER",
+      "resnum": 432,
+      "resindex": 2536,
+      "name": "C SER 432 O",
+      "bonds": 1,
+      "fx": 214.754,
+      "fy": 218.692,
+      "fz": 115.271
+    },
+    {
+      "id": 20302,
+      "atom": "O",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 487,
+      "resindex": 2591,
+      "name": "C THR 487 O",
+      "bonds": 1,
+      "fx": 206.918,
+      "fy": 219.994,
+      "fz": 120.194
+    },
+    {
+      "id": 20340,
+      "atom": "CD",
+      "chain": "C",
+      "resname": "GLN",
+      "resnum": 492,
+      "resindex": 2596,
+      "name": "C GLN 492 CD",
+      "bonds": 1,
+      "fx": 204.679,
+      "fy": 220.165,
+      "fz": 125.559
+    },
+    {
+      "id": 20292,
+      "atom": "N",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "resindex": 2590,
+      "name": "C THR 486 N",
+      "bonds": 1,
+      "fx": 210.608,
+      "fy": 220.528,
+      "fz": 118.142
+    },
+    {
+      "id": 20288,
+      "atom": "O",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 485,
+      "resindex": 2589,
+      "name": "C THR 485 O",
+      "bonds": 1,
+      "fx": 209.294,
+      "fy": 221.516,
+      "fz": 119.694
+    },
+    {
+      "id": 20330,
+      "atom": "CE1",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "resindex": 2595,
+      "name": "C TYR 491 CE1",
+      "bonds": 1,
+      "fx": 204.557,
+      "fy": 210.711,
+      "fz": 121.132
+    },
+    {
+      "id": 20319,
+      "atom": "CA",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 490,
+      "resindex": 2594,
+      "name": "C GLY 490 CA",
+      "bonds": 1,
+      "fx": 202.276,
+      "fy": 215.485,
+      "fz": 121.836
+    },
+    {
+      "id": 20320,
+      "atom": "C",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 490,
+      "resindex": 2594,
+      "name": "C GLY 490 C",
+      "bonds": 1,
+      "fx": 203.452,
+      "fy": 214.785,
+      "fz": 122.485
+    },
+    {
+      "id": 20322,
+      "atom": "N",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "resindex": 2595,
+      "name": "C TYR 491 N",
+      "bonds": 1,
+      "fx": 204.683,
+      "fy": 215.145,
+      "fz": 122.14
+    },
+    {
+      "id": 20262,
+      "atom": "N",
+      "chain": "C",
+      "resname": "PHE",
+      "resnum": 483,
+      "resindex": 2587,
+      "name": "C PHE 483 N",
+      "bonds": 1,
+      "fx": 212.602,
+      "fy": 212.9,
+      "fz": 121.568
+    },
+    {
+      "id": 20279,
+      "atom": "CD1",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "resindex": 2588,
+      "name": "C TYR 484 CD1",
+      "bonds": 1,
+      "fx": 214.03,
+      "fy": 215.468,
+      "fz": 117.929
+    },
+    {
+      "id": 20182,
+      "atom": "ND2",
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "resindex": 2577,
+      "name": "C ASN 473 ND2",
+      "bonds": 1,
+      "fx": 210.9,
+      "fy": 187.527,
+      "fz": 117.372
+    },
+    {
+      "id": 20198,
+      "atom": "CE2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 CE2",
+      "bonds": 1,
+      "fx": 212.155,
+      "fy": 190.786,
+      "fz": 119.108
+    },
+    {
+      "id": 20200,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 OH",
+      "bonds": 1,
+      "fx": 211.871,
+      "fy": 190.275,
+      "fz": 116.803
+    },
+    {
+      "id": 20200,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 OH",
+      "bonds": 1,
+      "fx": 211.871,
+      "fy": 190.275,
+      "fz": 116.803
+    },
+    {
+      "id": 20200,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 OH",
+      "bonds": 1,
+      "fx": 211.871,
+      "fy": 190.275,
+      "fz": 116.803
+    },
+    {
+      "id": 19935,
+      "atom": "CD2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "resindex": 2546,
+      "name": "C TYR 442 CD2",
+      "bonds": 1,
+      "fx": 209.44,
+      "fy": 197.008,
+      "fz": 123.803
+    },
+    {
+      "id": 19939,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "resindex": 2546,
+      "name": "C TYR 442 OH",
+      "bonds": 1,
+      "fx": 212.156,
+      "fy": 196.857,
+      "fz": 121.372
+    },
+    {
+      "id": 19939,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "resindex": 2546,
+      "name": "C TYR 442 OH",
+      "bonds": 1,
+      "fx": 212.156,
+      "fy": 196.857,
+      "fz": 121.372
+    },
+    {
+      "id": 19916,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 440,
+      "resindex": 2544,
+      "name": "C TYR 440 OH",
+      "bonds": 1,
+      "fx": 209.178,
+      "fy": 202.186,
+      "fz": 123.562
+    },
+    {
+      "id": 19916,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 440,
+      "resindex": 2544,
+      "name": "C TYR 440 OH",
+      "bonds": 1,
+      "fx": 209.178,
+      "fy": 202.186,
+      "fz": 123.562
+    },
+    {
+      "id": 19875,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 436,
+      "resindex": 2540,
+      "name": "C TYR 436 OH",
+      "bonds": 1,
+      "fx": 215.556,
+      "fy": 211.535,
+      "fz": 116.689
+    },
+    {
+      "id": 20284,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "resindex": 2588,
+      "name": "C TYR 484 OH",
+      "bonds": 1,
+      "fx": 215.509,
+      "fy": 213.76,
+      "fz": 115.099
+    },
+    {
+      "id": 20297,
+      "atom": "OG1",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "resindex": 2590,
+      "name": "C THR 486 OG1",
+      "bonds": 1,
+      "fx": 210.864,
+      "fy": 219.021,
+      "fz": 115.715
+    },
+    {
+      "id": 20174,
+      "atom": "CD2",
+      "chain": "C",
+      "resname": "LEU",
+      "resnum": 472,
+      "resindex": 2576,
+      "name": "C LEU 472 CD2",
+      "bonds": 1,
+      "fx": 216.005,
+      "fy": 186.554,
+      "fz": 113.384
+    },
+    {
+      "id": 20182,
+      "atom": "ND2",
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "resindex": 2577,
+      "name": "C ASN 473 ND2",
+      "bonds": 1,
+      "fx": 210.9,
+      "fy": 187.527,
+      "fz": 117.372
+    },
+    {
+      "id": 20315,
+      "atom": "CG1",
+      "chain": "C",
+      "resname": "ILE",
+      "resnum": 489,
+      "resindex": 2593,
+      "name": "C ILE 489 CG1",
+      "bonds": 1,
+      "fx": 200.274,
+      "fy": 220.973,
+      "fz": 122.587
+    },
+    {
+      "id": 20307,
+      "atom": "CA",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "resindex": 2592,
+      "name": "C GLY 488 CA",
+      "bonds": 1,
+      "fx": 204.222,
+      "fy": 219.974,
+      "fz": 119.639
+    },
+    {
+      "id": 20331,
+      "atom": "CE2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "resindex": 2595,
+      "name": "C TYR 491 CE2",
+      "bonds": 1,
+      "fx": 206.459,
+      "fy": 210.534,
+      "fz": 119.707
+    },
+    {
+      "id": 20295,
+      "atom": "O",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "resindex": 2590,
+      "name": "C THR 486 O",
+      "bonds": 1,
+      "fx": 207.47,
+      "fy": 219.607,
+      "fz": 116.582
+    },
+    {
+      "id": 20295,
+      "atom": "O",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "resindex": 2590,
+      "name": "C THR 486 O",
+      "bonds": 1,
+      "fx": 207.47,
+      "fy": 219.607,
+      "fz": 116.582
+    },
+    {
+      "id": 20295,
+      "atom": "O",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "resindex": 2590,
+      "name": "C THR 486 O",
+      "bonds": 1,
+      "fx": 207.47,
+      "fy": 219.607,
+      "fz": 116.582
+    },
+    {
+      "id": 20333,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "resindex": 2595,
+      "name": "C TYR 491 OH",
+      "bonds": 1,
+      "fx": 204.824,
+      "fy": 208.797,
+      "fz": 119.755
+    },
+    {
+      "id": 20333,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "resindex": 2595,
+      "name": "C TYR 491 OH",
+      "bonds": 1,
+      "fx": 204.824,
+      "fy": 208.797,
+      "fz": 119.755
+    },
+    {
+      "id": 20180,
+      "atom": "CG",
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "resindex": 2577,
+      "name": "C ASN 473 CG",
+      "bonds": 2,
+      "fx": 211.576,
+      "fy": 186.412,
+      "fz": 117.621
+    },
+    {
+      "id": 20200,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 OH",
+      "bonds": 2,
+      "fx": 211.871,
+      "fy": 190.275,
+      "fz": 116.803
+    },
+    {
+      "id": 19937,
+      "atom": "CE2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "resindex": 2546,
+      "name": "C TYR 442 CE2",
+      "bonds": 2,
+      "fx": 210.209,
+      "fy": 196.584,
+      "fz": 122.729
+    },
+    {
+      "id": 19937,
+      "atom": "CE2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "resindex": 2546,
+      "name": "C TYR 442 CE2",
+      "bonds": 2,
+      "fx": 210.209,
+      "fy": 196.584,
+      "fz": 122.729
+    },
+    {
+      "id": 20197,
+      "atom": "CE1",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 CE1",
+      "bonds": 2,
+      "fx": 213.693,
+      "fy": 191.635,
+      "fz": 117.486
+    },
+    {
+      "id": 20197,
+      "atom": "CE1",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 CE1",
+      "bonds": 2,
+      "fx": 213.693,
+      "fy": 191.635,
+      "fz": 117.486
+    },
+    {
+      "id": 19916,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 440,
+      "resindex": 2544,
+      "name": "C TYR 440 OH",
+      "bonds": 2,
+      "fx": 209.178,
+      "fy": 202.186,
+      "fz": 123.562
+    },
+    {
+      "id": 19916,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 440,
+      "resindex": 2544,
+      "name": "C TYR 440 OH",
+      "bonds": 2,
+      "fx": 209.178,
+      "fy": 202.186,
+      "fz": 123.562
+    },
+    {
+      "id": 19916,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 440,
+      "resindex": 2544,
+      "name": "C TYR 440 OH",
+      "bonds": 2,
+      "fx": 209.178,
+      "fy": 202.186,
+      "fz": 123.562
+    },
+    {
+      "id": 20331,
+      "atom": "CE2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "resindex": 2595,
+      "name": "C TYR 491 CE2",
+      "bonds": 2,
+      "fx": 206.459,
+      "fy": 210.534,
+      "fz": 119.707
+    },
+    {
+      "id": 19875,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 436,
+      "resindex": 2540,
+      "name": "C TYR 436 OH",
+      "bonds": 2,
+      "fx": 215.556,
+      "fy": 211.535,
+      "fz": 116.689
+    },
+    {
+      "id": 20284,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "resindex": 2588,
+      "name": "C TYR 484 OH",
+      "bonds": 2,
+      "fx": 215.509,
+      "fy": 213.76,
+      "fz": 115.099
+    },
+    {
+      "id": 20307,
+      "atom": "CA",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "resindex": 2592,
+      "name": "C GLY 488 CA",
+      "bonds": 2,
+      "fx": 204.222,
+      "fy": 219.974,
+      "fz": 119.639
+    },
+    {
+      "id": 20296,
+      "atom": "CB",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "resindex": 2590,
+      "name": "C THR 486 CB",
+      "bonds": 2,
+      "fx": 210.204,
+      "fy": 220.294,
+      "fz": 115.715
+    },
+    {
+      "id": 20114,
+      "atom": "OD2",
+      "chain": "C",
+      "resname": "ASP",
+      "resnum": 463,
+      "resindex": 2567,
+      "name": "C ASP 463 OD2",
+      "bonds": 3,
+      "fx": 212.429,
+      "fy": 181.489,
+      "fz": 123.806
+    },
+    {
+      "id": 20180,
+      "atom": "CG",
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "resindex": 2577,
+      "name": "C ASN 473 CG",
+      "bonds": 3,
+      "fx": 211.576,
+      "fy": 186.412,
+      "fz": 117.621
+    },
+    {
+      "id": 20199,
+      "atom": "CZ",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 CZ",
+      "bonds": 3,
+      "fx": 212.573,
+      "fy": 190.899,
+      "fz": 117.801
+    },
+    {
+      "id": 20198,
+      "atom": "CE2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 CE2",
+      "bonds": 3,
+      "fx": 212.155,
+      "fy": 190.786,
+      "fz": 119.108
+    },
+    {
+      "id": 20105,
+      "atom": "CG",
+      "chain": "C",
+      "resname": "PRO",
+      "resnum": 462,
+      "resindex": 2566,
+      "name": "C PRO 462 CG",
+      "bonds": 3,
+      "fx": 210.302,
+      "fy": 186.476,
+      "fz": 123.937
+    },
+    {
+      "id": 20200,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 OH",
+      "bonds": 3,
+      "fx": 211.871,
+      "fy": 190.275,
+      "fz": 116.803
+    },
+    {
+      "id": 19938,
+      "atom": "CZ",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "resindex": 2546,
+      "name": "C TYR 442 CZ",
+      "bonds": 3,
+      "fx": 211.373,
+      "fy": 197.26,
+      "fz": 122.423
+    },
+    {
+      "id": 20197,
+      "atom": "CE1",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 CE1",
+      "bonds": 3,
+      "fx": 213.693,
+      "fy": 191.635,
+      "fz": 117.486
+    },
+    {
+      "id": 19916,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 440,
+      "resindex": 2544,
+      "name": "C TYR 440 OH",
+      "bonds": 3,
+      "fx": 209.178,
+      "fy": 202.186,
+      "fz": 123.562
+    },
+    {
+      "id": 20181,
+      "atom": "OD1",
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "resindex": 2577,
+      "name": "C ASN 473 OD1",
+      "bonds": 3,
+      "fx": 211.591,
+      "fy": 185.457,
+      "fz": 116.843
+    },
+    {
+      "id": 20181,
+      "atom": "OD1",
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "resindex": 2577,
+      "name": "C ASN 473 OD1",
+      "bonds": 3,
+      "fx": 211.591,
+      "fy": 185.457,
+      "fz": 116.843
+    },
+    {
+      "id": 20307,
+      "atom": "CA",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "resindex": 2592,
+      "name": "C GLY 488 CA",
+      "bonds": 3,
+      "fx": 204.222,
+      "fy": 219.974,
+      "fz": 119.639
+    },
+    {
+      "id": 20296,
+      "atom": "CB",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "resindex": 2590,
+      "name": "C THR 486 CB",
+      "bonds": 3,
+      "fx": 210.204,
+      "fy": 220.294,
+      "fz": 115.715
+    },
+    {
+      "id": 20181,
+      "atom": "OD1",
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "resindex": 2577,
+      "name": "C ASN 473 OD1",
+      "bonds": 4,
+      "fx": 211.591,
+      "fy": 185.457,
+      "fz": 116.843
+    },
+    {
+      "id": 20181,
+      "atom": "OD1",
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "resindex": 2577,
+      "name": "C ASN 473 OD1",
+      "bonds": 4,
+      "fx": 211.591,
+      "fy": 185.457,
+      "fz": 116.843
+    },
+    {
+      "id": 20181,
+      "atom": "OD1",
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "resindex": 2577,
+      "name": "C ASN 473 OD1",
+      "bonds": 4,
+      "fx": 211.591,
+      "fy": 185.457,
+      "fz": 116.843
+    },
+    {
+      "id": 20200,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 OH",
+      "bonds": 4,
+      "fx": 211.871,
+      "fy": 190.275,
+      "fz": 116.803
+    },
+    {
+      "id": 20182,
+      "atom": "ND2",
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "resindex": 2577,
+      "name": "C ASN 473 ND2",
+      "bonds": 4,
+      "fx": 210.9,
+      "fy": 187.527,
+      "fz": 117.372
+    },
+    {
+      "id": 19938,
+      "atom": "CZ",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "resindex": 2546,
+      "name": "C TYR 442 CZ",
+      "bonds": 4,
+      "fx": 211.373,
+      "fy": 197.26,
+      "fz": 122.423
+    },
+    {
+      "id": 19938,
+      "atom": "CZ",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "resindex": 2546,
+      "name": "C TYR 442 CZ",
+      "bonds": 4,
+      "fx": 211.373,
+      "fy": 197.26,
+      "fz": 122.423
+    },
+    {
+      "id": 19938,
+      "atom": "CZ",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "resindex": 2546,
+      "name": "C TYR 442 CZ",
+      "bonds": 4,
+      "fx": 211.373,
+      "fy": 197.26,
+      "fz": 122.423
+    },
+    {
+      "id": 19938,
+      "atom": "CZ",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 442,
+      "resindex": 2546,
+      "name": "C TYR 442 CZ",
+      "bonds": 4,
+      "fx": 211.373,
+      "fy": 197.26,
+      "fz": 122.423
+    },
+    {
+      "id": 20282,
+      "atom": "CE2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "resindex": 2588,
+      "name": "C TYR 484 CE2",
+      "bonds": 4,
+      "fx": 213.75,
+      "fy": 215.365,
+      "fz": 115.195
+    },
+    {
+      "id": 20284,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "resindex": 2588,
+      "name": "C TYR 484 OH",
+      "bonds": 4,
+      "fx": 215.509,
+      "fy": 213.76,
+      "fz": 115.099
+    },
+    {
+      "id": 20171,
+      "atom": "CB",
+      "chain": "C",
+      "resname": "LEU",
+      "resnum": 472,
+      "resindex": 2576,
+      "name": "C LEU 472 CB",
+      "bonds": 4,
+      "fx": 215.759,
+      "fy": 185.199,
+      "fz": 115.481
+    },
+    {
+      "id": 20171,
+      "atom": "CB",
+      "chain": "C",
+      "resname": "LEU",
+      "resnum": 472,
+      "resindex": 2576,
+      "name": "C LEU 472 CB",
+      "bonds": 4,
+      "fx": 215.759,
+      "fy": 185.199,
+      "fz": 115.481
+    },
+    {
+      "id": 20307,
+      "atom": "CA",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "resindex": 2592,
+      "name": "C GLY 488 CA",
+      "bonds": 4,
+      "fx": 204.222,
+      "fy": 219.974,
+      "fz": 119.639
+    },
+    {
+      "id": 20307,
+      "atom": "CA",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "resindex": 2592,
+      "name": "C GLY 488 CA",
+      "bonds": 4,
+      "fx": 204.222,
+      "fy": 219.974,
+      "fz": 119.639
+    },
+    {
+      "id": 20296,
+      "atom": "CB",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "resindex": 2590,
+      "name": "C THR 486 CB",
+      "bonds": 4,
+      "fx": 210.204,
+      "fy": 220.294,
+      "fz": 115.715
+    },
+    {
+      "id": 20331,
+      "atom": "CE2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "resindex": 2595,
+      "name": "C TYR 491 CE2",
+      "bonds": 4,
+      "fx": 206.459,
+      "fy": 210.534,
+      "fz": 119.707
+    },
+    {
+      "id": 20297,
+      "atom": "OG1",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "resindex": 2590,
+      "name": "C THR 486 OG1",
+      "bonds": 4,
+      "fx": 210.864,
+      "fy": 219.021,
+      "fz": 115.715
+    },
+    {
+      "id": 20180,
+      "atom": "CG",
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "resindex": 2577,
+      "name": "C ASN 473 CG",
+      "bonds": 5,
+      "fx": 211.576,
+      "fy": 186.412,
+      "fz": 117.621
+    },
+    {
+      "id": 20181,
+      "atom": "OD1",
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "resindex": 2577,
+      "name": "C ASN 473 OD1",
+      "bonds": 5,
+      "fx": 211.591,
+      "fy": 185.457,
+      "fz": 116.843
+    },
+    {
+      "id": 20181,
+      "atom": "OD1",
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "resindex": 2577,
+      "name": "C ASN 473 OD1",
+      "bonds": 5,
+      "fx": 211.591,
+      "fy": 185.457,
+      "fz": 116.843
+    },
+    {
+      "id": 20199,
+      "atom": "CZ",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 CZ",
+      "bonds": 5,
+      "fx": 212.573,
+      "fy": 190.899,
+      "fz": 117.801
+    },
+    {
+      "id": 20200,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 OH",
+      "bonds": 5,
+      "fx": 211.871,
+      "fy": 190.275,
+      "fz": 116.803
+    },
+    {
+      "id": 20197,
+      "atom": "CE1",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 CE1",
+      "bonds": 5,
+      "fx": 213.693,
+      "fy": 191.635,
+      "fz": 117.486
+    },
+    {
+      "id": 19875,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 436,
+      "resindex": 2540,
+      "name": "C TYR 436 OH",
+      "bonds": 5,
+      "fx": 215.556,
+      "fy": 211.535,
+      "fz": 116.689
+    },
+    {
+      "id": 20305,
+      "atom": "CG2",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 487,
+      "resindex": 2591,
+      "name": "C THR 487 CG2",
+      "bonds": 5,
+      "fx": 208.632,
+      "fy": 215.924,
+      "fz": 119.151
+    },
+    {
+      "id": 20284,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "resindex": 2588,
+      "name": "C TYR 484 OH",
+      "bonds": 5,
+      "fx": 215.509,
+      "fy": 213.76,
+      "fz": 115.099
+    },
+    {
+      "id": 20297,
+      "atom": "OG1",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "resindex": 2590,
+      "name": "C THR 486 OG1",
+      "bonds": 5,
+      "fx": 210.864,
+      "fy": 219.021,
+      "fz": 115.715
+    },
+    {
+      "id": 20181,
+      "atom": "OD1",
+      "chain": "C",
+      "resname": "ASN",
+      "resnum": 473,
+      "resindex": 2577,
+      "name": "C ASN 473 OD1",
+      "bonds": 5,
+      "fx": 211.591,
+      "fy": 185.457,
+      "fz": 116.843
+    },
+    {
+      "id": 20307,
+      "atom": "CA",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "resindex": 2592,
+      "name": "C GLY 488 CA",
+      "bonds": 5,
+      "fx": 204.222,
+      "fy": 219.974,
+      "fz": 119.639
+    },
+    {
+      "id": 20331,
+      "atom": "CE2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "resindex": 2595,
+      "name": "C TYR 491 CE2",
+      "bonds": 5,
+      "fx": 206.459,
+      "fy": 210.534,
+      "fz": 119.707
+    },
+    {
+      "id": 20284,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "resindex": 2588,
+      "name": "C TYR 484 OH",
+      "bonds": 6,
+      "fx": 215.509,
+      "fy": 213.76,
+      "fz": 115.099
+    },
+    {
+      "id": 20309,
+      "atom": "O",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "resindex": 2592,
+      "name": "C GLY 488 O",
+      "bonds": 6,
+      "fx": 204.615,
+      "fy": 220.089,
+      "fz": 121.988
+    },
+    {
+      "id": 20331,
+      "atom": "CE2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "resindex": 2595,
+      "name": "C TYR 491 CE2",
+      "bonds": 6,
+      "fx": 206.459,
+      "fy": 210.534,
+      "fz": 119.707
+    },
+    {
+      "id": 20331,
+      "atom": "CE2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "resindex": 2595,
+      "name": "C TYR 491 CE2",
+      "bonds": 6,
+      "fx": 206.459,
+      "fy": 210.534,
+      "fz": 119.707
+    },
+    {
+      "id": 20196,
+      "atom": "CD2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 CD2",
+      "bonds": 7,
+      "fx": 212.876,
+      "fy": 191.397,
+      "fz": 120.106
+    },
+    {
+      "id": 20305,
+      "atom": "CG2",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 487,
+      "resindex": 2591,
+      "name": "C THR 487 CG2",
+      "bonds": 7,
+      "fx": 208.632,
+      "fy": 215.924,
+      "fz": 119.151
+    },
+    {
+      "id": 20307,
+      "atom": "CA",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "resindex": 2592,
+      "name": "C GLY 488 CA",
+      "bonds": 7,
+      "fx": 204.222,
+      "fy": 219.974,
+      "fz": 119.639
+    },
+    {
+      "id": 20331,
+      "atom": "CE2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "resindex": 2595,
+      "name": "C TYR 491 CE2",
+      "bonds": 7,
+      "fx": 206.459,
+      "fy": 210.534,
+      "fz": 119.707
+    },
+    {
+      "id": 20331,
+      "atom": "CE2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "resindex": 2595,
+      "name": "C TYR 491 CE2",
+      "bonds": 7,
+      "fx": 206.459,
+      "fy": 210.534,
+      "fz": 119.707
+    },
+    {
+      "id": 20199,
+      "atom": "CZ",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 475,
+      "resindex": 2579,
+      "name": "C TYR 475 CZ",
+      "bonds": 8,
+      "fx": 212.573,
+      "fy": 190.899,
+      "fz": 117.801
+    },
+    {
+      "id": 20307,
+      "atom": "CA",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "resindex": 2592,
+      "name": "C GLY 488 CA",
+      "bonds": 8,
+      "fx": 204.222,
+      "fy": 219.974,
+      "fz": 119.639
+    },
+    {
+      "id": 20297,
+      "atom": "OG1",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 486,
+      "resindex": 2590,
+      "name": "C THR 486 OG1",
+      "bonds": 8,
+      "fx": 210.864,
+      "fy": 219.021,
+      "fz": 115.715
+    },
+    {
+      "id": 20284,
+      "atom": "OH",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 484,
+      "resindex": 2588,
+      "name": "C TYR 484 OH",
+      "bonds": 9,
+      "fx": 215.509,
+      "fy": 213.76,
+      "fz": 115.099
+    },
+    {
+      "id": 20307,
+      "atom": "CA",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "resindex": 2592,
+      "name": "C GLY 488 CA",
+      "bonds": 10,
+      "fx": 204.222,
+      "fy": 219.974,
+      "fz": 119.639
+    },
+    {
+      "id": 20305,
+      "atom": "CG2",
+      "chain": "C",
+      "resname": "THR",
+      "resnum": 487,
+      "resindex": 2591,
+      "name": "C THR 487 CG2",
+      "bonds": 11,
+      "fx": 208.632,
+      "fy": 215.924,
+      "fz": 119.151
+    },
+    {
+      "id": 20329,
+      "atom": "CD2",
+      "chain": "C",
+      "resname": "TYR",
+      "resnum": 491,
+      "resindex": 2595,
+      "name": "C TYR 491 CD2",
+      "bonds": 11,
+      "fx": 206.907,
+      "fy": 211.768,
+      "fz": 120.155
+    },
+    {
+      "id": 20261,
+      "atom": "O",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 482,
+      "resindex": 2586,
+      "name": "C GLY 482 O",
+      "bonds": 12,
+      "fx": 211.068,
+      "fy": 212.757,
+      "fz": 119.922
+    },
+    {
+      "id": 20261,
+      "atom": "O",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 482,
+      "resindex": 2586,
+      "name": "C GLY 482 O",
+      "bonds": 13,
+      "fx": 211.068,
+      "fy": 212.757,
+      "fz": 119.922
+    },
+    {
+      "id": 20307,
+      "atom": "CA",
+      "chain": "C",
+      "resname": "GLY",
+      "resnum": 488,
+      "resindex": 2592,
+      "name": "C GLY 488 CA",
+      "bonds": 16,
+      "fx": 204.222,
+      "fy": 219.974,
+      "fz": 119.639
+    }
+  ],
+  "links": [
+    {
+      "source": 20172,
+      "target": 20181,
+      "distance": 2.3962504863739014
+    },
+    {
+      "source": 20302,
+      "target": 20307,
+      "distance": 2.6890804767608643
+    },
+    {
+      "source": 19870,
+      "target": 20284,
+      "distance": 2.723252534866333
+    },
+    {
+      "source": 20294,
+      "target": 20284,
+      "distance": 2.7715837955474854
+    },
+    {
+      "source": 20284,
+      "target": 20261,
+      "distance": 2.8138797283172607
+    },
+    {
+      "source": 20302,
+      "target": 20307,
+      "distance": 2.9711670875549316
+    },
+    {
+      "source": 20294,
+      "target": 20284,
+      "distance": 2.9899137020111084
+    },
+    {
+      "source": 20322,
+      "target": 20261,
+      "distance": 2.995084285736084
+    },
+    {
+      "source": 19799,
+      "target": 20309,
+      "distance": 3.022674560546875
+    },
+    {
+      "source": 19915,
+      "target": 19916,
+      "distance": 3.0446529388427734
+    },
+    {
+      "source": 19915,
+      "target": 19916,
+      "distance": 3.1193623542785645
+    },
+    {
+      "source": 20259,
+      "target": 19875,
+      "distance": 3.1355745792388916
+    },
+    {
+      "source": 20197,
+      "target": 20200,
+      "distance": 3.1685900688171387
+    },
+    {
+      "source": 19801,
+      "target": 20307,
+      "distance": 3.20160174369812
+    },
+    {
+      "source": 20179,
+      "target": 20181,
+      "distance": 3.204427719116211
+    },
+    {
+      "source": 20179,
+      "target": 20181,
+      "distance": 3.2149744033813477
+    },
+    {
+      "source": 20197,
+      "target": 20182,
+      "distance": 3.219104051589966
+    },
+    {
+      "source": 20298,
+      "target": 20297,
+      "distance": 3.22397780418396
+    },
+    {
+      "source": 19802,
+      "target": 20307,
+      "distance": 3.235466480255127
+    },
+    {
+      "source": 20294,
+      "target": 20284,
+      "distance": 3.2419683933258057
+    },
+    {
+      "source": 20172,
+      "target": 20181,
+      "distance": 3.2591569423675537
+    },
+    {
+      "source": 20179,
+      "target": 20181,
+      "distance": 3.275202751159668
+    },
+    {
+      "source": 19933,
+      "target": 19938,
+      "distance": 3.2775347232818604
+    },
+    {
+      "source": 20195,
+      "target": 20196,
+      "distance": 3.278658390045166
+    },
+    {
+      "source": 20302,
+      "target": 20307,
+      "distance": 3.285003185272217
+    },
+    {
+      "source": 20179,
+      "target": 20181,
+      "distance": 3.2878103256225586
+    },
+    {
+      "source": 19870,
+      "target": 20284,
+      "distance": 3.3171091079711914
+    },
+    {
+      "source": 20284,
+      "target": 20261,
+      "distance": 3.330077886581421
+    },
+    {
+      "source": 20172,
+      "target": 20181,
+      "distance": 3.3446431159973145
+    },
+    {
+      "source": 20302,
+      "target": 20307,
+      "distance": 3.358090877532959
+    },
+    {
+      "source": 20303,
+      "target": 20305,
+      "distance": 3.3897836208343506
+    },
+    {
+      "source": 20277,
+      "target": 20305,
+      "distance": 3.393575429916382
+    },
+    {
+      "source": 20322,
+      "target": 20261,
+      "distance": 3.4077718257904053
+    },
+    {
+      "source": 20179,
+      "target": 20181,
+      "distance": 3.4340591430664062
+    },
+    {
+      "source": 20105,
+      "target": 20180,
+      "distance": 3.4560294151306152
+    },
+    {
+      "source": 20298,
+      "target": 20297,
+      "distance": 3.458648920059204
+    },
+    {
+      "source": 20281,
+      "target": 20261,
+      "distance": 3.467188596725464
+    },
+    {
+      "source": 20296,
+      "target": 20305,
+      "distance": 3.496077537536621
+    },
+    {
+      "source": 19799,
+      "target": 20307,
+      "distance": 3.498905658721924
+    },
+    {
+      "source": 20104,
+      "target": 20199,
+      "distance": 3.5020415782928467
+    },
+    {
+      "source": 20314,
+      "target": 20307,
+      "distance": 3.505199909210205
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 3.5124800205230713
+    },
+    {
+      "source": 20179,
+      "target": 20181,
+      "distance": 3.5164847373962402
+    },
+    {
+      "source": 20294,
+      "target": 20284,
+      "distance": 3.5308940410614014
+    },
+    {
+      "source": 20322,
+      "target": 20261,
+      "distance": 3.534374713897705
+    },
+    {
+      "source": 20176,
+      "target": 20181,
+      "distance": 3.534832000732422
+    },
+    {
+      "source": 19916,
+      "target": 19916,
+      "distance": 3.5586562156677246
+    },
+    {
+      "source": 20193,
+      "target": 20197,
+      "distance": 3.5601041316986084
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 3.570396900177002
+    },
+    {
+      "source": 19913,
+      "target": 19916,
+      "distance": 3.580047130584717
+    },
+    {
+      "source": 20197,
+      "target": 20200,
+      "distance": 3.5817601680755615
+    },
+    {
+      "source": 19848,
+      "target": 20297,
+      "distance": 3.5849990844726562
+    },
+    {
+      "source": 20294,
+      "target": 20284,
+      "distance": 3.587209463119507
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 3.591578722000122
+    },
+    {
+      "source": 20294,
+      "target": 20284,
+      "distance": 3.5923147201538086
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 3.5937485694885254
+    },
+    {
+      "source": 20314,
+      "target": 20307,
+      "distance": 3.599107265472412
+    },
+    {
+      "source": 20314,
+      "target": 20307,
+      "distance": 3.600105047225952
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 3.6065444946289062
+    },
+    {
+      "source": 20279,
+      "target": 20297,
+      "distance": 3.6234774589538574
+    },
+    {
+      "source": 20181,
+      "target": 20181,
+      "distance": 3.6294479370117188
+    },
+    {
+      "source": 19799,
+      "target": 20309,
+      "distance": 3.62996244430542
+    },
+    {
+      "source": 19945,
+      "target": 20200,
+      "distance": 3.6328158378601074
+    },
+    {
+      "source": 20281,
+      "target": 20261,
+      "distance": 3.637266159057617
+    },
+    {
+      "source": 20298,
+      "target": 20297,
+      "distance": 3.6401495933532715
+    },
+    {
+      "source": 20179,
+      "target": 20181,
+      "distance": 3.648916244506836
+    },
+    {
+      "source": 19946,
+      "target": 20199,
+      "distance": 3.6522481441497803
+    },
+    {
+      "source": 19802,
+      "target": 20307,
+      "distance": 3.6547255516052246
+    },
+    {
+      "source": 20173,
+      "target": 20171,
+      "distance": 3.674877882003784
+    },
+    {
+      "source": 20311,
+      "target": 20307,
+      "distance": 3.676912307739258
+    },
+    {
+      "source": 20104,
+      "target": 20199,
+      "distance": 3.6967058181762695
+    },
+    {
+      "source": 20179,
+      "target": 20181,
+      "distance": 3.6976873874664307
+    },
+    {
+      "source": 19915,
+      "target": 19916,
+      "distance": 3.701782703399658
+    },
+    {
+      "source": 20172,
+      "target": 20181,
+      "distance": 3.7079482078552246
+    },
+    {
+      "source": 19938,
+      "target": 19938,
+      "distance": 3.716423511505127
+    },
+    {
+      "source": 20294,
+      "target": 20305,
+      "distance": 3.727968692779541
+    },
+    {
+      "source": 20277,
+      "target": 20305,
+      "distance": 3.746452569961548
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 3.7465322017669678
+    },
+    {
+      "source": 20193,
+      "target": 20197,
+      "distance": 3.748295307159424
+    },
+    {
+      "source": 20298,
+      "target": 20297,
+      "distance": 3.7530016899108887
+    },
+    {
+      "source": 19870,
+      "target": 20284,
+      "distance": 3.759481191635132
+    },
+    {
+      "source": 19874,
+      "target": 19875,
+      "distance": 3.764410972595215
+    },
+    {
+      "source": 20179,
+      "target": 20181,
+      "distance": 3.7762250900268555
+    },
+    {
+      "source": 20172,
+      "target": 20171,
+      "distance": 3.7784857749938965
+    },
+    {
+      "source": 19848,
+      "target": 20297,
+      "distance": 3.7789649963378906
+    },
+    {
+      "source": 19933,
+      "target": 19938,
+      "distance": 3.780714988708496
+    },
+    {
+      "source": 20294,
+      "target": 20284,
+      "distance": 3.7899277210235596
+    },
+    {
+      "source": 20174,
+      "target": 20174,
+      "distance": 3.7983763217926025
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 3.8298776149749756
+    },
+    {
+      "source": 20288,
+      "target": 20331,
+      "distance": 3.8425750732421875
+    },
+    {
+      "source": 20179,
+      "target": 20181,
+      "distance": 3.8500566482543945
+    },
+    {
+      "source": 19938,
+      "target": 19938,
+      "distance": 3.856743812561035
+    },
+    {
+      "source": 20317,
+      "target": 20307,
+      "distance": 3.867957592010498
+    },
+    {
+      "source": 20172,
+      "target": 20181,
+      "distance": 3.8791215419769287
+    },
+    {
+      "source": 20340,
+      "target": 20307,
+      "distance": 3.8803694248199463
+    },
+    {
+      "source": 20193,
+      "target": 20197,
+      "distance": 3.885719060897827
+    },
+    {
+      "source": 19802,
+      "target": 20307,
+      "distance": 3.8894693851470947
+    },
+    {
+      "source": 20299,
+      "target": 20305,
+      "distance": 3.8925940990448
+    },
+    {
+      "source": 19933,
+      "target": 19938,
+      "distance": 3.9024229049682617
+    },
+    {
+      "source": 20282,
+      "target": 20282,
+      "distance": 3.9061765670776367
+    },
+    {
+      "source": 20179,
+      "target": 20181,
+      "distance": 3.925410509109497
+    },
+    {
+      "source": 20329,
+      "target": 20331,
+      "distance": 3.9315242767333984
+    },
+    {
+      "source": 19913,
+      "target": 19916,
+      "distance": 3.9378364086151123
+    },
+    {
+      "source": 20105,
+      "target": 20180,
+      "distance": 3.9399733543395996
+    },
+    {
+      "source": 20292,
+      "target": 20297,
+      "distance": 3.9661641120910645
+    },
+    {
+      "source": 19945,
+      "target": 20200,
+      "distance": 3.9675889015197754
+    },
+    {
+      "source": 20172,
+      "target": 20181,
+      "distance": 3.97379732131958
+    },
+    {
+      "source": 19799,
+      "target": 20309,
+      "distance": 3.97453236579895
+    },
+    {
+      "source": 19801,
+      "target": 20307,
+      "distance": 3.9955005645751953
+    },
+    {
+      "source": 20179,
+      "target": 20181,
+      "distance": 4.003824234008789
+    },
+    {
+      "source": 20280,
+      "target": 20282,
+      "distance": 4.006721496582031
+    },
+    {
+      "source": 19933,
+      "target": 19938,
+      "distance": 4.009945392608643
+    },
+    {
+      "source": 20197,
+      "target": 20200,
+      "distance": 4.014388561248779
+    },
+    {
+      "source": 19945,
+      "target": 20200,
+      "distance": 4.017176151275635
+    },
+    {
+      "source": 20310,
+      "target": 20307,
+      "distance": 4.01885461807251
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 4.043669700622559
+    },
+    {
+      "source": 20296,
+      "target": 20305,
+      "distance": 4.057775497436523
+    },
+    {
+      "source": 20314,
+      "target": 20307,
+      "distance": 4.059062957763672
+    },
+    {
+      "source": 20197,
+      "target": 20182,
+      "distance": 4.059701442718506
+    },
+    {
+      "source": 19945,
+      "target": 20200,
+      "distance": 4.062750816345215
+    },
+    {
+      "source": 20171,
+      "target": 20171,
+      "distance": 4.0633463859558105
+    },
+    {
+      "source": 20314,
+      "target": 20307,
+      "distance": 4.083907127380371
+    },
+    {
+      "source": 19801,
+      "target": 20307,
+      "distance": 4.092856407165527
+    },
+    {
+      "source": 20302,
+      "target": 20307,
+      "distance": 4.097445011138916
+    },
+    {
+      "source": 20179,
+      "target": 20181,
+      "distance": 4.105132102966309
+    },
+    {
+      "source": 20294,
+      "target": 20284,
+      "distance": 4.115767002105713
+    },
+    {
+      "source": 19801,
+      "target": 20307,
+      "distance": 4.12096643447876
+    },
+    {
+      "source": 19933,
+      "target": 19938,
+      "distance": 4.123193740844727
+    },
+    {
+      "source": 19938,
+      "target": 19938,
+      "distance": 4.132758140563965
+    },
+    {
+      "source": 19870,
+      "target": 20284,
+      "distance": 4.139125347137451
+    },
+    {
+      "source": 20176,
+      "target": 20181,
+      "distance": 4.139479160308838
+    },
+    {
+      "source": 20172,
+      "target": 20181,
+      "distance": 4.139925479888916
+    },
+    {
+      "source": 20279,
+      "target": 20295,
+      "distance": 4.149691104888916
+    },
+    {
+      "source": 19802,
+      "target": 20307,
+      "distance": 4.1767096519470215
+    },
+    {
+      "source": 20195,
+      "target": 20197,
+      "distance": 4.181446075439453
+    },
+    {
+      "source": 20176,
+      "target": 20199,
+      "distance": 4.18540096282959
+    },
+    {
+      "source": 19800,
+      "target": 20307,
+      "distance": 4.186002731323242
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 4.1876068115234375
+    },
+    {
+      "source": 20277,
+      "target": 20305,
+      "distance": 4.196704864501953
+    },
+    {
+      "source": 20295,
+      "target": 20305,
+      "distance": 4.198024749755859
+    },
+    {
+      "source": 20314,
+      "target": 20307,
+      "distance": 4.205930233001709
+    },
+    {
+      "source": 20181,
+      "target": 20181,
+      "distance": 4.207334995269775
+    },
+    {
+      "source": 19945,
+      "target": 20200,
+      "distance": 4.212464809417725
+    },
+    {
+      "source": 20300,
+      "target": 20305,
+      "distance": 4.2138848304748535
+    },
+    {
+      "source": 20114,
+      "target": 20114,
+      "distance": 4.218198776245117
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 4.2197675704956055
+    },
+    {
+      "source": 20322,
+      "target": 20261,
+      "distance": 4.22097110748291
+    },
+    {
+      "source": 20306,
+      "target": 20307,
+      "distance": 4.223648548126221
+    },
+    {
+      "source": 19872,
+      "target": 19875,
+      "distance": 4.231965065002441
+    },
+    {
+      "source": 19913,
+      "target": 19916,
+      "distance": 4.236733913421631
+    },
+    {
+      "source": 20309,
+      "target": 20307,
+      "distance": 4.252486705780029
+    },
+    {
+      "source": 20182,
+      "target": 20180,
+      "distance": 4.255733489990234
+    },
+    {
+      "source": 20193,
+      "target": 20197,
+      "distance": 4.256809711456299
+    },
+    {
+      "source": 20260,
+      "target": 20261,
+      "distance": 4.265948295593262
+    },
+    {
+      "source": 19933,
+      "target": 19938,
+      "distance": 4.274116039276123
+    },
+    {
+      "source": 20193,
+      "target": 20197,
+      "distance": 4.275582790374756
+    },
+    {
+      "source": 20179,
+      "target": 20181,
+      "distance": 4.2803754806518555
+    },
+    {
+      "source": 19939,
+      "target": 20198,
+      "distance": 4.281675815582275
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 4.28401517868042
+    },
+    {
+      "source": 19946,
+      "target": 20199,
+      "distance": 4.284235000610352
+    },
+    {
+      "source": 20197,
+      "target": 20200,
+      "distance": 4.28554105758667
+    },
+    {
+      "source": 20294,
+      "target": 20284,
+      "distance": 4.29057502746582
+    },
+    {
+      "source": 20332,
+      "target": 20331,
+      "distance": 4.29394006729126
+    },
+    {
+      "source": 20172,
+      "target": 20181,
+      "distance": 4.301370620727539
+    },
+    {
+      "source": 20309,
+      "target": 20307,
+      "distance": 4.304872989654541
+    },
+    {
+      "source": 20322,
+      "target": 20329,
+      "distance": 4.309116840362549
+    },
+    {
+      "source": 20307,
+      "target": 20307,
+      "distance": 4.317451477050781
+    },
+    {
+      "source": 20197,
+      "target": 20200,
+      "distance": 4.318710803985596
+    },
+    {
+      "source": 20294,
+      "target": 20284,
+      "distance": 4.319031238555908
+    },
+    {
+      "source": 20297,
+      "target": 20305,
+      "distance": 4.322109699249268
+    },
+    {
+      "source": 20259,
+      "target": 19875,
+      "distance": 4.322153568267822
+    },
+    {
+      "source": 20277,
+      "target": 20305,
+      "distance": 4.3228960037231445
+    },
+    {
+      "source": 20328,
+      "target": 20329,
+      "distance": 4.326702117919922
+    },
+    {
+      "source": 20172,
+      "target": 20171,
+      "distance": 4.331280708312988
+    },
+    {
+      "source": 19848,
+      "target": 20297,
+      "distance": 4.336411476135254
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 4.337735176086426
+    },
+    {
+      "source": 20314,
+      "target": 20307,
+      "distance": 4.340167999267578
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 4.343088150024414
+    },
+    {
+      "source": 20195,
+      "target": 20196,
+      "distance": 4.343186378479004
+    },
+    {
+      "source": 20306,
+      "target": 20307,
+      "distance": 4.346475601196289
+    },
+    {
+      "source": 20309,
+      "target": 20307,
+      "distance": 4.35194206237793
+    },
+    {
+      "source": 20196,
+      "target": 20199,
+      "distance": 4.36223840713501
+    },
+    {
+      "source": 20200,
+      "target": 20180,
+      "distance": 4.363306999206543
+    },
+    {
+      "source": 20172,
+      "target": 20181,
+      "distance": 4.373197555541992
+    },
+    {
+      "source": 20298,
+      "target": 20296,
+      "distance": 4.373444557189941
+    },
+    {
+      "source": 19937,
+      "target": 20199,
+      "distance": 4.374621868133545
+    },
+    {
+      "source": 19801,
+      "target": 20307,
+      "distance": 4.381897449493408
+    },
+    {
+      "source": 19945,
+      "target": 20200,
+      "distance": 4.385608673095703
+    },
+    {
+      "source": 20258,
+      "target": 20261,
+      "distance": 4.388958930969238
+    },
+    {
+      "source": 20279,
+      "target": 20333,
+      "distance": 4.396073341369629
+    },
+    {
+      "source": 20261,
+      "target": 20261,
+      "distance": 4.406961441040039
+    },
+    {
+      "source": 20322,
+      "target": 20329,
+      "distance": 4.409856796264648
+    },
+    {
+      "source": 20322,
+      "target": 20329,
+      "distance": 4.4213547706604
+    },
+    {
+      "source": 20298,
+      "target": 20296,
+      "distance": 4.425380706787109
+    },
+    {
+      "source": 20306,
+      "target": 20296,
+      "distance": 4.427763938903809
+    },
+    {
+      "source": 20322,
+      "target": 20329,
+      "distance": 4.4301581382751465
+    },
+    {
+      "source": 20197,
+      "target": 20182,
+      "distance": 4.433685302734375
+    },
+    {
+      "source": 20197,
+      "target": 20182,
+      "distance": 4.43792724609375
+    },
+    {
+      "source": 20277,
+      "target": 20305,
+      "distance": 4.4413676261901855
+    },
+    {
+      "source": 20327,
+      "target": 20331,
+      "distance": 4.444262981414795
+    },
+    {
+      "source": 19915,
+      "target": 19916,
+      "distance": 4.458144187927246
+    },
+    {
+      "source": 20342,
+      "target": 20307,
+      "distance": 4.468316078186035
+    },
+    {
+      "source": 20314,
+      "target": 20307,
+      "distance": 4.468407154083252
+    },
+    {
+      "source": 19799,
+      "target": 20309,
+      "distance": 4.471153259277344
+    },
+    {
+      "source": 20111,
+      "target": 20114,
+      "distance": 4.476190567016602
+    },
+    {
+      "source": 20328,
+      "target": 20329,
+      "distance": 4.478760719299316
+    },
+    {
+      "source": 20306,
+      "target": 20296,
+      "distance": 4.480551242828369
+    },
+    {
+      "source": 20309,
+      "target": 20307,
+      "distance": 4.481368541717529
+    },
+    {
+      "source": 20326,
+      "target": 20329,
+      "distance": 4.483075141906738
+    },
+    {
+      "source": 20322,
+      "target": 20329,
+      "distance": 4.4869794845581055
+    },
+    {
+      "source": 19938,
+      "target": 19938,
+      "distance": 4.496091365814209
+    },
+    {
+      "source": 19938,
+      "target": 19938,
+      "distance": 4.503546237945557
+    },
+    {
+      "source": 20311,
+      "target": 20307,
+      "distance": 4.5059356689453125
+    },
+    {
+      "source": 20193,
+      "target": 20197,
+      "distance": 4.5116705894470215
+    },
+    {
+      "source": 20198,
+      "target": 20180,
+      "distance": 4.512494087219238
+    },
+    {
+      "source": 20262,
+      "target": 20261,
+      "distance": 4.513616561889648
+    },
+    {
+      "source": 20104,
+      "target": 20105,
+      "distance": 4.5147705078125
+    },
+    {
+      "source": 20340,
+      "target": 20307,
+      "distance": 4.514838218688965
+    },
+    {
+      "source": 19939,
+      "target": 20198,
+      "distance": 4.518633842468262
+    },
+    {
+      "source": 19873,
+      "target": 19875,
+      "distance": 4.519927978515625
+    },
+    {
+      "source": 20306,
+      "target": 20296,
+      "distance": 4.521968364715576
+    },
+    {
+      "source": 19801,
+      "target": 20307,
+      "distance": 4.524104595184326
+    },
+    {
+      "source": 19842,
+      "target": 20297,
+      "distance": 4.528053283691406
+    },
+    {
+      "source": 20105,
+      "target": 20180,
+      "distance": 4.530391216278076
+    },
+    {
+      "source": 20300,
+      "target": 20305,
+      "distance": 4.5340399742126465
+    },
+    {
+      "source": 20281,
+      "target": 20261,
+      "distance": 4.534398078918457
+    },
+    {
+      "source": 20197,
+      "target": 20200,
+      "distance": 4.535585403442383
+    },
+    {
+      "source": 20306,
+      "target": 20307,
+      "distance": 4.538139820098877
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 4.544064044952393
+    },
+    {
+      "source": 20293,
+      "target": 20305,
+      "distance": 4.5457892417907715
+    },
+    {
+      "source": 20195,
+      "target": 20197,
+      "distance": 4.547641754150391
+    },
+    {
+      "source": 20179,
+      "target": 20181,
+      "distance": 4.55340051651001
+    },
+    {
+      "source": 19938,
+      "target": 19938,
+      "distance": 4.5560078620910645
+    },
+    {
+      "source": 20196,
+      "target": 20199,
+      "distance": 4.562150478363037
+    },
+    {
+      "source": 20314,
+      "target": 20307,
+      "distance": 4.568190097808838
+    },
+    {
+      "source": 20328,
+      "target": 20331,
+      "distance": 4.571107387542725
+    },
+    {
+      "source": 19798,
+      "target": 20307,
+      "distance": 4.57928991317749
+    },
+    {
+      "source": 20262,
+      "target": 20261,
+      "distance": 4.579864978790283
+    },
+    {
+      "source": 20294,
+      "target": 20284,
+      "distance": 4.580303192138672
+    },
+    {
+      "source": 20195,
+      "target": 20196,
+      "distance": 4.580502986907959
+    },
+    {
+      "source": 20172,
+      "target": 20181,
+      "distance": 4.581018924713135
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 4.5858283042907715
+    },
+    {
+      "source": 20308,
+      "target": 20307,
+      "distance": 4.586140155792236
+    },
+    {
+      "source": 19936,
+      "target": 19939,
+      "distance": 4.587771415710449
+    },
+    {
+      "source": 20195,
+      "target": 20197,
+      "distance": 4.588616371154785
+    },
+    {
+      "source": 20197,
+      "target": 19937,
+      "distance": 4.589302062988281
+    },
+    {
+      "source": 20309,
+      "target": 20307,
+      "distance": 4.589415073394775
+    },
+    {
+      "source": 19799,
+      "target": 20307,
+      "distance": 4.5948710441589355
+    },
+    {
+      "source": 19945,
+      "target": 20199,
+      "distance": 4.595142841339111
+    },
+    {
+      "source": 20279,
+      "target": 20297,
+      "distance": 4.597320556640625
+    },
+    {
+      "source": 20279,
+      "target": 20295,
+      "distance": 4.597740650177002
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 4.599968433380127
+    },
+    {
+      "source": 20193,
+      "target": 20197,
+      "distance": 4.616231918334961
+    },
+    {
+      "source": 19933,
+      "target": 19937,
+      "distance": 4.622213363647461
+    },
+    {
+      "source": 19799,
+      "target": 20307,
+      "distance": 4.625952243804932
+    },
+    {
+      "source": 20277,
+      "target": 20305,
+      "distance": 4.627011775970459
+    },
+    {
+      "source": 19947,
+      "target": 20198,
+      "distance": 4.630942344665527
+    },
+    {
+      "source": 20311,
+      "target": 20307,
+      "distance": 4.633616924285889
+    },
+    {
+      "source": 19875,
+      "target": 19875,
+      "distance": 4.63573694229126
+    },
+    {
+      "source": 20279,
+      "target": 20297,
+      "distance": 4.63946533203125
+    },
+    {
+      "source": 20328,
+      "target": 20331,
+      "distance": 4.641858100891113
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 4.6484880447387695
+    },
+    {
+      "source": 20196,
+      "target": 20199,
+      "distance": 4.649168968200684
+    },
+    {
+      "source": 20294,
+      "target": 20284,
+      "distance": 4.653522491455078
+    },
+    {
+      "source": 20277,
+      "target": 20305,
+      "distance": 4.654043197631836
+    },
+    {
+      "source": 20195,
+      "target": 20196,
+      "distance": 4.654383659362793
+    },
+    {
+      "source": 20194,
+      "target": 20199,
+      "distance": 4.655818462371826
+    },
+    {
+      "source": 20193,
+      "target": 20197,
+      "distance": 4.656783103942871
+    },
+    {
+      "source": 20309,
+      "target": 20307,
+      "distance": 4.663877964019775
+    },
+    {
+      "source": 20279,
+      "target": 20261,
+      "distance": 4.664729118347168
+    },
+    {
+      "source": 20172,
+      "target": 20171,
+      "distance": 4.668595314025879
+    },
+    {
+      "source": 19801,
+      "target": 20307,
+      "distance": 4.669817924499512
+    },
+    {
+      "source": 19938,
+      "target": 19938,
+      "distance": 4.679461479187012
+    },
+    {
+      "source": 20172,
+      "target": 20171,
+      "distance": 4.679900646209717
+    },
+    {
+      "source": 20306,
+      "target": 20307,
+      "distance": 4.68105411529541
+    },
+    {
+      "source": 20195,
+      "target": 20196,
+      "distance": 4.6814165115356445
+    },
+    {
+      "source": 20172,
+      "target": 20181,
+      "distance": 4.681896686553955
+    },
+    {
+      "source": 20340,
+      "target": 20307,
+      "distance": 4.682223320007324
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 4.682867050170898
+    },
+    {
+      "source": 19933,
+      "target": 19935,
+      "distance": 4.683484077453613
+    },
+    {
+      "source": 20302,
+      "target": 20307,
+      "distance": 4.685776710510254
+    },
+    {
+      "source": 20171,
+      "target": 20171,
+      "distance": 4.697153091430664
+    },
+    {
+      "source": 20282,
+      "target": 20282,
+      "distance": 4.699610233306885
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 4.713670253753662
+    },
+    {
+      "source": 19913,
+      "target": 19916,
+      "distance": 4.724984645843506
+    },
+    {
+      "source": 20284,
+      "target": 20261,
+      "distance": 4.735286712646484
+    },
+    {
+      "source": 20292,
+      "target": 20297,
+      "distance": 4.73593282699585
+    },
+    {
+      "source": 19802,
+      "target": 20307,
+      "distance": 4.742195129394531
+    },
+    {
+      "source": 20314,
+      "target": 20307,
+      "distance": 4.7447943687438965
+    },
+    {
+      "source": 20279,
+      "target": 20296,
+      "distance": 4.746868133544922
+    },
+    {
+      "source": 20309,
+      "target": 20307,
+      "distance": 4.747241973876953
+    },
+    {
+      "source": 20176,
+      "target": 20181,
+      "distance": 4.750826358795166
+    },
+    {
+      "source": 20180,
+      "target": 20180,
+      "distance": 4.753477096557617
+    },
+    {
+      "source": 19938,
+      "target": 19938,
+      "distance": 4.755447864532471
+    },
+    {
+      "source": 19842,
+      "target": 20297,
+      "distance": 4.757877826690674
+    },
+    {
+      "source": 20328,
+      "target": 20331,
+      "distance": 4.759245872497559
+    },
+    {
+      "source": 20262,
+      "target": 20261,
+      "distance": 4.7595977783203125
+    },
+    {
+      "source": 20262,
+      "target": 20261,
+      "distance": 4.760514259338379
+    },
+    {
+      "source": 20172,
+      "target": 20182,
+      "distance": 4.761441230773926
+    },
+    {
+      "source": 19799,
+      "target": 20307,
+      "distance": 4.762160301208496
+    },
+    {
+      "source": 19938,
+      "target": 19938,
+      "distance": 4.762840747833252
+    },
+    {
+      "source": 20288,
+      "target": 20331,
+      "distance": 4.765413761138916
+    },
+    {
+      "source": 20279,
+      "target": 20295,
+      "distance": 4.7699995040893555
+    },
+    {
+      "source": 20277,
+      "target": 20305,
+      "distance": 4.770018100738525
+    },
+    {
+      "source": 19915,
+      "target": 19916,
+      "distance": 4.777257919311523
+    },
+    {
+      "source": 20294,
+      "target": 20284,
+      "distance": 4.779891490936279
+    },
+    {
+      "source": 20333,
+      "target": 20331,
+      "distance": 4.783373832702637
+    },
+    {
+      "source": 20105,
+      "target": 20180,
+      "distance": 4.78574275970459
+    },
+    {
+      "source": 20305,
+      "target": 20305,
+      "distance": 4.78702974319458
+    },
+    {
+      "source": 20294,
+      "target": 20284,
+      "distance": 4.787314414978027
+    },
+    {
+      "source": 19938,
+      "target": 19938,
+      "distance": 4.787607192993164
+    },
+    {
+      "source": 20319,
+      "target": 20329,
+      "distance": 4.787754058837891
+    },
+    {
+      "source": 20281,
+      "target": 20261,
+      "distance": 4.787935733795166
+    },
+    {
+      "source": 20330,
+      "target": 20331,
+      "distance": 4.788041591644287
+    },
+    {
+      "source": 19939,
+      "target": 20199,
+      "distance": 4.789719581604004
+    },
+    {
+      "source": 19870,
+      "target": 20261,
+      "distance": 4.789806842803955
+    },
+    {
+      "source": 19801,
+      "target": 20307,
+      "distance": 4.790771961212158
+    },
+    {
+      "source": 19936,
+      "target": 20196,
+      "distance": 4.791477203369141
+    },
+    {
+      "source": 20322,
+      "target": 20261,
+      "distance": 4.79209566116333
+    },
+    {
+      "source": 20294,
+      "target": 20284,
+      "distance": 4.79248571395874
+    },
+    {
+      "source": 20092,
+      "target": 20199,
+      "distance": 4.795382976531982
+    },
+    {
+      "source": 20328,
+      "target": 20329,
+      "distance": 4.797407150268555
+    },
+    {
+      "source": 19947,
+      "target": 20105,
+      "distance": 4.7979888916015625
+    },
+    {
+      "source": 19913,
+      "target": 19916,
+      "distance": 4.7989888191223145
+    },
+    {
+      "source": 20176,
+      "target": 20182,
+      "distance": 4.803539752960205
+    },
+    {
+      "source": 20176,
+      "target": 20181,
+      "distance": 4.804131984710693
+    },
+    {
+      "source": 20303,
+      "target": 20305,
+      "distance": 4.814952850341797
+    },
+    {
+      "source": 20197,
+      "target": 20200,
+      "distance": 4.815298080444336
+    },
+    {
+      "source": 19802,
+      "target": 20307,
+      "distance": 4.816650390625
+    },
+    {
+      "source": 20112,
+      "target": 20114,
+      "distance": 4.819999694824219
+    },
+    {
+      "source": 20294,
+      "target": 20284,
+      "distance": 4.8209052085876465
+    },
+    {
+      "source": 19870,
+      "target": 20284,
+      "distance": 4.821396827697754
+    },
+    {
+      "source": 20262,
+      "target": 20261,
+      "distance": 4.8226318359375
+    },
+    {
+      "source": 19933,
+      "target": 19937,
+      "distance": 4.8307695388793945
+    },
+    {
+      "source": 20176,
+      "target": 20199,
+      "distance": 4.836130619049072
+    },
+    {
+      "source": 19871,
+      "target": 20284,
+      "distance": 4.838730812072754
+    },
+    {
+      "source": 20294,
+      "target": 20284,
+      "distance": 4.841455459594727
+    },
+    {
+      "source": 19945,
+      "target": 20200,
+      "distance": 4.842352867126465
+    },
+    {
+      "source": 20288,
+      "target": 20331,
+      "distance": 4.8428826332092285
+    },
+    {
+      "source": 20298,
+      "target": 20296,
+      "distance": 4.849384307861328
+    },
+    {
+      "source": 19848,
+      "target": 20297,
+      "distance": 4.851078033447266
+    },
+    {
+      "source": 20176,
+      "target": 20181,
+      "distance": 4.852025508880615
+    },
+    {
+      "source": 20278,
+      "target": 20282,
+      "distance": 4.855334758758545
+    },
+    {
+      "source": 20283,
+      "target": 20261,
+      "distance": 4.858724594116211
+    },
+    {
+      "source": 20279,
+      "target": 20297,
+      "distance": 4.859695911407471
+    },
+    {
+      "source": 20295,
+      "target": 20305,
+      "distance": 4.861745357513428
+    },
+    {
+      "source": 20303,
+      "target": 20305,
+      "distance": 4.8625969886779785
+    },
+    {
+      "source": 20328,
+      "target": 20331,
+      "distance": 4.865067958831787
+    },
+    {
+      "source": 20294,
+      "target": 20284,
+      "distance": 4.8700270652771
+    },
+    {
+      "source": 20279,
+      "target": 20261,
+      "distance": 4.870389461517334
+    },
+    {
+      "source": 19936,
+      "target": 19939,
+      "distance": 4.870724678039551
+    },
+    {
+      "source": 20104,
+      "target": 20105,
+      "distance": 4.873796463012695
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 4.873868942260742
+    },
+    {
+      "source": 20279,
+      "target": 20296,
+      "distance": 4.874731540679932
+    },
+    {
+      "source": 20105,
+      "target": 20180,
+      "distance": 4.875319957733154
+    },
+    {
+      "source": 20288,
+      "target": 20297,
+      "distance": 4.87610387802124
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 4.880425930023193
+    },
+    {
+      "source": 20262,
+      "target": 20261,
+      "distance": 4.882871627807617
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 4.883091926574707
+    },
+    {
+      "source": 19933,
+      "target": 19938,
+      "distance": 4.884936332702637
+    },
+    {
+      "source": 20197,
+      "target": 20200,
+      "distance": 4.889924049377441
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 4.8937153816223145
+    },
+    {
+      "source": 20320,
+      "target": 20329,
+      "distance": 4.900285720825195
+    },
+    {
+      "source": 19799,
+      "target": 20309,
+      "distance": 4.902792453765869
+    },
+    {
+      "source": 19875,
+      "target": 19875,
+      "distance": 4.902844429016113
+    },
+    {
+      "source": 20176,
+      "target": 20198,
+      "distance": 4.904146671295166
+    },
+    {
+      "source": 20314,
+      "target": 20307,
+      "distance": 4.90724515914917
+    },
+    {
+      "source": 20193,
+      "target": 20197,
+      "distance": 4.918020248413086
+    },
+    {
+      "source": 20294,
+      "target": 20284,
+      "distance": 4.921117782592773
+    },
+    {
+      "source": 20298,
+      "target": 20296,
+      "distance": 4.9260406494140625
+    },
+    {
+      "source": 20294,
+      "target": 20284,
+      "distance": 4.9348249435424805
+    },
+    {
+      "source": 20196,
+      "target": 20199,
+      "distance": 4.939505577087402
+    },
+    {
+      "source": 20328,
+      "target": 20331,
+      "distance": 4.943098068237305
+    },
+    {
+      "source": 20199,
+      "target": 20180,
+      "distance": 4.945293426513672
+    },
+    {
+      "source": 19799,
+      "target": 20309,
+      "distance": 4.946795463562012
+    },
+    {
+      "source": 20172,
+      "target": 20171,
+      "distance": 4.950387954711914
+    },
+    {
+      "source": 20197,
+      "target": 20200,
+      "distance": 4.9511308670043945
+    },
+    {
+      "source": 19936,
+      "target": 20196,
+      "distance": 4.956929683685303
+    },
+    {
+      "source": 19848,
+      "target": 20284,
+      "distance": 4.959348678588867
+    },
+    {
+      "source": 20315,
+      "target": 20315,
+      "distance": 4.959541320800781
+    },
+    {
+      "source": 19935,
+      "target": 19937,
+      "distance": 4.960868835449219
+    },
+    {
+      "source": 20104,
+      "target": 20199,
+      "distance": 4.964869499206543
+    },
+    {
+      "source": 20331,
+      "target": 20331,
+      "distance": 4.970715045928955
+    },
+    {
+      "source": 20259,
+      "target": 19875,
+      "distance": 4.973243236541748
+    },
+    {
+      "source": 20322,
+      "target": 20331,
+      "distance": 4.975625514984131
+    },
+    {
+      "source": 20298,
+      "target": 20297,
+      "distance": 4.982697486877441
+    },
+    {
+      "source": 20314,
+      "target": 20307,
+      "distance": 4.982965469360352
+    },
+    {
+      "source": 19945,
+      "target": 20200,
+      "distance": 4.986219882965088
+    },
+    {
+      "source": 20277,
+      "target": 20305,
+      "distance": 4.986860752105713
+    },
+    {
+      "source": 19933,
+      "target": 19938,
+      "distance": 4.989824295043945
+    },
+    {
+      "source": 19936,
+      "target": 19938,
+      "distance": 4.990990161895752
+    },
+    {
+      "source": 20279,
+      "target": 20333,
+      "distance": 4.993070125579834
+    }
+  ]
+}
