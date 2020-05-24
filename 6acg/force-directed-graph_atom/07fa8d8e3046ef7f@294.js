@@ -5,9 +5,7 @@ export default function define(runtime, observer) {
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer()).define(["md"], function (md) {
     return (
-      md`# Disjoint Labeled Force-Directed Graph with Text
-
-* Credits to [Disjoint Force-Directed Graph](https://observablehq.com/@d3/disjoint-force-directed-graph) `
+      md``
     )
   });
   main.variable(observer("chart")).define("chart", ["data", "d3", "DOM", "width", "height", "drag", "color", "invalidation"], function (data, d3, DOM, width, height, drag, color, invalidation) {
