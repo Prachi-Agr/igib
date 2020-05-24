@@ -1,7 +1,7 @@
 // https://observablehq.com/@pjayathissa/disjoint-labeled-force-directed-graph@294
 export default function define(runtime, observer) {
   const main = runtime.module();
-  const fileAttachments = new Map([["residue_interactions.json", new URL("residue_interactions.json", import.meta.url)]]);
+  const fileAttachments = new Map([["residue_interactions.json", new URL("../residue_interactions.json", import.meta.url)]]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer()).define(["md"], function (md) {
     return (
