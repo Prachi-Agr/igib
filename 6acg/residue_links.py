@@ -1,6 +1,6 @@
 import json
 
-with open('interactions.json', 'r') as file:
+with open('residue_interactions.json', 'r') as file:
     data = json.load(file)
 
 spike_residues = set()
@@ -8,9 +8,10 @@ ace2_residues  = set()
 
 for node in data["nodes"]:
     if node["chain"] == 'C':
-        spike_residues.add(node["resnum"])
+        spike_residues.add(node["name"])
     elif node['chain'] == 'D':
-        ace2_residues.add(node['resnum'])
+        ace2_residues.add(node['name'])
+        
 print(len(spike_residues), len(ace2_residues))
 
 spike_residues = ['C' + str(residue) for residue in sorted(list(spike_residues))]

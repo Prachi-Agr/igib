@@ -6,6 +6,7 @@
 
   <script src="https://unpkg.com/3d-force-graph"></script>
   <!--<script src="../../dist/3d-force-graph.js"></script>-->
+  <title>3D Force Directed Graph for Spike-Receptor Interactions in 6ACG</title>
 </head>
 
 <body>
@@ -14,13 +15,13 @@
   <script>
     const Graph = ForceGraph3D()
       (document.getElementById('3d-graph'))
-        .jsonUrl('miserables.json')
-        .nodeLabel('id')
-        .nodeAutoColorBy('group')
+        .jsonUrl('residue_interactions.json')
+        .nodeLabel('name')
+        .nodeAutoColorBy('chain')
         .linkThreeObjectExtend(true)
         .linkThreeObject(link => {
           // extend link with text sprite
-          const sprite = new SpriteText(`${link.source} > ${link.target}`);
+          const sprite = new SpriteText(``);
           sprite.color = 'lightgrey';
           sprite.textHeight = 1.5;
           return sprite;
