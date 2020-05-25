@@ -1,5 +1,9 @@
 <head>
-  <style> body { margin: 0; } </style>
+  <style>
+    body {
+      margin: 0;
+    }
+  </style>
 
   <script src="https://unpkg.com/three"></script>
   <script src="https://unpkg.com/three-spritetext"></script>
@@ -15,25 +19,32 @@
   <script>
     const Graph = ForceGraph3D()
       (document.getElementById('3d-graph'))
-        .jsonUrl('3d_residue_interactions.json')
-        .nodeLabel('name')
-        .nodeAutoColorBy('chain')
-        .linkThreeObjectExtend(true)
-        .linkThreeObject(link => {
-          // extend link with text sprite
-          const sprite = new SpriteText(``);
-          sprite.color = 'lightgrey';
-          sprite.textHeight = 1.5; 
-          return sprite;
-        })
-        .linkPositionUpdate((sprite, { start, end }) => {
-          const middlePos = Object.assign(...['x', 'y', 'z'].map(c => ({
-            [c]: start[c] + (end[c] - start[c]) / 2 // calc middle point
-          })));
+      .jsonUrl('3d_residue_interactions.json')
+      .nodeLabel('name')
+      .nodeColor(d => {
+        if (d.chain === 'C') {
+          return 'red';
+        }
+        else if (d.chain === 'D') {
+          return 'green';
+        }
+      })
+      .linkThreeObjectExtend(true)
+      .linkThreeObject(link => {
+        // extend link with text sprite
+        const sprite = new SpriteText(``);
+        sprite.color = 'lightgrey';
+        sprite.textHeight = 1.5;
+        return sprite;
+      })
+      .linkPositionUpdate((sprite, { start, end }) => {
+        const middlePos = Object.assign(...['x', 'y', 'z'].map(c => ({
+          [c]: start[c] + (end[c] - start[c]) / 2 // calc middle point
+        })));
 
-          // Position sprite
-          Object.assign(sprite.position, middlePos);
-        });
+        // Position sprite
+        Object.assign(sprite.position, middlePos);
+      });
 
     // Spread nodes a little wider
     Graph.d3Force('charge').strength(-120);
