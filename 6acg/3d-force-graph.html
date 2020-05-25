@@ -30,8 +30,8 @@
         sprite.textHeight = 1.5;
         return sprite;
       })
-      .linkOpacity(1)
-      .linkWidth(1)
+      .linkOpacity(0.7)
+      .linkWidth(0.5)
       .linkPositionUpdate((sprite, { start, end }) => {
         const middlePos = Object.assign(...['x', 'y', 'z'].map(c => ({
           [c]: start[c] + (end[c] - start[c]) / 2 // calc middle point
