@@ -45,7 +45,7 @@ export default function define(runtime, observer) {
 
 
     const circle = node.append("circle")
-      .attr("r", d => 5*Math.sqrt(d.bonds))
+      .attr("r", d => 5*Math.sqrt(Math.sqrt(d.bonds)))
       .attr("fill", color)
       .call(drag(simulation));
 
