@@ -1,0 +1,630 @@
+{
+  "nodes": [
+    {
+      "id": 769,
+      "chain": "E",
+      "resnum": 505,
+      "aa": "TYR",
+      "name": "E505_TYR",
+      "bonds": 53
+    },
+    {
+      "id": 764,
+      "chain": "E",
+      "resnum": 500,
+      "aa": "THR",
+      "name": "E500_THR",
+      "bonds": 39
+    },
+    {
+      "id": 765,
+      "chain": "E",
+      "resnum": 501,
+      "aa": "ASN",
+      "name": "E501_ASN",
+      "bonds": 38
+    },
+    {
+      "id": 750,
+      "chain": "E",
+      "resnum": 486,
+      "aa": "PHE",
+      "name": "E486_PHE",
+      "bonds": 37
+    },
+    {
+      "id": 753,
+      "chain": "E",
+      "resnum": 489,
+      "aa": "TYR",
+      "name": "E489_TYR",
+      "bonds": 36
+    },
+    {
+      "id": 762,
+      "chain": "E",
+      "resnum": 498,
+      "aa": "GLN",
+      "name": "E498_GLN",
+      "bonds": 29
+    },
+    {
+      "id": 719,
+      "chain": "E",
+      "resnum": 455,
+      "aa": "LEU",
+      "name": "E455_LEU",
+      "bonds": 24
+    },
+    {
+      "id": 751,
+      "chain": "E",
+      "resnum": 487,
+      "aa": "ASN",
+      "name": "E487_ASN",
+      "bonds": 24
+    },
+    {
+      "id": 720,
+      "chain": "E",
+      "resnum": 456,
+      "aa": "PHE",
+      "name": "E456_PHE",
+      "bonds": 22
+    },
+    {
+      "id": 766,
+      "chain": "E",
+      "resnum": 502,
+      "aa": "GLY",
+      "name": "E502_GLY",
+      "bonds": 16
+    },
+    {
+      "id": 757,
+      "chain": "E",
+      "resnum": 493,
+      "aa": "GLN",
+      "name": "E493_GLN",
+      "bonds": 14
+    },
+    {
+      "id": 713,
+      "chain": "E",
+      "resnum": 449,
+      "aa": "TYR",
+      "name": "E449_TYR",
+      "bonds": 13
+    },
+    {
+      "id": 717,
+      "chain": "E",
+      "resnum": 453,
+      "aa": "TYR",
+      "name": "E453_TYR",
+      "bonds": 9
+    },
+    {
+      "id": 739,
+      "chain": "E",
+      "resnum": 475,
+      "aa": "ALA",
+      "name": "E475_ALA",
+      "bonds": 9
+    },
+    {
+      "id": 760,
+      "chain": "E",
+      "resnum": 496,
+      "aa": "GLY",
+      "name": "E496_GLY",
+      "bonds": 9
+    },
+    {
+      "id": 681,
+      "chain": "E",
+      "resnum": 417,
+      "aa": "LYS",
+      "name": "E417_LYS",
+      "bonds": 7
+    },
+    {
+      "id": 710,
+      "chain": "E",
+      "resnum": 446,
+      "aa": "GLY",
+      "name": "E446_GLY",
+      "bonds": 6
+    },
+    {
+      "id": 740,
+      "chain": "E",
+      "resnum": 476,
+      "aa": "GLY",
+      "name": "E476_GLY",
+      "bonds": 4
+    },
+    {
+      "id": 748,
+      "chain": "E",
+      "resnum": 484,
+      "aa": "GLU",
+      "name": "E484_GLU",
+      "bonds": 2
+    },
+    {
+      "id": 711,
+      "chain": "E",
+      "resnum": 447,
+      "aa": "GLY",
+      "name": "E447_GLY",
+      "bonds": 1
+    },
+    {
+      "id": 737,
+      "chain": "E",
+      "resnum": 473,
+      "aa": "TYR",
+      "name": "E473_TYR",
+      "bonds": 1
+    },
+    {
+      "id": 0,
+      "chain": "A",
+      "resnum": 19,
+      "aa": "SER",
+      "name": "A19_SER",
+      "bonds": 1
+    },
+    {
+      "id": 374,
+      "chain": "A",
+      "resnum": 393,
+      "aa": "ARG",
+      "name": "A393_ARG",
+      "bonds": 2
+    },
+    {
+      "id": 26,
+      "chain": "A",
+      "resnum": 45,
+      "aa": "LEU",
+      "name": "A45_LEU",
+      "bonds": 3
+    },
+    {
+      "id": 16,
+      "chain": "A",
+      "resnum": 35,
+      "aa": "GLU",
+      "name": "A35_GLU",
+      "bonds": 4
+    },
+    {
+      "id": 60,
+      "chain": "A",
+      "resnum": 79,
+      "aa": "LEU",
+      "name": "A79_LEU",
+      "bonds": 6
+    },
+    {
+      "id": 338,
+      "chain": "A",
+      "resnum": 357,
+      "aa": "ARG",
+      "name": "A357_ARG",
+      "bonds": 6
+    },
+    {
+      "id": 311,
+      "chain": "A",
+      "resnum": 330,
+      "aa": "ASN",
+      "name": "A330_ASN",
+      "bonds": 8
+    },
+    {
+      "id": 18,
+      "chain": "A",
+      "resnum": 37,
+      "aa": "GLU",
+      "name": "A37_GLU",
+      "bonds": 8
+    },
+    {
+      "id": 9,
+      "chain": "A",
+      "resnum": 28,
+      "aa": "PHE",
+      "name": "A28_PHE",
+      "bonds": 9
+    },
+    {
+      "id": 63,
+      "chain": "A",
+      "resnum": 82,
+      "aa": "MET",
+      "name": "A82_MET",
+      "bonds": 10
+    },
+    {
+      "id": 335,
+      "chain": "A",
+      "resnum": 354,
+      "aa": "GLY",
+      "name": "A354_GLY",
+      "bonds": 14
+    },
+    {
+      "id": 11,
+      "chain": "A",
+      "resnum": 30,
+      "aa": "ASP",
+      "name": "A30_ASP",
+      "bonds": 17
+    },
+    {
+      "id": 19,
+      "chain": "A",
+      "resnum": 38,
+      "aa": "ASP",
+      "name": "A38_ASP",
+      "bonds": 17
+    },
+    {
+      "id": 336,
+      "chain": "A",
+      "resnum": 355,
+      "aa": "ASP",
+      "name": "A355_ASP",
+      "bonds": 17
+    },
+    {
+      "id": 23,
+      "chain": "A",
+      "resnum": 42,
+      "aa": "GLN",
+      "name": "A42_GLN",
+      "bonds": 20
+    },
+    {
+      "id": 15,
+      "chain": "A",
+      "resnum": 34,
+      "aa": "HIS",
+      "name": "A34_HIS",
+      "bonds": 23
+    },
+    {
+      "id": 5,
+      "chain": "A",
+      "resnum": 24,
+      "aa": "GLN",
+      "name": "A24_GLN",
+      "bonds": 25
+    },
+    {
+      "id": 8,
+      "chain": "A",
+      "resnum": 27,
+      "aa": "THR",
+      "name": "A27_THR",
+      "bonds": 26
+    },
+    {
+      "id": 12,
+      "chain": "A",
+      "resnum": 31,
+      "aa": "LYS",
+      "name": "A31_LYS",
+      "bonds": 28
+    },
+    {
+      "id": 64,
+      "chain": "A",
+      "resnum": 83,
+      "aa": "TYR",
+      "name": "A83_TYR",
+      "bonds": 29
+    },
+    {
+      "id": 22,
+      "chain": "A",
+      "resnum": 41,
+      "aa": "TYR",
+      "name": "A41_TYR",
+      "bonds": 38
+    },
+    {
+      "id": 334,
+      "chain": "A",
+      "resnum": 353,
+      "aa": "LYS",
+      "name": "A353_LYS",
+      "bonds": 73
+    }
+  ],
+  "links": [
+    {
+      "source": 769,
+      "target": 334,
+      "strength": 41
+    },
+    {
+      "source": 765,
+      "target": 334,
+      "strength": 24
+    },
+    {
+      "source": 750,
+      "target": 64,
+      "strength": 20
+    },
+    {
+      "source": 751,
+      "target": 5,
+      "strength": 17
+    },
+    {
+      "source": 762,
+      "target": 22,
+      "strength": 17
+    },
+    {
+      "source": 719,
+      "target": 15,
+      "strength": 15
+    },
+    {
+      "source": 750,
+      "target": 63,
+      "strength": 15
+    },
+    {
+      "source": 765,
+      "target": 22,
+      "strength": 15
+    },
+    {
+      "source": 753,
+      "target": 8,
+      "strength": 14
+    },
+    {
+      "source": 753,
+      "target": 9,
+      "strength": 14
+    },
+    {
+      "source": 764,
+      "target": 336,
+      "strength": 14
+    },
+    {
+      "source": 713,
+      "target": 19,
+      "strength": 12
+    },
+    {
+      "source": 720,
+      "target": 8,
+      "strength": 12
+    },
+    {
+      "source": 751,
+      "target": 64,
+      "strength": 12
+    },
+    {
+      "source": 764,
+      "target": 22,
+      "strength": 12
+    },
+    {
+      "source": 717,
+      "target": 15,
+      "strength": 11
+    },
+    {
+      "source": 753,
+      "target": 12,
+      "strength": 11
+    },
+    {
+      "source": 769,
+      "target": 18,
+      "strength": 11
+    },
+    {
+      "source": 757,
+      "target": 12,
+      "strength": 10
+    },
+    {
+      "source": 764,
+      "target": 311,
+      "strength": 10
+    },
+    {
+      "source": 766,
+      "target": 335,
+      "strength": 9
+    },
+    {
+      "source": 710,
+      "target": 23,
+      "strength": 8
+    },
+    {
+      "source": 720,
+      "target": 11,
+      "strength": 8
+    },
+    {
+      "source": 762,
+      "target": 23,
+      "strength": 8
+    },
+    {
+      "source": 681,
+      "target": 11,
+      "strength": 7
+    },
+    {
+      "source": 719,
+      "target": 11,
+      "strength": 7
+    },
+    {
+      "source": 720,
+      "target": 12,
+      "strength": 7
+    },
+    {
+      "source": 739,
+      "target": 5,
+      "strength": 7
+    },
+    {
+      "source": 750,
+      "target": 60,
+      "strength": 7
+    },
+    {
+      "source": 760,
+      "target": 334,
+      "strength": 7
+    },
+    {
+      "source": 764,
+      "target": 338,
+      "strength": 7
+    },
+    {
+      "source": 757,
+      "target": 16,
+      "strength": 6
+    },
+    {
+      "source": 766,
+      "target": 334,
+      "strength": 6
+    },
+    {
+      "source": 769,
+      "target": 335,
+      "strength": 6
+    },
+    {
+      "source": 713,
+      "target": 23,
+      "strength": 5
+    },
+    {
+      "source": 740,
+      "target": 5,
+      "strength": 5
+    },
+    {
+      "source": 760,
+      "target": 19,
+      "strength": 5
+    },
+    {
+      "source": 719,
+      "target": 12,
+      "strength": 4
+    },
+    {
+      "source": 765,
+      "target": 336,
+      "strength": 4
+    },
+    {
+      "source": 766,
+      "target": 336,
+      "strength": 4
+    },
+    {
+      "source": 739,
+      "target": 8,
+      "strength": 3
+    },
+    {
+      "source": 753,
+      "target": 64,
+      "strength": 3
+    },
+    {
+      "source": 762,
+      "target": 19,
+      "strength": 3
+    },
+    {
+      "source": 762,
+      "target": 334,
+      "strength": 3
+    },
+    {
+      "source": 769,
+      "target": 374,
+      "strength": 3
+    },
+    {
+      "source": 711,
+      "target": 23,
+      "strength": 2
+    },
+    {
+      "source": 737,
+      "target": 8,
+      "strength": 2
+    },
+    {
+      "source": 748,
+      "target": 12,
+      "strength": 2
+    },
+    {
+      "source": 750,
+      "target": 5,
+      "strength": 2
+    },
+    {
+      "source": 762,
+      "target": 26,
+      "strength": 2
+    },
+    {
+      "source": 764,
+      "target": 26,
+      "strength": 2
+    },
+    {
+      "source": 765,
+      "target": 335,
+      "strength": 2
+    },
+    {
+      "source": 681,
+      "target": 15,
+      "strength": 1
+    },
+    {
+      "source": 739,
+      "target": 0,
+      "strength": 1
+    },
+    {
+      "source": 753,
+      "target": 5,
+      "strength": 1
+    },
+    {
+      "source": 757,
+      "target": 15,
+      "strength": 1
+    }
+  ]
+}
