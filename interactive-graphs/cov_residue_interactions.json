@@ -1,0 +1,137 @@
+{
+  "nodes": [
+    {
+      "id": 144,
+      "chain": "E",
+      "resnum": 473,
+      "aa": "ASN",
+      "name": "E473_ASN",
+      "bonds": 2
+    },
+    {
+      "id": 97,
+      "chain": "E",
+      "resnum": 426,
+      "aa": "ARG",
+      "name": "E426_ARG",
+      "bonds": 1
+    },
+    {
+      "id": 107,
+      "chain": "E",
+      "resnum": 436,
+      "aa": "TYR",
+      "name": "E436_TYR",
+      "bonds": 1
+    },
+    {
+      "id": 157,
+      "chain": "E",
+      "resnum": 486,
+      "aa": "THR",
+      "name": "E486_THR",
+      "bonds": 1
+    },
+    {
+      "id": 159,
+      "chain": "E",
+      "resnum": 488,
+      "aa": "GLY",
+      "name": "E488_GLY",
+      "bonds": 1
+    },
+    {
+      "id": 489,
+      "chain": "A",
+      "resnum": 329,
+      "aa": "GLU",
+      "name": "A329_GLU",
+      "bonds": 1
+    },
+    {
+      "id": 202,
+      "chain": "A",
+      "resnum": 42,
+      "aa": "GLN",
+      "name": "A42_GLN",
+      "bonds": 1
+    },
+    {
+      "id": 184,
+      "chain": "A",
+      "resnum": 24,
+      "aa": "GLN",
+      "name": "A24_GLN",
+      "bonds": 1
+    },
+    {
+      "id": 243,
+      "chain": "A",
+      "resnum": 83,
+      "aa": "TYR",
+      "name": "A83_TYR",
+      "bonds": 1
+    },
+    {
+      "id": 490,
+      "chain": "A",
+      "resnum": 330,
+      "aa": "ASN",
+      "name": "A330_ASN",
+      "bonds": 1
+    },
+    {
+      "id": 201,
+      "chain": "A",
+      "resnum": 41,
+      "aa": "TYR",
+      "name": "A41_TYR",
+      "bonds": 1
+    },
+    {
+      "id": 513,
+      "chain": "A",
+      "resnum": 353,
+      "aa": "LYS",
+      "name": "A353_LYS",
+      "bonds": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 97,
+      "target": 489,
+      "strength": 1
+    },
+    {
+      "source": 107,
+      "target": 202,
+      "strength": 1
+    },
+    {
+      "source": 144,
+      "target": 184,
+      "strength": 1
+    },
+    {
+      "source": 144,
+      "target": 243,
+      "strength": 1
+    },
+    {
+      "source": 157,
+      "target": 490,
+      "strength": 1
+    },
+    {
+      "source": 157,
+      "target": 201,
+      "strength": 1
+    },
+    {
+      "source": 159,
+      "target": 513,
+      "strength": 1
+    }
+  ]
+}

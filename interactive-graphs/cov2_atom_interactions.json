@@ -1,0 +1,290 @@
+{
+  "nodes": [
+    {
+      "id": 918,
+      "atom": "OH",
+      "chain": "E",
+      "resname": "TYR",
+      "resnum": 449,
+      "resindex": 116,
+      "name": "E TYR 449 OH",
+      "bonds": 2,
+      "fx": 4.231716721131346,
+      "fy": 3.520585038864933,
+      "fz": 7.981217237467604
+    },
+    {
+      "id": 667,
+      "atom": "NZ",
+      "chain": "E",
+      "resname": "LYS",
+      "resnum": 417,
+      "resindex": 84,
+      "name": "E LYS 417 NZ",
+      "bonds": 1,
+      "fx": -8.937572219079005,
+      "fy": -2.663093562844839,
+      "fz": -4.786774960212114
+    },
+    {
+      "id": 958,
+      "atom": "OH",
+      "chain": "E",
+      "resname": "TYR",
+      "resnum": 453,
+      "resindex": 120,
+      "name": "E TYR 453 OH",
+      "bonds": 1,
+      "fx": -4.711544900059424,
+      "fy": 1.0495865818104981,
+      "fz": 1.0909593177543684
+    },
+    {
+      "id": 1229,
+      "atom": "OD1",
+      "chain": "E",
+      "resname": "ASN",
+      "resnum": 487,
+      "resindex": 154,
+      "name": "E ASN 487 OD1",
+      "bonds": 1,
+      "fx": -2.175553181038511,
+      "fy": -13.964822908283129,
+      "fz": -7.5708378782577626
+    },
+    {
+      "id": 1230,
+      "atom": "ND2",
+      "chain": "E",
+      "resname": "ASN",
+      "resnum": 487,
+      "resindex": 154,
+      "name": "E ASN 487 ND2",
+      "bonds": 1,
+      "fx": -2.387043107846547,
+      "fy": -16.050730109180606,
+      "fz": -8.360057214122506
+    },
+    {
+      "id": 1283,
+      "atom": "NE2",
+      "chain": "E",
+      "resname": "GLN",
+      "resnum": 493,
+      "resindex": 160,
+      "name": "E GLN 493 NE2",
+      "bonds": 1,
+      "fx": -1.4555027931723332,
+      "fy": -4.674829629585826,
+      "fz": 3.7382473332300634
+    },
+    {
+      "id": 1325,
+      "atom": "NE2",
+      "chain": "E",
+      "resname": "GLN",
+      "resnum": 498,
+      "resindex": 165,
+      "name": "E GLN 498 NE2",
+      "bonds": 1,
+      "fx": 5.269944652402944,
+      "fy": 7.616975818848079,
+      "fz": 7.443868802654009
+    },
+    {
+      "id": 1338,
+      "atom": "OG1",
+      "chain": "E",
+      "resname": "THR",
+      "resnum": 500,
+      "resindex": 167,
+      "name": "E THR 500 OG1",
+      "bonds": 1,
+      "fx": 5.640660364433669,
+      "fy": 14.055092130499744,
+      "fz": 6.429656685541289
+    },
+    {
+      "id": 1348,
+      "atom": "N",
+      "chain": "E",
+      "resname": "GLY",
+      "resnum": 502,
+      "resindex": 169,
+      "name": "E GLY 502 N",
+      "bonds": 1,
+      "fx": 0.5044577042654232,
+      "fy": 15.051220221744803,
+      "fz": 1.9369086334563264
+    },
+    {
+      "id": 1654,
+      "atom": "OD2",
+      "chain": "A",
+      "resname": "ASP",
+      "resnum": 30,
+      "resindex": 215,
+      "name": "A ASP 30 OD2",
+      "bonds": 1,
+      "fx": -6.69042588189212,
+      "fy": -3.0871945188350516,
+      "fz": -6.578126884987292
+    },
+    {
+      "id": 1723,
+      "atom": "OD2",
+      "chain": "A",
+      "resname": "ASP",
+      "resnum": 38,
+      "resindex": 223,
+      "name": "A ASP 38 OD2",
+      "bonds": 1,
+      "fx": 4.349014133085871,
+      "fy": 2.4269119222616276,
+      "fz": 5.520724313038031
+    },
+    {
+      "id": 1690,
+      "atom": "CD2",
+      "chain": "A",
+      "resname": "HIS",
+      "resnum": 34,
+      "resindex": 219,
+      "name": "A HIS 34 CD2",
+      "bonds": 1,
+      "fx": -3.717043294471631,
+      "fy": 1.0025725815148654,
+      "fz": -1.590584498829557
+    },
+    {
+      "id": 2092,
+      "atom": "OH",
+      "chain": "A",
+      "resname": "TYR",
+      "resnum": 83,
+      "resindex": 268,
+      "name": "A TYR 83 OH",
+      "bonds": 1,
+      "fx": 0.16073908962511307,
+      "fy": -12.666363649873663,
+      "fz": -8.363304268894083
+    },
+    {
+      "id": 1605,
+      "atom": "OE1",
+      "chain": "A",
+      "resname": "GLN",
+      "resnum": 24,
+      "resindex": 209,
+      "name": "A GLN 24 OE1",
+      "bonds": 1,
+      "fx": -3.2219858876978344,
+      "fy": -15.920718818733619,
+      "fz": -10.911446172852735
+    },
+    {
+      "id": 1663,
+      "atom": "NZ",
+      "chain": "A",
+      "resname": "LYS",
+      "resnum": 31,
+      "resindex": 216,
+      "name": "A LYS 31 NZ",
+      "bonds": 1,
+      "fx": 0.04078627423980752,
+      "fy": -6.136240481674289,
+      "fz": 1.6926326705575008
+    },
+    {
+      "id": 1754,
+      "atom": "OH",
+      "chain": "A",
+      "resname": "TYR",
+      "resnum": 41,
+      "resindex": 226,
+      "name": "A TYR 41 OH",
+      "bonds": 1,
+      "fx": 5.368492885602618,
+      "fy": 12.613742342837991,
+      "fz": 4.153952914600481
+    },
+    {
+      "id": 4278,
+      "atom": "O",
+      "chain": "A",
+      "resname": "LYS",
+      "resnum": 353,
+      "resindex": 538,
+      "name": "A LYS 353 O",
+      "bonds": 1,
+      "fx": 1.1568733286148616,
+      "fy": 12.812285147397297,
+      "fz": 0.4168058126046361
+    },
+    {
+      "id": 1763,
+      "atom": "NE2",
+      "chain": "A",
+      "resname": "GLN",
+      "resnum": 42,
+      "resindex": 227,
+      "name": "A GLN 42 NE2",
+      "bonds": 2,
+      "fx": 6.573986111855725,
+      "fy": 5.015021893231204,
+      "fz": 7.756158157251917
+    }
+  ],
+  "links": [
+    {
+      "source": 1230,
+      "target": 1605,
+      "distance": 2.6876778602600098
+    },
+    {
+      "source": 918,
+      "target": 1723,
+      "distance": 2.6951653957366943
+    },
+    {
+      "source": 1338,
+      "target": 1754,
+      "distance": 2.7074694633483887
+    },
+    {
+      "source": 1348,
+      "target": 4278,
+      "distance": 2.7837367057800293
+    },
+    {
+      "source": 918,
+      "target": 1763,
+      "distance": 2.787510633468628
+    },
+    {
+      "source": 1229,
+      "target": 2092,
+      "distance": 2.7878775596618652
+    },
+    {
+      "source": 958,
+      "target": 1690,
+      "distance": 2.860403299331665
+    },
+    {
+      "source": 667,
+      "target": 1654,
+      "distance": 2.9049041271209717
+    },
+    {
+      "source": 1283,
+      "target": 1663,
+      "distance": 2.9256019592285156
+    },
+    {
+      "source": 1325,
+      "target": 1663,
+      "distance": 2.9271509647369385
+    }
+  ]
+}

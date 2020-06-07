@@ -1,0 +1,7 @@
+REMARK Selection 'chain E and within 3 of chain A'
+ATOM      1  NH2 ARG E 426       6.980   4.105  73.909  1.00 87.52           N
+ATOM      2  OH  TYR E 436      11.888 -12.478  73.659  1.00 75.64           O
+ATOM      3  ND2 ASN E 473       5.296 -30.985  58.115  1.00112.53           N
+ATOM      4  O   THR E 486      10.934   0.074  70.415  1.00 77.57           O
+ATOM      5  OG1 THR E 486      13.089  -2.109  72.898  1.00 77.04           O
+ATOM      6  N   GLY E 488       8.227  -1.223  67.859  1.00 75.75           N

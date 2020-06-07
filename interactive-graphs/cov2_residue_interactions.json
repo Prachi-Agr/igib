@@ -1,0 +1,192 @@
+{
+  "nodes": [
+    {
+      "id": 116,
+      "chain": "E",
+      "resnum": 449,
+      "aa": "TYR",
+      "name": "E449_TYR",
+      "bonds": 2
+    },
+    {
+      "id": 84,
+      "chain": "E",
+      "resnum": 417,
+      "aa": "LYS",
+      "name": "E417_LYS",
+      "bonds": 1
+    },
+    {
+      "id": 120,
+      "chain": "E",
+      "resnum": 453,
+      "aa": "TYR",
+      "name": "E453_TYR",
+      "bonds": 1
+    },
+    {
+      "id": 154,
+      "chain": "E",
+      "resnum": 487,
+      "aa": "ASN",
+      "name": "E487_ASN",
+      "bonds": 1
+    },
+    {
+      "id": 160,
+      "chain": "E",
+      "resnum": 493,
+      "aa": "GLN",
+      "name": "E493_GLN",
+      "bonds": 1
+    },
+    {
+      "id": 165,
+      "chain": "E",
+      "resnum": 498,
+      "aa": "GLN",
+      "name": "E498_GLN",
+      "bonds": 1
+    },
+    {
+      "id": 167,
+      "chain": "E",
+      "resnum": 500,
+      "aa": "THR",
+      "name": "E500_THR",
+      "bonds": 1
+    },
+    {
+      "id": 169,
+      "chain": "E",
+      "resnum": 502,
+      "aa": "GLY",
+      "name": "E502_GLY",
+      "bonds": 1
+    },
+    {
+      "id": 215,
+      "chain": "A",
+      "resnum": 30,
+      "aa": "ASP",
+      "name": "A30_ASP",
+      "bonds": 1
+    },
+    {
+      "id": 223,
+      "chain": "A",
+      "resnum": 38,
+      "aa": "ASP",
+      "name": "A38_ASP",
+      "bonds": 1
+    },
+    {
+      "id": 219,
+      "chain": "A",
+      "resnum": 34,
+      "aa": "HIS",
+      "name": "A34_HIS",
+      "bonds": 1
+    },
+    {
+      "id": 268,
+      "chain": "A",
+      "resnum": 83,
+      "aa": "TYR",
+      "name": "A83_TYR",
+      "bonds": 1
+    },
+    {
+      "id": 209,
+      "chain": "A",
+      "resnum": 24,
+      "aa": "GLN",
+      "name": "A24_GLN",
+      "bonds": 1
+    },
+    {
+      "id": 216,
+      "chain": "A",
+      "resnum": 31,
+      "aa": "LYS",
+      "name": "A31_LYS",
+      "bonds": 1
+    },
+    {
+      "id": 226,
+      "chain": "A",
+      "resnum": 41,
+      "aa": "TYR",
+      "name": "A41_TYR",
+      "bonds": 1
+    },
+    {
+      "id": 538,
+      "chain": "A",
+      "resnum": 353,
+      "aa": "LYS",
+      "name": "A353_LYS",
+      "bonds": 1
+    },
+    {
+      "id": 227,
+      "chain": "A",
+      "resnum": 42,
+      "aa": "GLN",
+      "name": "A42_GLN",
+      "bonds": 2
+    }
+  ],
+  "links": [
+    {
+      "source": 84,
+      "target": 215,
+      "strength": 1
+    },
+    {
+      "source": 116,
+      "target": 223,
+      "strength": 1
+    },
+    {
+      "source": 116,
+      "target": 227,
+      "strength": 1
+    },
+    {
+      "source": 120,
+      "target": 219,
+      "strength": 1
+    },
+    {
+      "source": 154,
+      "target": 268,
+      "strength": 1
+    },
+    {
+      "source": 154,
+      "target": 209,
+      "strength": 1
+    },
+    {
+      "source": 160,
+      "target": 216,
+      "strength": 1
+    },
+    {
+      "source": 165,
+      "target": 227,
+      "strength": 1
+    },
+    {
+      "source": 167,
+      "target": 226,
+      "strength": 1
+    },
+    {
+      "source": 169,
+      "target": 538,
+      "strength": 1
+    }
+  ]
+}

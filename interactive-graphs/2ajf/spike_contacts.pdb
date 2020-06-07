@@ -1,0 +1,8 @@
+REMARK Selection 'chain A and within 3 of chain E'
+ATOM      1  OE1 GLN A  24       4.479 -32.345  55.646  1.00107.78           O
+ATOM      2  OH  TYR A  41      12.835  -3.504  70.451  1.00 71.05           O
+ATOM      3  OE1 GLN A  42      14.090 -13.655  72.520  1.00 77.86           O
+ATOM      4  OH  TYR A  83       7.224 -29.113  57.483  1.00125.93           O
+ATOM      5  OE2 GLU A 329       9.366   5.712  73.273  1.00 75.16           O
+ATOM      6  ND2 ASN A 330      12.564   2.300  70.774  1.00 75.72           N
+ATOM      7  O   LYS A 353       8.760  -3.301  66.482  1.00 67.29           O
