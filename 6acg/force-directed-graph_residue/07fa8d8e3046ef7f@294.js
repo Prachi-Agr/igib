@@ -53,7 +53,7 @@ export default function define(runtime, observer) {
       .text(d => d.name)
       .attr("font-family", "sans-serif")
       .attr("fill", "#999")
-      .style("font-size", "12px");
+      .style("font-size", "10px");
 
     simulation.on("tick", () => {
       link
