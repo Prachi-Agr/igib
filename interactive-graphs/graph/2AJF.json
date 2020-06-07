@@ -1,0 +1,137 @@
+{
+  "nodes": [
+    {
+      "id": 310,
+      "chain": "A",
+      "resnum": 329,
+      "aa": "GLU",
+      "name": "A329_GLU",
+      "bonds": 1
+    },
+    {
+      "id": 23,
+      "chain": "A",
+      "resnum": 42,
+      "aa": "GLN",
+      "name": "A42_GLN",
+      "bonds": 1
+    },
+    {
+      "id": 5,
+      "chain": "A",
+      "resnum": 24,
+      "aa": "GLN",
+      "name": "A24_GLN",
+      "bonds": 1
+    },
+    {
+      "id": 64,
+      "chain": "A",
+      "resnum": 83,
+      "aa": "TYR",
+      "name": "A83_TYR",
+      "bonds": 1
+    },
+    {
+      "id": 311,
+      "chain": "A",
+      "resnum": 330,
+      "aa": "ASN",
+      "name": "A330_ASN",
+      "bonds": 1
+    },
+    {
+      "id": 22,
+      "chain": "A",
+      "resnum": 41,
+      "aa": "TYR",
+      "name": "A41_TYR",
+      "bonds": 1
+    },
+    {
+      "id": 334,
+      "chain": "A",
+      "resnum": 353,
+      "aa": "LYS",
+      "name": "A353_LYS",
+      "bonds": 1
+    },
+    {
+      "id": 1291,
+      "chain": "E",
+      "resnum": 426,
+      "aa": "ARG",
+      "name": "E426_ARG",
+      "bonds": 1
+    },
+    {
+      "id": 1301,
+      "chain": "E",
+      "resnum": 436,
+      "aa": "TYR",
+      "name": "E436_TYR",
+      "bonds": 1
+    },
+    {
+      "id": 1351,
+      "chain": "E",
+      "resnum": 486,
+      "aa": "THR",
+      "name": "E486_THR",
+      "bonds": 1
+    },
+    {
+      "id": 1353,
+      "chain": "E",
+      "resnum": 488,
+      "aa": "GLY",
+      "name": "E488_GLY",
+      "bonds": 1
+    },
+    {
+      "id": 1338,
+      "chain": "E",
+      "resnum": 473,
+      "aa": "ASN",
+      "name": "E473_ASN",
+      "bonds": 2
+    }
+  ],
+  "links": [
+    {
+      "source": 310,
+      "target": 1291,
+      "strength": 1
+    },
+    {
+      "source": 23,
+      "target": 1301,
+      "strength": 1
+    },
+    {
+      "source": 5,
+      "target": 1338,
+      "strength": 1
+    },
+    {
+      "source": 64,
+      "target": 1338,
+      "strength": 1
+    },
+    {
+      "source": 311,
+      "target": 1351,
+      "strength": 1
+    },
+    {
+      "source": 22,
+      "target": 1351,
+      "strength": 1
+    },
+    {
+      "source": 334,
+      "target": 1353,
+      "strength": 1
+    }
+  ]
+}
