@@ -11,3 +11,4 @@
 1. [6M0J](https://www.rcsb.org/structure/6M0J) 
 2. [Force Directed Graph for 6M0J](https://ballaneypranav.github.io/igib/interactive-graphs/6m0j/force-directed-graph_residue)
 3. [Force Directed Graph for 6ACG](https://ballaneypranav.github.io/igib/interactive-graphs/6acg/force-directed-graph_residue)
+4. [Compare 6M0J and A2JF](https://ballaneypranav.github.io/igib/interactive-graphs/graph)
