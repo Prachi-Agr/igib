@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "id": 713,
+      "id": "6M0J_713",
       "chain": "E",
       "resnum": 449,
       "aa": "TYR",
@@ -9,7 +9,7 @@
       "bonds": 2
     },
     {
-      "id": 681,
+      "id": "6M0J_681",
       "chain": "E",
       "resnum": 417,
       "aa": "LYS",
@@ -17,7 +17,7 @@
       "bonds": 1
     },
     {
-      "id": 717,
+      "id": "6M0J_717",
       "chain": "E",
       "resnum": 453,
       "aa": "TYR",
@@ -25,7 +25,7 @@
       "bonds": 1
     },
     {
-      "id": 751,
+      "id": "6M0J_751",
       "chain": "E",
       "resnum": 487,
       "aa": "ASN",
@@ -33,7 +33,7 @@
       "bonds": 1
     },
     {
-      "id": 757,
+      "id": "6M0J_757",
       "chain": "E",
       "resnum": 493,
       "aa": "GLN",
@@ -41,7 +41,7 @@
       "bonds": 1
     },
     {
-      "id": 762,
+      "id": "6M0J_762",
       "chain": "E",
       "resnum": 498,
       "aa": "GLN",
@@ -49,7 +49,7 @@
       "bonds": 1
     },
     {
-      "id": 764,
+      "id": "6M0J_764",
       "chain": "E",
       "resnum": 500,
       "aa": "THR",
@@ -57,7 +57,7 @@
       "bonds": 1
     },
     {
-      "id": 766,
+      "id": "6M0J_766",
       "chain": "E",
       "resnum": 502,
       "aa": "GLY",
@@ -65,7 +65,7 @@
       "bonds": 1
     },
     {
-      "id": 11,
+      "id": "6M0J_11",
       "chain": "A",
       "resnum": 30,
       "aa": "ASP",
@@ -73,7 +73,7 @@
       "bonds": 1
     },
     {
-      "id": 19,
+      "id": "6M0J_19",
       "chain": "A",
       "resnum": 38,
       "aa": "ASP",
@@ -81,7 +81,7 @@
       "bonds": 1
     },
     {
-      "id": 15,
+      "id": "6M0J_15",
       "chain": "A",
       "resnum": 34,
       "aa": "HIS",
@@ -89,7 +89,7 @@
       "bonds": 1
     },
     {
-      "id": 64,
+      "id": "6M0J_64",
       "chain": "A",
       "resnum": 83,
       "aa": "TYR",
@@ -97,7 +97,7 @@
       "bonds": 1
     },
     {
-      "id": 5,
+      "id": "6M0J_5",
       "chain": "A",
       "resnum": 24,
       "aa": "GLN",
@@ -105,7 +105,7 @@
       "bonds": 1
     },
     {
-      "id": 12,
+      "id": "6M0J_12",
       "chain": "A",
       "resnum": 31,
       "aa": "LYS",
@@ -113,7 +113,7 @@
       "bonds": 1
     },
     {
-      "id": 22,
+      "id": "6M0J_22",
       "chain": "A",
       "resnum": 41,
       "aa": "TYR",
@@ -121,7 +121,7 @@
       "bonds": 1
     },
     {
-      "id": 334,
+      "id": "6M0J_334",
       "chain": "A",
       "resnum": 353,
       "aa": "LYS",
@@ -129,7 +129,7 @@
       "bonds": 1
     },
     {
-      "id": 23,
+      "id": "6M0J_23",
       "chain": "A",
       "resnum": 42,
       "aa": "GLN",
@@ -139,53 +139,53 @@
   ],
   "links": [
     {
-      "source": 681,
-      "target": 11,
+      "source": "6M0J_681",
+      "target": "6M0J_11",
       "strength": 1
     },
     {
-      "source": 713,
-      "target": 23,
+      "source": "6M0J_713",
+      "target": "6M0J_23",
       "strength": 1
     },
     {
-      "source": 713,
-      "target": 19,
+      "source": "6M0J_713",
+      "target": "6M0J_19",
       "strength": 1
     },
     {
-      "source": 717,
-      "target": 15,
+      "source": "6M0J_717",
+      "target": "6M0J_15",
       "strength": 1
     },
     {
-      "source": 751,
-      "target": 64,
+      "source": "6M0J_751",
+      "target": "6M0J_64",
       "strength": 1
     },
     {
-      "source": 751,
-      "target": 5,
+      "source": "6M0J_751",
+      "target": "6M0J_5",
       "strength": 1
     },
     {
-      "source": 757,
-      "target": 12,
+      "source": "6M0J_757",
+      "target": "6M0J_12",
       "strength": 1
     },
     {
-      "source": 762,
-      "target": 23,
+      "source": "6M0J_762",
+      "target": "6M0J_23",
       "strength": 1
     },
     {
-      "source": 764,
-      "target": 22,
+      "source": "6M0J_764",
+      "target": "6M0J_22",
       "strength": 1
     },
     {
-      "source": 766,
-      "target": 334,
+      "source": "6M0J_766",
+      "target": "6M0J_334",
       "strength": 1
     }
   ]

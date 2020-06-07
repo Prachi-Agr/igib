@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "id": 310,
+      "id": "2AJF_310",
       "chain": "A",
       "resnum": 329,
       "aa": "GLU",
@@ -9,7 +9,7 @@
       "bonds": 1
     },
     {
-      "id": 23,
+      "id": "2AJF_23",
       "chain": "A",
       "resnum": 42,
       "aa": "GLN",
@@ -17,7 +17,7 @@
       "bonds": 1
     },
     {
-      "id": 5,
+      "id": "2AJF_5",
       "chain": "A",
       "resnum": 24,
       "aa": "GLN",
@@ -25,7 +25,7 @@
       "bonds": 1
     },
     {
-      "id": 64,
+      "id": "2AJF_64",
       "chain": "A",
       "resnum": 83,
       "aa": "TYR",
@@ -33,7 +33,7 @@
       "bonds": 1
     },
     {
-      "id": 311,
+      "id": "2AJF_311",
       "chain": "A",
       "resnum": 330,
       "aa": "ASN",
@@ -41,7 +41,7 @@
       "bonds": 1
     },
     {
-      "id": 22,
+      "id": "2AJF_22",
       "chain": "A",
       "resnum": 41,
       "aa": "TYR",
@@ -49,7 +49,7 @@
       "bonds": 1
     },
     {
-      "id": 334,
+      "id": "2AJF_334",
       "chain": "A",
       "resnum": 353,
       "aa": "LYS",
@@ -57,7 +57,7 @@
       "bonds": 1
     },
     {
-      "id": 1291,
+      "id": "2AJF_1291",
       "chain": "E",
       "resnum": 426,
       "aa": "ARG",
@@ -65,7 +65,7 @@
       "bonds": 1
     },
     {
-      "id": 1301,
+      "id": "2AJF_1301",
       "chain": "E",
       "resnum": 436,
       "aa": "TYR",
@@ -73,7 +73,7 @@
       "bonds": 1
     },
     {
-      "id": 1351,
+      "id": "2AJF_1351",
       "chain": "E",
       "resnum": 486,
       "aa": "THR",
@@ -81,7 +81,7 @@
       "bonds": 1
     },
     {
-      "id": 1353,
+      "id": "2AJF_1353",
       "chain": "E",
       "resnum": 488,
       "aa": "GLY",
@@ -89,7 +89,7 @@
       "bonds": 1
     },
     {
-      "id": 1338,
+      "id": "2AJF_1338",
       "chain": "E",
       "resnum": 473,
       "aa": "ASN",
@@ -99,38 +99,38 @@
   ],
   "links": [
     {
-      "source": 310,
-      "target": 1291,
+      "source": "2AJF_310",
+      "target": "2AJF_1291",
       "strength": 1
     },
     {
-      "source": 23,
-      "target": 1301,
+      "source": "2AJF_23",
+      "target": "2AJF_1301",
       "strength": 1
     },
     {
-      "source": 5,
-      "target": 1338,
+      "source": "2AJF_5",
+      "target": "2AJF_1338",
       "strength": 1
     },
     {
-      "source": 64,
-      "target": 1338,
+      "source": "2AJF_64",
+      "target": "2AJF_1338",
       "strength": 1
     },
     {
-      "source": 311,
-      "target": 1351,
+      "source": "2AJF_311",
+      "target": "2AJF_1351",
       "strength": 1
     },
     {
-      "source": 22,
-      "target": 1351,
+      "source": "2AJF_22",
+      "target": "2AJF_1351",
       "strength": 1
     },
     {
-      "source": 334,
-      "target": 1353,
+      "source": "2AJF_334",
+      "target": "2AJF_1353",
       "strength": 1
     }
   ]

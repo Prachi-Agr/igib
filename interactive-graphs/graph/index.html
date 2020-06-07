@@ -1,22 +1,235 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
 <html>
 
 <head>
-    <title>Force Directed Graph for Interactions in 6M0J</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
-        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <style>
+        #pieChart1 {
+            height: 360px;
+            position: relative;
+            width: 360px;
+        }
 
+        .tooltip {
+            background: #fdd0a2;
+            box-shadow: 0 0 5px #999999;
+            color: #333;
+            display: none;
+            left: 300px;
+            padding: 10px;
+            position: absolute;
+            text-align: center;
+            width: 80px;
+            z-index: 10;
+        }
+
+        #tooltip1 {
+            top: 220px;
+        }
+
+        #tooltip2 {
+            top: 580px;
+        }
+    </style>
+    <script src="d3.min.js"></script>
 </head>
 
 <body>
-    <header class="ml-5">
-        <h1 class="mt-2">Force Directed Graph for Interactions in 6M0J</h1>
-        <a href="http://ballaneypranav.github.io/igib">Home</a>
-    </header>
-    <script src="d3.min.js"></script>
-    <script src="index.js"></script>
+    <div class="container mt-5">
+        <h2>Force Directed Graphs to Compare Interactions in 6M0J and 2AJF</h1>
+            <div class="row">
+                <div class="col-6" id="left"></div>
+                <div class="col-6" id="right"></div>
+            </div>
+    </div>
+
+
+    <script>
+
+        function selectNodes(node) {
+            const left_node = d3.select('#left').select('.' + node)
+            const right_node = d3.select('#right').select('.' + node)
+
+            function simulation(node) {
+                return
+                d3.forceSimulation(node)
+                    .force('center', d3.forceCenter()
+                        .strength(1000));
+            };
+
+            const drag = simulation => {
+
+                function dragstarted(d) {
+                    if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+                    d.fx = d.x;
+                    d.fy = d.y;
+                }
+
+                function dragged(d) {
+                    d.fx = d3.event.x;
+                    d.fy = d3.event.y;
+                }
+
+                function dragended(d) {
+                    if (!d3.event.active) simulation.alphaTarget(0);
+                    d.fx = null;
+                    d.fy = null;
+                }
+
+                return d3.drag()
+                    .on("start", dragstarted)
+                    .on("drag", dragged)
+                    .on("end", dragended);
+            };
+
+            if (!left_node.empty() && !right_node.empty()) {
+                left_node.call(drag(simulation(left_node)));
+            }
+            else {
+                console.log('only one');
+            }
+            //     .select('circle')
+            //     .attr('r', 10);
+            // d3.select('#right').select('.' + node)
+            //     .select('circle')
+            //     .attr('r', 10);
+        }
+
+        var drawPieChartFunction = function (data, chartId, tooltipName) {
+
+            var margin = {
+                top: 20,
+                right: 40,
+                bottom: 120,
+                left: 80
+            },
+                width = 700 - margin.right - margin.left,
+                height = 800 - margin.top - margin.bottom;
+
+
+            const scale = 1
+            const textOffset = 10
+
+            const links = data.links.map(d => Object.create(d));
+            const nodes = data.nodes.map(d => Object.create(d));
+
+            const simulation = d3.forceSimulation(nodes)
+                .force("link", d3.forceLink(links).id(d => d.id)
+                    .strength(1.5))
+                .force("charge", d3.forceManyBody()
+                    .strength(-200))
+                .force("x", d3.forceX()
+                    .strength(0.1))
+                .force("y", d3.forceY())
+                .force("center", isolate(d3.forceCenter().strength(1000), ));
+
+            const svg = d3.select(chartId)
+                .append('svg')
+                .attr("viewBox", [-width / 2, -height / 2, width, height]);
+
+            const drag = simulation => {
+
+                function dragstarted(d) {
+                    if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+                    d.fx = d.x;
+                    d.fy = d.y;
+                }
+
+                function dragged(d) {
+                    d.fx = d3.event.x;
+                    d.fy = d3.event.y;
+                }
+
+                function dragended(d) {
+                    if (!d3.event.active) simulation.alphaTarget(0);
+                    d.fx = null;
+                    d.fy = null;
+                }
+
+                return d3.drag()
+                    .on("start", dragstarted)
+                    .on("drag", dragged)
+                    .on("end", dragended);
+            };
+
+            const color = function () {
+                const scale = d3.scaleOrdinal(d3.schemeCategory10);
+                return d => scale(d.chain);
+            };
+
+            const link = svg.append("g")
+                .attr("stroke", "#999")
+                .attr("stroke-opacity", 0.6)
+                .selectAll("line")
+                .data(links)
+                .join("line")
+                .attr("stroke-width", d => Math.sqrt(3 * d.bonds));
+
+            const node = svg.append("g")
+                .selectAll(".node")
+                .data(nodes)
+                .join("g")
+                .attr("class", d => "node " + d.name)
+                .call(drag(simulation))
+                .on("click", function (d) {
+                    selectNodes(d.name);
+                });
+
+            const circle = node.append("circle")
+                .attr("r", d => 5 * Math.sqrt(Math.sqrt(d.bonds)))
+                .attr("fill", d => {
+                    if (d.chain == 'A') {
+                        return '#146EB4';
+                    }
+                    else if (d.chain == 'E') {
+                        return '#FF9900';
+                    }
+                })
+                .call(drag(simulation));
+
+            const text = node.append("text")
+                .text(d => d.name)
+                .attr("font-family", "sans-serif")
+                .attr("fill", "#999");
+
+            simulation.on("tick", () => {
+                link
+                    .attr("x1", d => d.source.x * scale)
+                    .attr("y1", d => d.source.y * scale)
+                    .attr("x2", d => d.target.x * scale)
+                    .attr("y2", d => d.target.y * scale);
+                text
+                    .attr("x", d => d.x * scale + textOffset)
+                    .attr("y", d => d.y * scale);
+
+                circle
+                    .attr("cx", d => d.x * scale)
+                    .attr("cy", d => d.y * scale);
+            });
+
+            function isolate(force, filter) {
+                var initialize = force.initialize;
+                force.initialize = function () { initialize.call(force, nodes.filter(filter)); };
+                return force;
+            }
+
+            return svg.node();
+        };
+
+
+        var data1 = d3
+            .json('https://raw.githubusercontent.com/ballaneypranav/igib/master/interactive-graphs/graph/6M0J.json')
+            .then(function (data) {
+                drawPieChartFunction(data, '#left', 'tooltip1');
+            });
+
+        var data2 = d3
+            .json('https://raw.githubusercontent.com/ballaneypranav/igib/master/interactive-graphs/graph/2AJF.json')
+            .then(function (data) {
+                drawPieChartFunction(data, '#right', 'tooltip2');
+            });
+
+    </script>
 </body>
 
 </html>
