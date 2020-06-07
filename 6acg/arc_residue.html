@@ -103,7 +103,7 @@
         .append("circle")
         .attr("cx", d => x(d.name))
         .attr("cy", height - 30)
-        .attr("r", d => d.links)
+        .attr("r", d => 7 * Math.sqrt(d.links))
         .style("fill", d => color(d.chain))
         .attr("stroke", "white")
 
