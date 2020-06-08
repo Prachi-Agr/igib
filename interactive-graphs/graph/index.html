@@ -27,36 +27,41 @@
                 width = 1000 - margin.right - margin.left,
                 height = 800 - margin.top - margin.bottom;
 
-
             const scale = 1
             const textOffset = 10
 
             const links = data.links.map(d => Object.create(d));
             const nodes = data.nodes.map(d => Object.create(d));
 
+            for (i = 0; i < nodes.length; i++)
+            {
+                nodes[i].selected = false;
+            }
+
             const simulation = d3.forceSimulation(nodes)
                 .force("link", d3.forceLink(links).id(d => d.id)
                     .strength(1.5))
                 .force("charge", d3.forceManyBody()
                     .strength(-200))
-                .force("ax",
+                // .force("x", d3.forceX().strength(0.0005))
+                // .force("y", d3.forceY().strength(0.0005))
+                .force("charge", d3.forceCollide().radius(10))
+                .force("a_radial",
                     isolate(
-                        d3.forceX(350).strength(.1),
+                        d3.forceRadial(150, -250, 0),
                         d => d.pdb === '6M0J'))
-                .force("bx",
+                .force("a_center",
                     isolate(
-                        d3.forceX(-350).strength(.1),
-                        d => d.pdb === '2AJF'))
-                .force("ay",
-                    isolate(
-                        d3.forceY(0).strength(.1),
+                        d3.forceCenter(-250, 0),
                         d => d.pdb === '6M0J'))
-                .force("by",
+                .force("b_radial",
                     isolate(
-                        d3.forceY(0).strength(.1),
+                        d3.forceRadial(150, 250, 0),
                         d => d.pdb === '2AJF'))
-                .force("x", d3.forceX().strength(0.1))
-                .force("y", d3.forceY().strength(0.1));
+                .force("b_center",
+                    isolate(
+                        d3.forceCenter(250, 0),
+                        d => d.pdb === '2AJF'));
 
 
             const svg = d3.select(chartId)
@@ -109,12 +114,27 @@
                 .call(drag(simulation))
                 .on("click", function (d) {
                     selectNodes(d.name);
+                    simulation
+                        .force("select_ax",
+                            isolate(
+                                d3.forceX(-250).strength(0.5),
+                                d => d.selected == true && d.pdb === '6M0J'))
+                        .force("select_bx",
+                            isolate(
+                                d3.forceX(250).strength(0.5),
+                                d => d.selected == true && d.pdb === '2AJF'))
+                        .force("select_y",
+                            isolate(
+                                d3.forceY(0).strength(0.5),
+                                d => d.selected == true))
+                        .alpha(0.7)
+                        .restart();
                 });
 
             const circle = node.append("circle")
-                .attr("r", d => 5 * Math.sqrt(Math.sqrt(d.bonds)))
+                .attr("r", d => 5 * Math.sqrt(d.bonds))
                 .attr("fill", d => {
-                    if      (d.chain === 'A') {
+                    if (d.chain === 'A') {
                         return '#124E78';
                     }
                     else if (d.chain === 'E') {
@@ -150,7 +170,6 @@
                 text
                     .attr("x", d => d.x * scale + textOffset)
                     .attr("y", d => d.y * scale);
-
                 circle
                     .attr("cx", d => d.x * scale)
                     .attr("cy", d => d.y * scale);
@@ -160,6 +179,17 @@
                 var initialize = force.initialize;
                 force.initialize = function () { initialize.call(force, nodes.filter(filter)); };
                 return force;
+            }
+
+            function selectNodes(node) {
+                for (i = 0; i < nodes.length; i++) {
+                    if (nodes[i].name == node) {
+                        nodes[i].selected = true;
+                    }
+                    else {
+                        nodes[i].selected = false;
+                    }
+                }
             }
 
             return svg.node();

@@ -1,191 +1,672 @@
 {
   "nodes": [
     {
-      "id": 116,
+      "pdb": "cov2",
+      "id": "cov2_172",
       "chain": "E",
-      "resnum": 449,
+      "resnum": 505,
       "aa": "TYR",
-      "name": "E449_TYR",
-      "bonds": 2
+      "name": "E505_TYR",
+      "bonds": 53
     },
     {
-      "id": 84,
-      "chain": "E",
-      "resnum": 417,
-      "aa": "LYS",
-      "name": "E417_LYS",
-      "bonds": 1
-    },
-    {
-      "id": 120,
-      "chain": "E",
-      "resnum": 453,
-      "aa": "TYR",
-      "name": "E453_TYR",
-      "bonds": 1
-    },
-    {
-      "id": 154,
-      "chain": "E",
-      "resnum": 487,
-      "aa": "ASN",
-      "name": "E487_ASN",
-      "bonds": 1
-    },
-    {
-      "id": 160,
-      "chain": "E",
-      "resnum": 493,
-      "aa": "GLN",
-      "name": "E493_GLN",
-      "bonds": 1
-    },
-    {
-      "id": 165,
-      "chain": "E",
-      "resnum": 498,
-      "aa": "GLN",
-      "name": "E498_GLN",
-      "bonds": 1
-    },
-    {
-      "id": 167,
+      "pdb": "cov2",
+      "id": "cov2_167",
       "chain": "E",
       "resnum": 500,
       "aa": "THR",
       "name": "E500_THR",
-      "bonds": 1
+      "bonds": 39
     },
     {
-      "id": 169,
+      "pdb": "cov2",
+      "id": "cov2_168",
+      "chain": "E",
+      "resnum": 501,
+      "aa": "ASN",
+      "name": "E501_ASN",
+      "bonds": 38
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_153",
+      "chain": "E",
+      "resnum": 486,
+      "aa": "PHE",
+      "name": "E486_PHE",
+      "bonds": 37
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_156",
+      "chain": "E",
+      "resnum": 489,
+      "aa": "TYR",
+      "name": "E489_TYR",
+      "bonds": 36
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_165",
+      "chain": "E",
+      "resnum": 498,
+      "aa": "GLN",
+      "name": "E498_GLN",
+      "bonds": 29
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_122",
+      "chain": "E",
+      "resnum": 455,
+      "aa": "LEU",
+      "name": "E455_LEU",
+      "bonds": 24
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_154",
+      "chain": "E",
+      "resnum": 487,
+      "aa": "ASN",
+      "name": "E487_ASN",
+      "bonds": 24
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_123",
+      "chain": "E",
+      "resnum": 456,
+      "aa": "PHE",
+      "name": "E456_PHE",
+      "bonds": 22
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_169",
       "chain": "E",
       "resnum": 502,
       "aa": "GLY",
       "name": "E502_GLY",
+      "bonds": 16
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_160",
+      "chain": "E",
+      "resnum": 493,
+      "aa": "GLN",
+      "name": "E493_GLN",
+      "bonds": 14
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_116",
+      "chain": "E",
+      "resnum": 449,
+      "aa": "TYR",
+      "name": "E449_TYR",
+      "bonds": 13
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_120",
+      "chain": "E",
+      "resnum": 453,
+      "aa": "TYR",
+      "name": "E453_TYR",
+      "bonds": 9
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_142",
+      "chain": "E",
+      "resnum": 475,
+      "aa": "ALA",
+      "name": "E475_ALA",
+      "bonds": 9
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_163",
+      "chain": "E",
+      "resnum": 496,
+      "aa": "GLY",
+      "name": "E496_GLY",
+      "bonds": 9
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_84",
+      "chain": "E",
+      "resnum": 417,
+      "aa": "LYS",
+      "name": "E417_LYS",
+      "bonds": 7
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_113",
+      "chain": "E",
+      "resnum": 446,
+      "aa": "GLY",
+      "name": "E446_GLY",
+      "bonds": 6
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_143",
+      "chain": "E",
+      "resnum": 476,
+      "aa": "GLY",
+      "name": "E476_GLY",
+      "bonds": 4
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_151",
+      "chain": "E",
+      "resnum": 484,
+      "aa": "GLU",
+      "name": "E484_GLU",
+      "bonds": 2
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_114",
+      "chain": "E",
+      "resnum": 447,
+      "aa": "GLY",
+      "name": "E447_GLY",
       "bonds": 1
     },
     {
-      "id": 215,
+      "pdb": "cov2",
+      "id": "cov2_140",
+      "chain": "E",
+      "resnum": 473,
+      "aa": "TYR",
+      "name": "E473_TYR",
+      "bonds": 1
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_204",
+      "chain": "A",
+      "resnum": 19,
+      "aa": "SER",
+      "name": "A19_SER",
+      "bonds": 1
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_578",
+      "chain": "A",
+      "resnum": 393,
+      "aa": "ARG",
+      "name": "A393_ARG",
+      "bonds": 2
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_230",
+      "chain": "A",
+      "resnum": 45,
+      "aa": "LEU",
+      "name": "A45_LEU",
+      "bonds": 3
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_220",
+      "chain": "A",
+      "resnum": 35,
+      "aa": "GLU",
+      "name": "A35_GLU",
+      "bonds": 4
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_264",
+      "chain": "A",
+      "resnum": 79,
+      "aa": "LEU",
+      "name": "A79_LEU",
+      "bonds": 6
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_542",
+      "chain": "A",
+      "resnum": 357,
+      "aa": "ARG",
+      "name": "A357_ARG",
+      "bonds": 6
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_515",
+      "chain": "A",
+      "resnum": 330,
+      "aa": "ASN",
+      "name": "A330_ASN",
+      "bonds": 8
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_222",
+      "chain": "A",
+      "resnum": 37,
+      "aa": "GLU",
+      "name": "A37_GLU",
+      "bonds": 8
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_213",
+      "chain": "A",
+      "resnum": 28,
+      "aa": "PHE",
+      "name": "A28_PHE",
+      "bonds": 9
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_267",
+      "chain": "A",
+      "resnum": 82,
+      "aa": "MET",
+      "name": "A82_MET",
+      "bonds": 10
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_539",
+      "chain": "A",
+      "resnum": 354,
+      "aa": "GLY",
+      "name": "A354_GLY",
+      "bonds": 14
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_215",
       "chain": "A",
       "resnum": 30,
       "aa": "ASP",
       "name": "A30_ASP",
-      "bonds": 1
+      "bonds": 17
     },
     {
-      "id": 223,
+      "pdb": "cov2",
+      "id": "cov2_223",
       "chain": "A",
       "resnum": 38,
       "aa": "ASP",
       "name": "A38_ASP",
-      "bonds": 1
+      "bonds": 17
     },
     {
-      "id": 219,
+      "pdb": "cov2",
+      "id": "cov2_540",
       "chain": "A",
-      "resnum": 34,
-      "aa": "HIS",
-      "name": "A34_HIS",
-      "bonds": 1
+      "resnum": 355,
+      "aa": "ASP",
+      "name": "A355_ASP",
+      "bonds": 17
     },
     {
-      "id": 268,
-      "chain": "A",
-      "resnum": 83,
-      "aa": "TYR",
-      "name": "A83_TYR",
-      "bonds": 1
-    },
-    {
-      "id": 209,
-      "chain": "A",
-      "resnum": 24,
-      "aa": "GLN",
-      "name": "A24_GLN",
-      "bonds": 1
-    },
-    {
-      "id": 216,
-      "chain": "A",
-      "resnum": 31,
-      "aa": "LYS",
-      "name": "A31_LYS",
-      "bonds": 1
-    },
-    {
-      "id": 226,
-      "chain": "A",
-      "resnum": 41,
-      "aa": "TYR",
-      "name": "A41_TYR",
-      "bonds": 1
-    },
-    {
-      "id": 538,
-      "chain": "A",
-      "resnum": 353,
-      "aa": "LYS",
-      "name": "A353_LYS",
-      "bonds": 1
-    },
-    {
-      "id": 227,
+      "pdb": "cov2",
+      "id": "cov2_227",
       "chain": "A",
       "resnum": 42,
       "aa": "GLN",
       "name": "A42_GLN",
-      "bonds": 2
+      "bonds": 20
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_219",
+      "chain": "A",
+      "resnum": 34,
+      "aa": "HIS",
+      "name": "A34_HIS",
+      "bonds": 23
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_209",
+      "chain": "A",
+      "resnum": 24,
+      "aa": "GLN",
+      "name": "A24_GLN",
+      "bonds": 25
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_212",
+      "chain": "A",
+      "resnum": 27,
+      "aa": "THR",
+      "name": "A27_THR",
+      "bonds": 26
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_216",
+      "chain": "A",
+      "resnum": 31,
+      "aa": "LYS",
+      "name": "A31_LYS",
+      "bonds": 28
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_268",
+      "chain": "A",
+      "resnum": 83,
+      "aa": "TYR",
+      "name": "A83_TYR",
+      "bonds": 29
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_226",
+      "chain": "A",
+      "resnum": 41,
+      "aa": "TYR",
+      "name": "A41_TYR",
+      "bonds": 38
+    },
+    {
+      "pdb": "cov2",
+      "id": "cov2_538",
+      "chain": "A",
+      "resnum": 353,
+      "aa": "LYS",
+      "name": "A353_LYS",
+      "bonds": 73
     }
   ],
   "links": [
     {
-      "source": 84,
-      "target": 215,
+      "source": "cov2_172",
+      "target": "cov2_538",
+      "strength": 41
+    },
+    {
+      "source": "cov2_168",
+      "target": "cov2_538",
+      "strength": 24
+    },
+    {
+      "source": "cov2_153",
+      "target": "cov2_268",
+      "strength": 20
+    },
+    {
+      "source": "cov2_154",
+      "target": "cov2_209",
+      "strength": 17
+    },
+    {
+      "source": "cov2_165",
+      "target": "cov2_226",
+      "strength": 17
+    },
+    {
+      "source": "cov2_122",
+      "target": "cov2_219",
+      "strength": 15
+    },
+    {
+      "source": "cov2_153",
+      "target": "cov2_267",
+      "strength": 15
+    },
+    {
+      "source": "cov2_168",
+      "target": "cov2_226",
+      "strength": 15
+    },
+    {
+      "source": "cov2_156",
+      "target": "cov2_212",
+      "strength": 14
+    },
+    {
+      "source": "cov2_156",
+      "target": "cov2_213",
+      "strength": 14
+    },
+    {
+      "source": "cov2_167",
+      "target": "cov2_540",
+      "strength": 14
+    },
+    {
+      "source": "cov2_116",
+      "target": "cov2_223",
+      "strength": 12
+    },
+    {
+      "source": "cov2_123",
+      "target": "cov2_212",
+      "strength": 12
+    },
+    {
+      "source": "cov2_154",
+      "target": "cov2_268",
+      "strength": 12
+    },
+    {
+      "source": "cov2_167",
+      "target": "cov2_226",
+      "strength": 12
+    },
+    {
+      "source": "cov2_120",
+      "target": "cov2_219",
+      "strength": 11
+    },
+    {
+      "source": "cov2_156",
+      "target": "cov2_216",
+      "strength": 11
+    },
+    {
+      "source": "cov2_172",
+      "target": "cov2_222",
+      "strength": 11
+    },
+    {
+      "source": "cov2_160",
+      "target": "cov2_216",
+      "strength": 10
+    },
+    {
+      "source": "cov2_167",
+      "target": "cov2_515",
+      "strength": 10
+    },
+    {
+      "source": "cov2_169",
+      "target": "cov2_539",
+      "strength": 9
+    },
+    {
+      "source": "cov2_113",
+      "target": "cov2_227",
+      "strength": 8
+    },
+    {
+      "source": "cov2_123",
+      "target": "cov2_215",
+      "strength": 8
+    },
+    {
+      "source": "cov2_165",
+      "target": "cov2_227",
+      "strength": 8
+    },
+    {
+      "source": "cov2_84",
+      "target": "cov2_215",
+      "strength": 7
+    },
+    {
+      "source": "cov2_122",
+      "target": "cov2_215",
+      "strength": 7
+    },
+    {
+      "source": "cov2_123",
+      "target": "cov2_216",
+      "strength": 7
+    },
+    {
+      "source": "cov2_142",
+      "target": "cov2_209",
+      "strength": 7
+    },
+    {
+      "source": "cov2_153",
+      "target": "cov2_264",
+      "strength": 7
+    },
+    {
+      "source": "cov2_163",
+      "target": "cov2_538",
+      "strength": 7
+    },
+    {
+      "source": "cov2_167",
+      "target": "cov2_542",
+      "strength": 7
+    },
+    {
+      "source": "cov2_160",
+      "target": "cov2_220",
+      "strength": 6
+    },
+    {
+      "source": "cov2_169",
+      "target": "cov2_538",
+      "strength": 6
+    },
+    {
+      "source": "cov2_172",
+      "target": "cov2_539",
+      "strength": 6
+    },
+    {
+      "source": "cov2_116",
+      "target": "cov2_227",
+      "strength": 5
+    },
+    {
+      "source": "cov2_143",
+      "target": "cov2_209",
+      "strength": 5
+    },
+    {
+      "source": "cov2_163",
+      "target": "cov2_223",
+      "strength": 5
+    },
+    {
+      "source": "cov2_122",
+      "target": "cov2_216",
+      "strength": 4
+    },
+    {
+      "source": "cov2_168",
+      "target": "cov2_540",
+      "strength": 4
+    },
+    {
+      "source": "cov2_169",
+      "target": "cov2_540",
+      "strength": 4
+    },
+    {
+      "source": "cov2_142",
+      "target": "cov2_212",
+      "strength": 3
+    },
+    {
+      "source": "cov2_156",
+      "target": "cov2_268",
+      "strength": 3
+    },
+    {
+      "source": "cov2_165",
+      "target": "cov2_223",
+      "strength": 3
+    },
+    {
+      "source": "cov2_165",
+      "target": "cov2_538",
+      "strength": 3
+    },
+    {
+      "source": "cov2_172",
+      "target": "cov2_578",
+      "strength": 3
+    },
+    {
+      "source": "cov2_114",
+      "target": "cov2_227",
+      "strength": 2
+    },
+    {
+      "source": "cov2_140",
+      "target": "cov2_212",
+      "strength": 2
+    },
+    {
+      "source": "cov2_151",
+      "target": "cov2_216",
+      "strength": 2
+    },
+    {
+      "source": "cov2_153",
+      "target": "cov2_209",
+      "strength": 2
+    },
+    {
+      "source": "cov2_165",
+      "target": "cov2_230",
+      "strength": 2
+    },
+    {
+      "source": "cov2_167",
+      "target": "cov2_230",
+      "strength": 2
+    },
+    {
+      "source": "cov2_168",
+      "target": "cov2_539",
+      "strength": 2
+    },
+    {
+      "source": "cov2_84",
+      "target": "cov2_219",
       "strength": 1
     },
     {
-      "source": 116,
-      "target": 223,
+      "source": "cov2_142",
+      "target": "cov2_204",
       "strength": 1
     },
     {
-      "source": 116,
-      "target": 227,
+      "source": "cov2_156",
+      "target": "cov2_209",
       "strength": 1
     },
     {
-      "source": 120,
-      "target": 219,
-      "strength": 1
-    },
-    {
-      "source": 154,
-      "target": 268,
-      "strength": 1
-    },
-    {
-      "source": 154,
-      "target": 209,
-      "strength": 1
-    },
-    {
-      "source": 160,
-      "target": 216,
-      "strength": 1
-    },
-    {
-      "source": 165,
-      "target": 227,
-      "strength": 1
-    },
-    {
-      "source": 167,
-      "target": 226,
-      "strength": 1
-    },
-    {
-      "source": 169,
-      "target": 538,
+      "source": "cov2_160",
+      "target": "cov2_219",
       "strength": 1
     }
   ]
