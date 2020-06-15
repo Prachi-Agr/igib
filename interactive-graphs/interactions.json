@@ -2,7 +2,7 @@
   "nodes": [
     {
       "pdb": "2AJF",
-      "id": "cov1291",
+      "id": "cov_1291",
       "chain": "E",
       "resnum": 426,
       "aa": "ARG",
@@ -11,47 +11,47 @@
     },
     {
       "pdb": "2AJF",
-      "id": "cov1301",
+      "id": "cov_1301",
       "chain": "E",
       "resnum": 436,
       "aa": "TYR",
       "name": "E436_TYR",
       "bonds": 1,
-      "corresp": 0
+      "corresp": "spike_0"
     },
     {
       "pdb": "2AJF",
-      "id": "cov1338",
+      "id": "cov_1338",
       "chain": "E",
       "resnum": 473,
       "aa": "ASN",
       "name": "E473_ASN",
       "bonds": 1,
-      "corresp": 1
+      "corresp": "spike_1"
     },
     {
       "pdb": "2AJF",
-      "id": "cov1351",
+      "id": "cov_1351",
       "chain": "E",
       "resnum": 486,
       "aa": "THR",
       "name": "E486_THR",
       "bonds": 1,
-      "corresp": 2
+      "corresp": "spike_2"
     },
     {
       "pdb": "2AJF",
-      "id": "cov1353",
+      "id": "cov_1353",
       "chain": "E",
       "resnum": 488,
       "aa": "GLY",
       "name": "E488_GLY",
       "bonds": 1,
-      "corresp": 3
+      "corresp": "spike_3"
     },
     {
       "pdb": "2AJF",
-      "id": "cov310",
+      "id": "cov_310",
       "chain": "A",
       "resnum": 329,
       "aa": "GLU",
@@ -60,37 +60,37 @@
     },
     {
       "pdb": "2AJF",
-      "id": "cov23",
+      "id": "cov_23",
       "chain": "A",
       "resnum": 42,
       "aa": "GLN",
       "name": "A42_GLN",
       "bonds": 1,
-      "corresp": 0
+      "corresp": "recep_0"
     },
     {
       "pdb": "2AJF",
-      "id": "cov5",
+      "id": "cov_5",
       "chain": "A",
       "resnum": 24,
       "aa": "GLN",
       "name": "A24_GLN",
       "bonds": 1,
-      "corresp": 1
+      "corresp": "recep_1"
     },
     {
       "pdb": "2AJF",
-      "id": "cov64",
+      "id": "cov_64",
       "chain": "A",
       "resnum": 83,
       "aa": "TYR",
       "name": "A83_TYR",
       "bonds": 1,
-      "corresp": 2
+      "corresp": "recep_2"
     },
     {
       "pdb": "2AJF",
-      "id": "cov311",
+      "id": "cov_311",
       "chain": "A",
       "resnum": 330,
       "aa": "ASN",
@@ -99,27 +99,27 @@
     },
     {
       "pdb": "2AJF",
-      "id": "cov22",
+      "id": "cov_22",
       "chain": "A",
       "resnum": 41,
       "aa": "TYR",
       "name": "A41_TYR",
       "bonds": 1,
-      "corresp": 3
+      "corresp": "recep_3"
     },
     {
       "pdb": "2AJF",
-      "id": "cov334",
+      "id": "cov_334",
       "chain": "A",
       "resnum": 353,
       "aa": "LYS",
       "name": "A353_LYS",
       "bonds": 1,
-      "corresp": 4
+      "corresp": "recep_4"
     },
     {
       "pdb": "6M0J",
-      "id": "cov2681",
+      "id": "cov2_681",
       "chain": "E",
       "resnum": 417,
       "aa": "LYS",
@@ -128,17 +128,17 @@
     },
     {
       "pdb": "6M0J",
-      "id": "cov2713",
+      "id": "cov2_713",
       "chain": "E",
       "resnum": 449,
       "aa": "TYR",
       "name": "E449_TYR",
       "bonds": 1,
-      "corresp": 0
+      "corresp": "spike_0"
     },
     {
       "pdb": "6M0J",
-      "id": "cov2717",
+      "id": "cov2_717",
       "chain": "E",
       "resnum": 453,
       "aa": "TYR",
@@ -147,17 +147,17 @@
     },
     {
       "pdb": "6M0J",
-      "id": "cov2751",
+      "id": "cov2_751",
       "chain": "E",
       "resnum": 487,
       "aa": "ASN",
       "name": "E487_ASN",
       "bonds": 1,
-      "corresp": 1
+      "corresp": "spike_1"
     },
     {
       "pdb": "6M0J",
-      "id": "cov2757",
+      "id": "cov2_757",
       "chain": "E",
       "resnum": 493,
       "aa": "GLN",
@@ -166,7 +166,7 @@
     },
     {
       "pdb": "6M0J",
-      "id": "cov2762",
+      "id": "cov2_762",
       "chain": "E",
       "resnum": 498,
       "aa": "GLN",
@@ -175,27 +175,27 @@
     },
     {
       "pdb": "6M0J",
-      "id": "cov2764",
+      "id": "cov2_764",
       "chain": "E",
       "resnum": 500,
       "aa": "THR",
       "name": "E500_THR",
       "bonds": 1,
-      "corresp": 2
+      "corresp": "spike_2"
     },
     {
       "pdb": "6M0J",
-      "id": "cov2766",
+      "id": "cov2_766",
       "chain": "E",
       "resnum": 502,
       "aa": "GLY",
       "name": "E502_GLY",
       "bonds": 1,
-      "corresp": 3
+      "corresp": "spike_3"
     },
     {
       "pdb": "6M0J",
-      "id": "cov211",
+      "id": "cov2_11",
       "chain": "A",
       "resnum": 30,
       "aa": "ASP",
@@ -204,17 +204,17 @@
     },
     {
       "pdb": "6M0J",
-      "id": "cov223",
+      "id": "cov2_23",
       "chain": "A",
       "resnum": 42,
       "aa": "GLN",
       "name": "A42_GLN",
       "bonds": 1,
-      "corresp": 0
+      "corresp": "recep_0"
     },
     {
       "pdb": "6M0J",
-      "id": "cov219",
+      "id": "cov2_19",
       "chain": "A",
       "resnum": 38,
       "aa": "ASP",
@@ -223,7 +223,7 @@
     },
     {
       "pdb": "6M0J",
-      "id": "cov215",
+      "id": "cov2_15",
       "chain": "A",
       "resnum": 34,
       "aa": "HIS",
@@ -232,27 +232,27 @@
     },
     {
       "pdb": "6M0J",
-      "id": "cov264",
+      "id": "cov2_64",
       "chain": "A",
       "resnum": 83,
       "aa": "TYR",
       "name": "A83_TYR",
       "bonds": 1,
-      "corresp": 2
+      "corresp": "recep_2"
     },
     {
       "pdb": "6M0J",
-      "id": "cov25",
+      "id": "cov2_5",
       "chain": "A",
       "resnum": 24,
       "aa": "GLN",
       "name": "A24_GLN",
       "bonds": 1,
-      "corresp": 1
+      "corresp": "recep_1"
     },
     {
       "pdb": "6M0J",
-      "id": "cov212",
+      "id": "cov2_12",
       "chain": "A",
       "resnum": 31,
       "aa": "LYS",
@@ -261,109 +261,109 @@
     },
     {
       "pdb": "6M0J",
-      "id": "cov222",
+      "id": "cov2_22",
       "chain": "A",
       "resnum": 41,
       "aa": "TYR",
       "name": "A41_TYR",
       "bonds": 1,
-      "corresp": 3
+      "corresp": "recep_3"
     },
     {
       "pdb": "6M0J",
-      "id": "cov2334",
+      "id": "cov2_334",
       "chain": "A",
       "resnum": 353,
       "aa": "LYS",
       "name": "A353_LYS",
       "bonds": 1,
-      "corresp": 4
+      "corresp": "recep_4"
     }
   ],
   "links": [
     {
-      "source": "cov1291",
-      "target": "cov310",
+      "source": "cov_1291",
+      "target": "cov_310",
       "strength": 1
     },
     {
-      "source": "cov1301",
-      "target": "cov23",
+      "source": "cov_1301",
+      "target": "cov_23",
       "strength": 1
     },
     {
-      "source": "cov1338",
-      "target": "cov5",
+      "source": "cov_1338",
+      "target": "cov_5",
       "strength": 1
     },
     {
-      "source": "cov1338",
-      "target": "cov64",
+      "source": "cov_1338",
+      "target": "cov_64",
       "strength": 1
     },
     {
-      "source": "cov1351",
-      "target": "cov311",
+      "source": "cov_1351",
+      "target": "cov_311",
       "strength": 1
     },
     {
-      "source": "cov1351",
-      "target": "cov22",
+      "source": "cov_1351",
+      "target": "cov_22",
       "strength": 1
     },
     {
-      "source": "cov1353",
-      "target": "cov334",
+      "source": "cov_1353",
+      "target": "cov_334",
       "strength": 1
     },
     {
-      "source": "cov2681",
-      "target": "cov211",
+      "source": "cov2_681",
+      "target": "cov2_11",
       "strength": 1
     },
     {
-      "source": "cov2713",
-      "target": "cov223",
+      "source": "cov2_713",
+      "target": "cov2_23",
       "strength": 1
     },
     {
-      "source": "cov2713",
-      "target": "cov219",
+      "source": "cov2_713",
+      "target": "cov2_19",
       "strength": 1
     },
     {
-      "source": "cov2717",
-      "target": "cov215",
+      "source": "cov2_717",
+      "target": "cov2_15",
       "strength": 1
     },
     {
-      "source": "cov2751",
-      "target": "cov264",
+      "source": "cov2_751",
+      "target": "cov2_64",
       "strength": 1
     },
     {
-      "source": "cov2751",
-      "target": "cov25",
+      "source": "cov2_751",
+      "target": "cov2_5",
       "strength": 1
     },
     {
-      "source": "cov2757",
-      "target": "cov212",
+      "source": "cov2_757",
+      "target": "cov2_12",
       "strength": 1
     },
     {
-      "source": "cov2762",
-      "target": "cov223",
+      "source": "cov2_762",
+      "target": "cov2_23",
       "strength": 1
     },
     {
-      "source": "cov2764",
-      "target": "cov222",
+      "source": "cov2_764",
+      "target": "cov2_22",
       "strength": 1
     },
     {
-      "source": "cov2766",
-      "target": "cov2334",
+      "source": "cov2_766",
+      "target": "cov2_334",
       "strength": 1
     }
   ]
