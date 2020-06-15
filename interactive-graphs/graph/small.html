@@ -49,19 +49,19 @@
                 .force("a_radial",
                     isolate(
                         d3.forceRadial(150, -250, 0),
-                        d => d.pdb === 'cov2'))
+                        d => d.pdb === '6M0J'))
                 .force("a_center",
                     isolate(
                         d3.forceCenter(-250, 0),
-                        d => d.pdb === 'cov2'))
+                        d => d.pdb === '6M0J'))
                 .force("b_radial",
                     isolate(
                         d3.forceRadial(150, 250, 0),
-                        d => d.pdb === 'cov'))
+                        d => d.pdb === '2AJF'))
                 .force("b_center",
                     isolate(
                         d3.forceCenter(250, 0),
-                        d => d.pdb === 'cov'));
+                        d => d.pdb === '2AJF'));
 
 
             const svg = d3.select(chartId)
@@ -118,11 +118,11 @@
                         .force("select_ax",
                             isolate(
                                 d3.forceX(-250).strength(0.5),
-                                d => d.selected == true && d.pdb === 'cov2'))
+                                d => d.selected == true && d.pdb === '6M0J'))
                         .force("select_bx",
                             isolate(
                                 d3.forceX(250).strength(0.5),
-                                d => d.selected == true && d.pdb === 'cov'))
+                                d => d.selected == true && d.pdb === '2AJF'))
                         .force("select_y",
                             isolate(
                                 d3.forceY(0).strength(0.5),
