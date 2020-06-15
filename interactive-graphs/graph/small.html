@@ -117,15 +117,15 @@
                     simulation
                         .force("select_ax",
                             isolate(
-                                d3.forceX(-250).strength(0.5),
+                                d3.forceX(-250).strength(1),
                                 d => d.selected == true && d.pdb === '6M0J'))
                         .force("select_bx",
                             isolate(
-                                d3.forceX(250).strength(0.5),
+                                d3.forceX(250).strength(1),
                                 d => d.selected == true && d.pdb === '2AJF'))
                         .force("select_y",
                             isolate(
-                                d3.forceY(0).strength(0.5),
+                                d3.forceY(0).strength(1),
                                 d => d.selected == true))
                         .alpha(0.7)
                         .restart();
@@ -182,9 +182,10 @@
             }
 
             function selectNodes(node) {
-                console.log(node);
-                console.log(typeof node !== 'undefined');
+                document.querySelector(".node").classList.remove('selected');
                 if (typeof node !== 'undefined') {
+                    document.querySelector(".node." + node).classList.add('selected');
+
                     for (i = 0; i < nodes.length; i++) {
                         if (nodes[i].corresp == node) {
                             nodes[i].selected = true;

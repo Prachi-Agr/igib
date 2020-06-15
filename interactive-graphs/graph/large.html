@@ -2,14 +2,45 @@
 <html>
 
 <head>
-    <link rel="stylesheet" href="bootstrap.min.css">
+    <!-- <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script> -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+        integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+        crossorigin="anonymous"></script> -->
 
     <script src="d3.min.js"></script>
+
+    <style>
+        text {
+            opacity: 0.5;
+        }
+
+        circle:hover~text {
+            opacity: 1;
+            font-weight: bold;
+        }
+
+        .selected text {
+            opacity: 1;
+            font-weight: bold;
+        }
+
+        .alert {
+            display: none;
+        }
+    </style>
 </head>
 
 <body>
     <div class="container mt-5">
         <h2>Force Directed Graphs to Compare Interactions in 6M0J and 2AJF</h1>
+            <div class="alert">hello</div>
             <div id="graph"></div>
     </div>
 
@@ -33,8 +64,7 @@
             const links = data.links.map(d => Object.create(d));
             const nodes = data.nodes.map(d => Object.create(d));
 
-            for (i = 0; i < nodes.length; i++)
-            {
+            for (i = 0; i < nodes.length; i++) {
                 nodes[i].selected = false;
             }
 
@@ -42,10 +72,10 @@
                 .force("link", d3.forceLink(links).id(d => d.id)
                     .strength(1.5))
                 .force("charge", d3.forceManyBody()
-                    .strength(-200))
+                    .strength(-50))
                 // .force("x", d3.forceX().strength(0.0005))
                 // .force("y", d3.forceY().strength(0.0005))
-                .force("charge", d3.forceCollide().radius(10))
+                .force("charge2", d3.forceCollide().radius(20))
                 .force("a_radial",
                     isolate(
                         d3.forceRadial(150, -250, 0),
@@ -117,15 +147,15 @@
                     simulation
                         .force("select_ax",
                             isolate(
-                                d3.forceX(-250).strength(0.5),
+                                d3.forceX(-250).strength(3),
                                 d => d.selected == true && d.pdb === '6M0J'))
                         .force("select_bx",
                             isolate(
-                                d3.forceX(250).strength(0.5),
+                                d3.forceX(250).strength(3),
                                 d => d.selected == true && d.pdb === '2AJF'))
                         .force("select_y",
                             isolate(
-                                d3.forceY(0).strength(0.5),
+                                d3.forceY(0).strength(3),
                                 d => d.selected == true))
                         .alpha(0.7)
                         .restart();
@@ -182,9 +212,15 @@
             }
 
             function selectNodes(node) {
-                console.log(node);
-                console.log(typeof node !== 'undefined');
+                node_list = document.querySelectorAll(".node.selected")
+                for (i = 0; i < node_list.length; i++) {
+                    node_list[i].classList.remove('selected');
+                }
                 if (typeof node !== 'undefined') {
+                    node_list = document.querySelectorAll(".node." + node)
+                    for (i = 0; i < node_list.length; i++) {
+                        node_list[i].classList.add('selected');
+                    }
                     for (i = 0; i < nodes.length; i++) {
                         if (nodes[i].corresp == node) {
                             nodes[i].selected = true;
@@ -209,7 +245,11 @@
             .json('https://raw.githubusercontent.com/ballaneypranav/igib/master/interactive-graphs/graph/large-interactions.json')
             .then(function (data) {
                 drawGraph(data, '#graph', 'tooltip1');
+                // $(".undefined").click(function() {
+                //     $(".alert").css("display", "block");
+                // })
             });
+
 
     </script>
 </body>
