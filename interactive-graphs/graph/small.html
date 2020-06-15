@@ -110,7 +110,7 @@
                 .selectAll(".node")
                 .data(nodes)
                 .join("g")
-                .attr("class", d => "node " + d.name)
+                .attr("class", d => "node " + d.corresp)
                 .call(drag(simulation))
                 .on("click", function (d) {
                     selectNodes(d.name);
@@ -197,7 +197,7 @@
 
 
         var data = d3
-            .json('https://raw.githubusercontent.com/ballaneypranav/igib/master/interactive-graphs/graph/2AJF-6M0J.json')
+            .json('https://raw.githubusercontent.com/ballaneypranav/igib/master/interactive-graphs/graph/small-interactions.json')
             .then(function (data) {
                 drawGraph(data, '#graph', 'tooltip1');
             });
