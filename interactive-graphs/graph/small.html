@@ -48,7 +48,7 @@
                 .force("charge", d3.forceCollide().radius(10))
                 .force("a_radial",
                     isolate(
-                        d3.forceRadial(150, -250, 0),
+                        d3.forceRadial(50, -250, 0),
                         d => d.pdb === '6M0J'))
                 .force("a_center",
                     isolate(
@@ -56,7 +56,7 @@
                         d => d.pdb === '6M0J'))
                 .force("b_radial",
                     isolate(
-                        d3.forceRadial(150, 250, 0),
+                        d3.forceRadial(50, 250, 0),
                         d => d.pdb === '2AJF'))
                 .force("b_center",
                     isolate(

@@ -2,7 +2,7 @@
   "nodes": [
     {
       "pdb": "2AJF",
-      "id": 1291,
+      "id": "cov1291",
       "chain": "E",
       "resnum": 426,
       "aa": "ARG",
@@ -11,7 +11,7 @@
     },
     {
       "pdb": "2AJF",
-      "id": 1301,
+      "id": "cov1301",
       "chain": "E",
       "resnum": 436,
       "aa": "TYR",
@@ -21,27 +21,27 @@
     },
     {
       "pdb": "2AJF",
-      "id": 1338,
+      "id": "cov1338",
       "chain": "E",
       "resnum": 473,
       "aa": "ASN",
       "name": "E473_ASN",
-      "bonds": 2,
+      "bonds": 1,
       "corresp": 1
     },
     {
       "pdb": "2AJF",
-      "id": 1351,
+      "id": "cov1351",
       "chain": "E",
       "resnum": 486,
       "aa": "THR",
       "name": "E486_THR",
-      "bonds": 2,
+      "bonds": 1,
       "corresp": 2
     },
     {
       "pdb": "2AJF",
-      "id": 1353,
+      "id": "cov1353",
       "chain": "E",
       "resnum": 488,
       "aa": "GLY",
@@ -51,7 +51,7 @@
     },
     {
       "pdb": "2AJF",
-      "id": 310,
+      "id": "cov310",
       "chain": "A",
       "resnum": 329,
       "aa": "GLU",
@@ -60,7 +60,7 @@
     },
     {
       "pdb": "2AJF",
-      "id": 23,
+      "id": "cov23",
       "chain": "A",
       "resnum": 42,
       "aa": "GLN",
@@ -70,7 +70,7 @@
     },
     {
       "pdb": "2AJF",
-      "id": 5,
+      "id": "cov5",
       "chain": "A",
       "resnum": 24,
       "aa": "GLN",
@@ -80,7 +80,7 @@
     },
     {
       "pdb": "2AJF",
-      "id": 64,
+      "id": "cov64",
       "chain": "A",
       "resnum": 83,
       "aa": "TYR",
@@ -90,7 +90,7 @@
     },
     {
       "pdb": "2AJF",
-      "id": 311,
+      "id": "cov311",
       "chain": "A",
       "resnum": 330,
       "aa": "ASN",
@@ -99,7 +99,7 @@
     },
     {
       "pdb": "2AJF",
-      "id": 22,
+      "id": "cov22",
       "chain": "A",
       "resnum": 41,
       "aa": "TYR",
@@ -109,7 +109,7 @@
     },
     {
       "pdb": "2AJF",
-      "id": 334,
+      "id": "cov334",
       "chain": "A",
       "resnum": 353,
       "aa": "LYS",
@@ -119,7 +119,7 @@
     },
     {
       "pdb": "6M0J",
-      "id": 681,
+      "id": "cov2681",
       "chain": "E",
       "resnum": 417,
       "aa": "LYS",
@@ -128,17 +128,17 @@
     },
     {
       "pdb": "6M0J",
-      "id": 713,
+      "id": "cov2713",
       "chain": "E",
       "resnum": 449,
       "aa": "TYR",
       "name": "E449_TYR",
-      "bonds": 2,
+      "bonds": 1,
       "corresp": 0
     },
     {
       "pdb": "6M0J",
-      "id": 717,
+      "id": "cov2717",
       "chain": "E",
       "resnum": 453,
       "aa": "TYR",
@@ -147,17 +147,17 @@
     },
     {
       "pdb": "6M0J",
-      "id": 751,
+      "id": "cov2751",
       "chain": "E",
       "resnum": 487,
       "aa": "ASN",
       "name": "E487_ASN",
-      "bonds": 2,
+      "bonds": 1,
       "corresp": 1
     },
     {
       "pdb": "6M0J",
-      "id": 757,
+      "id": "cov2757",
       "chain": "E",
       "resnum": 493,
       "aa": "GLN",
@@ -166,7 +166,7 @@
     },
     {
       "pdb": "6M0J",
-      "id": 762,
+      "id": "cov2762",
       "chain": "E",
       "resnum": 498,
       "aa": "GLN",
@@ -175,7 +175,7 @@
     },
     {
       "pdb": "6M0J",
-      "id": 764,
+      "id": "cov2764",
       "chain": "E",
       "resnum": 500,
       "aa": "THR",
@@ -185,7 +185,7 @@
     },
     {
       "pdb": "6M0J",
-      "id": 766,
+      "id": "cov2766",
       "chain": "E",
       "resnum": 502,
       "aa": "GLY",
@@ -195,7 +195,7 @@
     },
     {
       "pdb": "6M0J",
-      "id": 11,
+      "id": "cov211",
       "chain": "A",
       "resnum": 30,
       "aa": "ASP",
@@ -204,17 +204,17 @@
     },
     {
       "pdb": "6M0J",
-      "id": 23,
+      "id": "cov223",
       "chain": "A",
       "resnum": 42,
       "aa": "GLN",
       "name": "A42_GLN",
-      "bonds": 2,
+      "bonds": 1,
       "corresp": 0
     },
     {
       "pdb": "6M0J",
-      "id": 19,
+      "id": "cov219",
       "chain": "A",
       "resnum": 38,
       "aa": "ASP",
@@ -223,7 +223,7 @@
     },
     {
       "pdb": "6M0J",
-      "id": 15,
+      "id": "cov215",
       "chain": "A",
       "resnum": 34,
       "aa": "HIS",
@@ -232,7 +232,7 @@
     },
     {
       "pdb": "6M0J",
-      "id": 64,
+      "id": "cov264",
       "chain": "A",
       "resnum": 83,
       "aa": "TYR",
@@ -242,7 +242,7 @@
     },
     {
       "pdb": "6M0J",
-      "id": 5,
+      "id": "cov25",
       "chain": "A",
       "resnum": 24,
       "aa": "GLN",
@@ -252,7 +252,7 @@
     },
     {
       "pdb": "6M0J",
-      "id": 12,
+      "id": "cov212",
       "chain": "A",
       "resnum": 31,
       "aa": "LYS",
@@ -261,7 +261,7 @@
     },
     {
       "pdb": "6M0J",
-      "id": 22,
+      "id": "cov222",
       "chain": "A",
       "resnum": 41,
       "aa": "TYR",
@@ -271,7 +271,7 @@
     },
     {
       "pdb": "6M0J",
-      "id": 334,
+      "id": "cov2334",
       "chain": "A",
       "resnum": 353,
       "aa": "LYS",
@@ -282,88 +282,88 @@
   ],
   "links": [
     {
-      "source": 1291,
-      "target": 310,
+      "source": "cov1291",
+      "target": "cov310",
       "strength": 1
     },
     {
-      "source": 1301,
-      "target": 23,
+      "source": "cov1301",
+      "target": "cov23",
       "strength": 1
     },
     {
-      "source": 1338,
-      "target": 5,
+      "source": "cov1338",
+      "target": "cov5",
       "strength": 1
     },
     {
-      "source": 1338,
-      "target": 64,
+      "source": "cov1338",
+      "target": "cov64",
       "strength": 1
     },
     {
-      "source": 1351,
-      "target": 311,
+      "source": "cov1351",
+      "target": "cov311",
       "strength": 1
     },
     {
-      "source": 1351,
-      "target": 22,
+      "source": "cov1351",
+      "target": "cov22",
       "strength": 1
     },
     {
-      "source": 1353,
-      "target": 334,
+      "source": "cov1353",
+      "target": "cov334",
       "strength": 1
     },
     {
-      "source": 681,
-      "target": 11,
+      "source": "cov2681",
+      "target": "cov211",
       "strength": 1
     },
     {
-      "source": 713,
-      "target": 23,
+      "source": "cov2713",
+      "target": "cov223",
       "strength": 1
     },
     {
-      "source": 713,
-      "target": 19,
+      "source": "cov2713",
+      "target": "cov219",
       "strength": 1
     },
     {
-      "source": 717,
-      "target": 15,
+      "source": "cov2717",
+      "target": "cov215",
       "strength": 1
     },
     {
-      "source": 751,
-      "target": 64,
+      "source": "cov2751",
+      "target": "cov264",
       "strength": 1
     },
     {
-      "source": 751,
-      "target": 5,
+      "source": "cov2751",
+      "target": "cov25",
       "strength": 1
     },
     {
-      "source": 757,
-      "target": 12,
+      "source": "cov2757",
+      "target": "cov212",
       "strength": 1
     },
     {
-      "source": 762,
-      "target": 23,
+      "source": "cov2762",
+      "target": "cov223",
       "strength": 1
     },
     {
-      "source": 764,
-      "target": 22,
+      "source": "cov2764",
+      "target": "cov222",
       "strength": 1
     },
     {
-      "source": 766,
-      "target": 334,
+      "source": "cov2766",
+      "target": "cov2334",
       "strength": 1
     }
   ]
