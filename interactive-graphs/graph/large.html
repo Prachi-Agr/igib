@@ -162,7 +162,7 @@
                 });
 
             const circle = node.append("circle")
-                .attr("r", d => 5 * Math.sqrt(Math.sqrt(d.bonds)))
+                .attr("r", d => 3 * Math.sqrt(Math.sqrt(d.bonds)))
                 .attr("fill", d => {
                     if (d.chain === 'A') {
                         return '#124E78';
